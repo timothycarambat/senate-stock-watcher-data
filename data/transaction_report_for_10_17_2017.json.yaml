@@ -1,0 +1,15 @@
+- bioguide: D000622
+  date_recieved: 10/17/2017
+  first_name: Tammy
+  last_name: Duckworth
+  office: Duckworth, Tammy (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7f8ebdbb-c6d8-4b1f-b3bb-67a1c5b8bc4f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 09/15/2017
+    type: Sale (Full)

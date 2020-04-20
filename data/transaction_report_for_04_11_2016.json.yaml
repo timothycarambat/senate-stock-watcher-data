@@ -1,0 +1,18 @@
+- bioguide: M001183
+  date_recieved: 04/11/2016
+  first_name: Joseph
+  last_name: Manchin, III
+  office: Manchin, Joe (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b1517fb4-0d85-4adb-881d-f199bc5b5beb/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: West Virginia Growth Investment LLC <div class="text-muted">
+      <em>Company:</em> nChannel, Inc. &nbsp;(Columbus, OH) </div> <div class="text-muted"><em>Description:</em>&nbsp;Software
+      company providing cloud-based, multi-channel software for retail companies</div>
+    asset_type: Non-Public Stock
+    comment: Underlying asset of West Virginia Growth Investment LLC - Additional
+      investment in nChannel, Inc.
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/17/2016
+    type: Purchase

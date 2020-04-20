@@ -1,0 +1,185 @@
+- bioguide: C001035
+  date_recieved: 09/07/2018
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/15347698-e3fd-4fad-abe2-e0d9b8a7c4ab/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Maine Health and Higher EDL FACS 5604276F8 <div class="text-muted"><em>Rate/Coupon:</em>
+      5.250%<br> <em>Matures:</em> 07/01/2022</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/17/2018
+    type: Purchase
+- bioguide: P000595
+  date_recieved: 09/07/2018
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c7464613-3777-4c36-8fae-4e18c9680f37/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: HEALTHCARE REALY TR INC 03.875% 050125 DTD042415 <div class="text-muted"><em>Rate/Coupon:</em>
+      03.875%<br> <em>Matures:</em> 05/01/2025</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 08/22/2018
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 09/07/2018
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a131cf90-0d59-4a6f-9581-0fdfc3aa0852/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: CrossAmerica Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CAPL" target="_blank">CAPL</a>
+    transaction_date: 08/22/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: CrossAmerica Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CAPL" target="_blank">CAPL</a>
+    transaction_date: 08/09/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 08/02/2018
+    type: Sale (Partial)
+- bioguide: W000805
+  date_recieved: 09/07/2018
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c343a4f1-121c-42d3-9ef5-f5ab63cbeb81/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Nexamp, Inc. <div class="text-muted"> <em>Company:</em> Nexamp,
+      Inc. &nbsp;(North Andover, MA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Clean
+      Energy Solutions</div>
+    asset_type: Other Securities
+    comment: MGE, LLC - underlying asset of Point Judith Fund II LP. LDC Blind Trust
+      has 26% interest
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/14/2018
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Nexamp, Inc. <div class="text-muted"> <em>Company:</em> Nexamp,
+      Inc. &nbsp;(North Andover, MA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Clean
+      Energy Solutions</div>
+    asset_type: Other Securities
+    comment: MGE, LLC - underlying asset of Point Judith Fund II LP. MRW Blind Trust
+      has 26% interest
+    owner: Self
+    ticker: --
+    transaction_date: 08/14/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Nexamp, Inc. <div class="text-muted"> <em>Company:</em> Nexamp,
+      Inc. &nbsp;(North Andover, MA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Clean
+      Energy Solutions</div>
+    asset_type: Other Securities
+    comment: MGE, LLC - underlying asset of Point Judith Fund III LP. LDC Blind Trust
+      has 26% interest
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/13/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Nexamp, Inc. <div class="text-muted"> <em>Company:</em> Nexamp,
+      Inc. &nbsp;(North Andover, MA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Clean
+      Energy Solutions</div>
+    asset_type: Other Securities
+    comment: MGE, LLC - underlying asset of Point Judith Fund III LP. MRW Blind Trust
+      has 26% interest
+    owner: Self
+    ticker: --
+    transaction_date: 08/13/2018
+    type: Sale (Full)
+- bioguide: W000802
+  date_recieved: 09/07/2018
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f24c72c6-044d-476f-99ad-45e57dc65626/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Alibaba Group Holding Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BABA" target="_blank">BABA</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lam Research Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LRCX" target="_blank">LRCX</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Walmart Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Walmart Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 08/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 08/06/2018
+    type: Purchase

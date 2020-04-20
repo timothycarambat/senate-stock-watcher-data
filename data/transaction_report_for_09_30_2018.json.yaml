@@ -1,0 +1,87 @@
+- bioguide: R000307
+  date_recieved: 09/30/2018
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/263a0113-cdbb-43b8-a994-75fec2fd65c4/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Kohl's Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KSS" target="_blank">KSS</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: tgt
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Northrop Grumman Corporation
+    asset_type: Stock
+    comment: Sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NOC" target="_blank">NOC</a>
+    transaction_date: 09/04/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Northrop Grumman Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NOC" target="_blank">NOC</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Northrop Grumman Corporation
+    asset_type: Stock
+    comment: Sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NOC" target="_blank">NOC</a>
+    transaction_date: 08/28/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: Sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 08/24/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 08/24/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 08/29/2018
+    type: Purchase

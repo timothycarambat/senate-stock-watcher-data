@@ -1,0 +1,33 @@
+- bioguide: K000383
+  date_recieved: 01/19/2016
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5cae926b-a941-4bc9-9a06-df2a6452da46/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Maine St Hsg Auth Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      4.20%<br> <em>Matures:</em> 11/15/2020</div>
+    asset_type: Municipal Security
+    comment: '"Called" Redemption'
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/28/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Kinder Morgan, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KMI" target="_blank">KMI</a>
+    transaction_date: 12/16/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Maine Muni Bond Bank <div class="text-muted"><em>Rate/Coupon:</em>
+      4.25%<br> <em>Matures:</em> 11/01/2017</div>
+    asset_type: Municipal Security
+    comment: '"Called" Redemption'
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/03/2015
+    type: Sale (Full)

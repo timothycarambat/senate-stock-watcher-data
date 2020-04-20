@@ -1,0 +1,111 @@
+- bioguide: M001183
+  date_recieved: 08/03/2016
+  first_name: Joseph
+  last_name: Manchin, III
+  office: Manchin, Joe (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/67f1c0a0-4e02-4b0c-ad06-ca7f4bb14ce2/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: West Virginia Growth Investment LLC <div class="text-muted">
+      <em>Company:</em> PolyPlexx, LLC &nbsp;(Charleston, WV) </div> <div class="text-muted"><em>Description:</em>&nbsp;Chemical
+      process patents</div>
+    asset_type: Non-Public Stock
+    comment: Underlying asset of West Virginia Growth Investment LLC
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/22/2016
+    type: Purchase
+- bioguide: R000307
+  date_recieved: 08/03/2016
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a949fb68-e76b-4de3-a4a4-64462278071f/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 07/08/2016
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 07/08/2016
+    type: Sale (Full)
+- bioguide: S001198
+  date_recieved: 08/03/2016
+  first_name: Daniel S
+  last_name: Sullivan
+  office: Sullivan, Dan (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2370428e-29f1-4129-b870-ec79f89a6518/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: Alaska State General Obligation Bond
+    asset_type: Other Securities
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 09/15/2015
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: SPDR S&amp;P 500 ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 08/17/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: American Funds Tax-Exempt Bond A
+    asset_type: Other Securities
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AFTEX" target="_blank">AFTEX</a>
+    transaction_date: 07/15/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: SPDR S&amp;P 500 ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 05/28/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Industrial Select Sector SPDR ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XLI" target="_blank">XLI</a>
+    transaction_date: 03/27/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P 500 ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 01/28/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: iShares Russell 1000 Value
+    asset_type: Other Securities
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IWD" target="_blank">IWD</a>
+    transaction_date: 01/28/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Industrial Select Sector SPDR ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XLI" target="_blank">XLI</a>
+    transaction_date: 01/28/2015
+    type: Sale (Partial)

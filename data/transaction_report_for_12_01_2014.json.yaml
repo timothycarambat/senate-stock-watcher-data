@@ -1,0 +1,261 @@
+- bioguide: C000141
+  date_recieved: 12/01/2014
+  first_name: Benjamin L
+  last_name: Cardin
+  office: Cardin, Benjamin L. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/45cf909c-75e9-4b12-9786-44138395a6eb/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Israel Bond
+    asset_type: ''
+    comment: matured 12/01/14
+    owner: Joint
+    ticker: --
+    transaction_date: 12/01/2014
+    type: Sale (Full)
+- bioguide: C000174
+  date_recieved: 12/01/2014
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/603dd7a0-d19c-4033-a59f-1b7d38753668/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Seadrill Ltd
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/26/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Boulder Total Return Fund, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BTF" target="_blank">BTF</a>
+    transaction_date: 11/26/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Nike Inc B
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/11/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PowerShares NASDAQ Internet (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PNQI" target="_blank">PNQI</a>
+    transaction_date: 11/11/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Healthcare REIT
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/06/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Medical Properties Trust
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/06/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Omega Healthcare Inv Inc
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/06/2014
+    type: Purchase
+- bioguide: C001035
+  date_recieved: 12/01/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b8079f9b-41e8-4625-bbe3-73f9614af12f/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: MainStay Marketfield C (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MFCDX" target="_blank">MFCDX</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Time Warner Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TWX" target="_blank">TWX</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Texas Instruments Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TXN" target="_blank">TXN</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Teleflex Incorporated (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TFX" target="_blank">TFX</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Stericycle, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SRCL" target="_blank">SRCL</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Henry Schein, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HSIC" target="_blank">HSIC</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Roper Industries Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ROP" target="_blank">ROP</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Raytheon Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RTN" target="_blank">RTN</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Precision Castparts Corp. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PCP" target="_blank">PCP</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: MetLife, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MET" target="_blank">MET</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: E. I. du Pont de Nemours and Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ConocoPhillips (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COP" target="_blank">COP</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amphenol Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=APH" target="_blank">APH</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Alerian MLP ETF (NYSEArca)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMLP" target="_blank">AMLP</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Allstate Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ALL" target="_blank">ALL</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)

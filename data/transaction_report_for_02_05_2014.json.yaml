@@ -1,0 +1,173 @@
+- bioguide: C000174
+  date_recieved: 02/05/2014
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/36948320-9870-418e-9b62-709176af3ab4/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: MIRAE Emerging Markets Fund
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/17/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: I - Shares MSCI EAFE
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/17/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: I - Shares Russell 1000 Value
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/17/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR Trust Series 1
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/17/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: I - Shares S&amp;P Midcap 400
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/17/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: 12% due 10/21/16 JPM Autocall Potash
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/24/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: 8.05% due 1/27/17 UBS Autocall Potash
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/24/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: 12% due 10/21/16 JPM Autocall Potash
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/24/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: 8.05% due 1/27/17 UBS Autocall Potash
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/24/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: 8.05% due 1/26/15 MS Autocall FCX
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/21/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: 9.5% due 10/17/14 JPM Autocall Freeport McMoran
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/16/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: 8.6% due 1/8/15 HSBC Autocall Broadcom
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/03/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: 11.15% due 9/30/16 RBC Autocall Blackstone
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/02/2014
+    type: Sale (Full)
+- bioguide: C001035
+  date_recieved: 02/05/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6aff1c56-7c0a-4767-a697-e9cc97c69c2d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Regeneron Pharmaceuticals, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=REGN" target="_blank">REGN</a>
+    transaction_date: 01/30/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 01/30/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: General Motors Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 01/30/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 01/30/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Honeywell International Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HON" target="_blank">HON</a>
+    transaction_date: 01/30/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CVS Caremark Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 01/30/2014
+    type: Purchase
+- bioguide: R000307
+  date_recieved: 02/05/2014
+  first_name: 'PAT '
+  last_name: ROBERTS
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/F5F31261-73D5-49A9-9642-16871D93AD45/
+  transactions: []

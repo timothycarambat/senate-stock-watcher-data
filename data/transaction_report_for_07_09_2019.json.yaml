@@ -1,0 +1,15 @@
+- bioguide: H001061
+  date_recieved: 07/09/2019
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/47efab39-e97d-4131-9ac2-8d68c52b7c62/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: BlackRock Science and Technology Trust II
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BSTZ" target="_blank">BSTZ</a>
+    transaction_date: 06/26/2019
+    type: Purchase

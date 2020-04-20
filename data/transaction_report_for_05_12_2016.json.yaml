@@ -1,0 +1,39 @@
+- bioguide: H001061
+  date_recieved: 05/12/2016
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4fcd4d35-4f84-466c-94c7-d372284bfced/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Investors Real Estate Trust
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IRET" target="_blank">IRET</a>
+    transaction_date: 04/28/2016
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Investors Real Estate Trust
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IRET" target="_blank">IRET</a>
+    transaction_date: 04/27/2016
+    type: Sale (Partial)
+  - amount: $100,001 - $250,000
+    asset_description: Valero Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VLO" target="_blank">VLO</a>
+    transaction_date: 04/22/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: McDonald's Corp.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MCD" target="_blank">MCD</a>
+    transaction_date: 04/22/2016
+    type: Purchase

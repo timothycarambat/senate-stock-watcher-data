@@ -1,0 +1,175 @@
+- bioguide: C001075
+  date_recieved: 10/07/2016
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/19885715-1a99-459e-bfce-8f5f57ca5e94/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: INTC-Intel Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/30/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: CMI-Cummins Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/30/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AAPL-Apple Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/30/2015
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 10/07/2016
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/aad1827a-05d8-4b8f-96ed-f3e5f8c925ab/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 09/06/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: MAR - Marriott International, Inc.
+    asset_type: Stock
+    comment: Shares received in exchange for Starwood Hotels (HOT) shares as a result
+      of merger.
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=MAR" target="_blank">MAR</a>
+    transaction_date: 09/26/2016
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 09/28/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 09/06/2016
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: "Nestl\xE9 S.A."
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NSRGY" target="_blank">NSRGY</a>
+    transaction_date: 09/06/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: CHL CHINA MOBILE LTD
+    asset_type: Stock
+    comment: Acquired as a result of a 9/21/16 inheritance.
+    owner: Joint
+    ticker: --
+    transaction_date: 09/22/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: WEC-WEC-WEC Energy Group, Inc.
+    asset_type: Stock
+    comment: Acquired as a result of a 9/21/16 inheritance.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WEC" target="_blank">WEC</a>
+    transaction_date: 09/22/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 09/22/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SO-SO-Southern Company
+    asset_type: Stock
+    comment: Acquired as a result of a 9/21/16 inheritance.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SO" target="_blank">SO</a>
+    transaction_date: 09/22/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: "The Est\xE9e Lauder Companies Inc."
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EL" target="_blank">EL</a>
+    transaction_date: 09/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: McKesson Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MCK" target="_blank">MCK</a>
+    transaction_date: 09/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: VOD-VOD-Vodafone Group Plc
+    asset_type: Stock
+    comment: Acquired as a result of a 9/21/16 inheritance.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VOD" target="_blank">VOD</a>
+    transaction_date: 09/28/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 09/28/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: American Express Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AXP" target="_blank">AXP</a>
+    transaction_date: 09/28/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Waste Management, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WM" target="_blank">WM</a>
+    transaction_date: 09/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 09/06/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Regeneron Pharmaceuticals, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=REGN" target="_blank">REGN</a>
+    transaction_date: 09/06/2016
+    type: Purchase

@@ -1,0 +1,31 @@
+- bioguide: P000595
+  date_recieved: 07/13/2017
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4e10ef83-13cb-488a-b24e-bd5a77f7d4d0/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Versum Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VSM" target="_blank">VSM</a>
+    transaction_date: 06/27/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Medley Capital Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MCC" target="_blank">MCC</a>
+    transaction_date: 06/27/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ares Capital Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ARCC" target="_blank">ARCC</a>
+    transaction_date: 06/27/2017
+    type: Purchase

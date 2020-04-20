@@ -1,0 +1,15 @@
+- bioguide: H001061
+  date_recieved: 10/24/2019
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2d940cf0-3a7b-4b26-bcce-2e94b43c3af6/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 10/21/2019
+    type: Purchase

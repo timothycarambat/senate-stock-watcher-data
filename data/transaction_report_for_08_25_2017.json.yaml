@@ -1,0 +1,40 @@
+- bioguide: C001047
+  date_recieved: 08/25/2017
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3175a7f0-30d8-4e25-b9bf-87b017f45132/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: CB-Chubb Limited
+    asset_type: Stock
+    comment: ACE Limited acquired Chubb Corporation and immediately adopted The Chubb
+      name
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/14/2016
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: CHUBB LTD. SF 24,15
+    asset_type: Stock
+    comment: ACE Limited acquired Chubb Corporation and immediately adopted The Chubb
+      name
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AEX.MU" target="_blank">AEX.MU</a>
+    transaction_date: 01/14/2016
+    type: Exchange
+- bioguide: I000024
+  date_recieved: 08/25/2017
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e63018bf-0064-4390-b8d1-3344b2472a5d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Intrexon Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XON" target="_blank">XON</a>
+    transaction_date: 08/23/2017
+    type: Purchase

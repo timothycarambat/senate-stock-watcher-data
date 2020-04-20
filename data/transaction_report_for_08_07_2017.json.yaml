@@ -1,0 +1,558 @@
+- bioguide: H001061
+  date_recieved: 08/07/2017
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b4c4c270-f5ff-4e95-b282-eda2b77ee0e9/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Dr Pepper Snapple Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DPS" target="_blank">DPS</a>
+    transaction_date: 07/26/2017
+    type: Purchase
+- bioguide: I000024
+  date_recieved: 08/07/2017
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f8a5d22f-e53b-44c2-9369-8b8127294410/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Fluor Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FLR" target="_blank">FLR</a>
+    transaction_date: 08/04/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 07/26/2017
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 07/20/2017
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Citigroup Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 07/07/2017
+    type: Sale (Partial)
+- bioguide: P000612
+  date_recieved: 08/07/2017
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/86121a25-fe1d-481a-9557-d0b9a975494d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Halyard Health, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HYH" target="_blank">HYH</a>
+    transaction_date: 02/29/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: General Motors Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 02/26/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 02/25/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: MasterCard Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MA" target="_blank">MA</a>
+    transaction_date: 02/25/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: American Express Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXP" target="_blank">AXP</a>
+    transaction_date: 02/25/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/25/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The ADT Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADT" target="_blank">ADT</a>
+    transaction_date: 02/23/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Whole Foods Market, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WFM" target="_blank">WFM</a>
+    transaction_date: 02/23/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/23/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Energy Transfer Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ETP" target="_blank">ETP</a>
+    transaction_date: 02/22/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ETP" target="_blank">ETP</a>
+    transaction_date: 02/22/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 02/22/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The ADT Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADT" target="_blank">ADT</a>
+    transaction_date: 02/19/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 02/19/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 02/19/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The ADT Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADT" target="_blank">ADT</a>
+    transaction_date: 02/18/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Enterprise Products Partners L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EPD" target="_blank">EPD</a>
+    transaction_date: 02/17/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Sysco Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SYY" target="_blank">SYY</a>
+    transaction_date: 02/17/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The ADT Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADT" target="_blank">ADT</a>
+    transaction_date: 02/17/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 02/17/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Live Nation Entertainment, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LYV" target="_blank">LYV</a>
+    transaction_date: 02/17/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The ADT Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADT" target="_blank">ADT</a>
+    transaction_date: 02/17/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Live Nation Entertainment, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LYV" target="_blank">LYV</a>
+    transaction_date: 02/17/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CH Robinson Worldwide Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CHRW" target="_blank">CHRW</a>
+    transaction_date: 02/16/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/16/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/16/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The ADT Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADT" target="_blank">ADT</a>
+    transaction_date: 02/16/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/12/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Knowles Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KN" target="_blank">KN</a>
+    transaction_date: 02/12/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/12/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/12/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 02/12/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Whole Foods Market, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WFM" target="_blank">WFM</a>
+    transaction_date: 02/11/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/11/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PFE-Pfizer Inc.
+    asset_type: Stock
+    comment: This transaction was incorrectly labeled "partial" when it should have
+      been labeled "full"
+    owner: Joint
+    ticker: --
+    transaction_date: 02/11/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/11/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/11/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/10/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/10/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/10/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Live Nation Entertainment, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LYV" target="_blank">LYV</a>
+    transaction_date: 02/09/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Halyard Health, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HYH" target="_blank">HYH</a>
+    transaction_date: 02/09/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/09/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 02/08/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 02/08/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer Equity, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ETE" target="_blank">ETE</a>
+    transaction_date: 02/08/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Oracle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 02/05/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 02/05/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Halyard Health, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HYH" target="_blank">HYH</a>
+    transaction_date: 02/05/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/05/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: PerkinElmer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PKI" target="_blank">PKI</a>
+    transaction_date: 02/04/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Halyard Health, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HYH" target="_blank">HYH</a>
+    transaction_date: 02/04/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/03/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/03/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Halyard Health, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HYH" target="_blank">HYH</a>
+    transaction_date: 02/03/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The ADT Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADT" target="_blank">ADT</a>
+    transaction_date: 02/02/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The ADT Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADT" target="_blank">ADT</a>
+    transaction_date: 02/02/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/02/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Enterprise Products Partners L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EPD" target="_blank">EPD</a>
+    transaction_date: 02/01/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PerkinElmer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PKI" target="_blank">PKI</a>
+    transaction_date: 02/01/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/01/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/01/2016
+    type: Sale (Partial)

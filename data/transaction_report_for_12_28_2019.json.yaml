@@ -1,0 +1,27 @@
+- bioguide: B000575
+  date_recieved: 12/28/2019
+  first_name: Roy
+  last_name: Blunt
+  office: Blunt, Roy (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7ddbb448-44d1-47b5-8f47-fa2eab111d60/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: 'The Kraft Heinz Company <div class="text-muted">Option Type:
+      Neither <br><em>Strike price:</em> $24.96 <br> <em>Expires:</em> 02/23/2020
+      </div>'
+    asset_type: Stock Option
+    comment: Option received as part of compensation.
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KHC" target="_blank">KHC</a>
+    transaction_date: 11/26/2019
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: 'Mondelez International, Inc. <div class="text-muted">Option
+      Type: Neither <br><em>Strike price:</em> $24.87 <br> <em>Expires:</em> 02/23/2022
+      </div>'
+    asset_type: Stock Option
+    comment: Option as part of compensation from employer prior to company split.
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MDLZ" target="_blank">MDLZ</a>
+    transaction_date: 12/02/2019
+    type: Sale (Full)

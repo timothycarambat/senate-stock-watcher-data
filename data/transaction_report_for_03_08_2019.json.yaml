@@ -1,0 +1,31 @@
+- bioguide: W000805
+  date_recieved: 03/08/2019
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c008dcd7-7a5e-46ee-9806-cf60a08a23dc/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: Zayo Group Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ZAYO" target="_blank">ZAYO</a>
+    transaction_date: 02/20/2019
+    type: Sale (Full)
+  - amount: $500,001 - $1,000,000
+    asset_description: Zayo Group Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ZAYO" target="_blank">ZAYO</a>
+    transaction_date: 02/19/2019
+    type: Sale (Partial)
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Charter Communications, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CHTR" target="_blank">CHTR</a>
+    transaction_date: 02/19/2019
+    type: Sale (Full)

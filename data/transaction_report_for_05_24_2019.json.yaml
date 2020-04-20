@@ -1,0 +1,15 @@
+- bioguide: C001098
+  date_recieved: 05/24/2019
+  first_name: Rafael E
+  last_name: Cruz
+  office: Cruz, Ted (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f7fff831-e133-4d72-b2f4-91ad003d1dff/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 05/15/2019
+    type: Sale (Partial)

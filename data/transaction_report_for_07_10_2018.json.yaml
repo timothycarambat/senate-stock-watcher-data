@@ -1,0 +1,119 @@
+- bioguide: C001035
+  date_recieved: 07/10/2018
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5138bdf6-011d-4f7f-a59f-a11cbd24aaed/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: "Nestl\xE9 S.A."
+    asset_type: Stock
+    comment: (IRA)
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NSRGY" target="_blank">NSRGY</a>
+    transaction_date: 06/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: UnitedHealth Group Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UNH" target="_blank">UNH</a>
+    transaction_date: 06/04/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 06/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 06/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: PepsiCo, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 06/18/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: "Nestl\xE9 S.A."
+    asset_type: Stock
+    comment: (Trust)
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NSRGY" target="_blank">NSRGY</a>
+    transaction_date: 06/18/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Comcast Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CMCSA" target="_blank">CMCSA</a>
+    transaction_date: 06/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: UnitedHealth Group Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UNH" target="_blank">UNH</a>
+    transaction_date: 06/04/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Thermo Fisher Scientific Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TMO" target="_blank">TMO</a>
+    transaction_date: 06/04/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 06/04/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Constellation Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=STZ" target="_blank">STZ</a>
+    transaction_date: 06/18/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Augusta ME 051411VB9 <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 06/01/2020</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/13/2018
+    type: Purchase
+- bioguide: H001061
+  date_recieved: 07/10/2018
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/05cfb9cb-8100-4305-8e0a-fb8396c94586/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 06/27/2018
+    type: Purchase

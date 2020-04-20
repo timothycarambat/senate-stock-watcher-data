@@ -1,0 +1,25 @@
+- bioguide: P000595
+  date_recieved: 09/13/2016
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cd422bb9-6efe-4eed-80a8-9d620cdf500d/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Ford Motor Credit Co. LLC <div class="text-muted"><em>Rate/Coupon:</em>
+      3.30%<br> <em>Matures:</em> 09/20/26</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 08/29/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lloyds TSB BK PLC <div class="text-muted"><em>Rate/Coupon:</em>
+      2.80%<br> <em>Matures:</em> 11/29/2024</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 08/24/2016
+    type: Purchase

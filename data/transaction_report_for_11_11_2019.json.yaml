@@ -1,0 +1,32 @@
+- bioguide: C001047
+  date_recieved: 11/11/2019
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f338e466-4bf9-4c6f-a70a-4d25208b0c5e/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 10/15/2019
+    type: Sale (Partial)
+- bioguide: W000805
+  date_recieved: 11/11/2019
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/845d7e7a-0c6a-405a-96c0-2602552222f4/
+  transactions:
+  - amount: $500,001 - $1,000,000
+    asset_description: Quadbridge HML Venture, LLC <div class="text-muted"> <em>Company:</em>
+      Quadbridge HML Venture, LLC &nbsp;(Charlotte, NC) </div> <div class="text-muted"><em>Description:</em>&nbsp;Real
+      Estate</div>
+    asset_type: Other Securities
+    comment: Underlying asset of Echo Bridge Realty Fund I, LP
+    owner: Self
+    ticker: --
+    transaction_date: 10/22/2019
+    type: Sale (Full)

@@ -1,0 +1,69 @@
+- bioguide: H001061
+  date_recieved: 07/12/2016
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/99cf9f1a-d58b-4476-9838-ead38e41edc1/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Prudential Financial, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PRU" target="_blank">PRU</a>
+    transaction_date: 06/28/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: McDonald's Corp.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MCD" target="_blank">MCD</a>
+    transaction_date: 06/28/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Invesco Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IVZ" target="_blank">IVZ</a>
+    transaction_date: 06/28/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Under Armour, Inc. Class C Comm
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UA-C" target="_blank">UA-C</a>
+    transaction_date: 06/28/2016
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 07/12/2016
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/05bf0349-d8b8-492e-8a31-746223e789fd/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 06/14/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Nordea Bank AB
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 06/14/2016
+    type: Sale (Full)
+- bioguide: W000805
+  date_recieved: 07/12/2016
+  first_name: MARK R
+  last_name: WARNER
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/c19189dd-dfbc-4ef0-bcf2-6b5cf518c2a4/
+  transactions: []

@@ -1,0 +1,39 @@
+- bioguide: F000062
+  date_recieved: 11/15/2018
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/aa2d3d72-8f88-4eab-8192-b9c7276ae718/
+  transactions: []
+- bioguide: W000802
+  date_recieved: 11/15/2018
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2a765d2c-1938-48c6-bdb6-1cda693e0e50/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Lam Research Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LRCX" target="_blank">LRCX</a>
+    transaction_date: 10/25/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: AT&amp;T, INC <div class="text-muted"><em>Rate/Coupon:</em>
+      5.8%<br> <em>Matures:</em> 02/15/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 10/23/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 10/23/2018
+    type: Purchase

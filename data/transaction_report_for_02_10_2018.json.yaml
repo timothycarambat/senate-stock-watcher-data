@@ -1,0 +1,167 @@
+- bioguide: C001047
+  date_recieved: 02/10/2018
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f89dfc3f-54f9-46a0-9acc-d4b63323ba9e/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: W.W. Grainger, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GWW" target="_blank">GWW</a>
+    transaction_date: 01/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 01/04/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Royal Dutch Shell plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RDS-A" target="_blank">RDS-A</a>
+    transaction_date: 01/04/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 01/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Norfolk Southern Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NSC" target="_blank">NSC</a>
+    transaction_date: 01/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 01/04/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 01/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 01/04/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 01/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 01/04/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Coca-Cola Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 01/04/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Citigroup Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 01/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 01/04/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 01/04/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 01/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ryanair Holdings plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RYAAY" target="_blank">RYAAY</a>
+    transaction_date: 01/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 01/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Hexcel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HXL" target="_blank">HXL</a>
+    transaction_date: 01/26/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Fanuc Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FANUY" target="_blank">FANUY</a>
+    transaction_date: 01/26/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: DowDuPont Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DWDP" target="_blank">DWDP</a>
+    transaction_date: 01/26/2018
+    type: Sale (Full)

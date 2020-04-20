@@ -1,0 +1,101 @@
+- bioguide: R000120
+  date_recieved: 01/29/2018
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/47efc72f-6c88-4ca6-b2e1-05765c71cc26/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Lattice Semiconductor Corporation
+    asset_type: Stock
+    comment: Less than $1000.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LSCC" target="_blank">LSCC</a>
+    transaction_date: 01/16/2018
+    type: Sale (Partial)
+- bioguide: R000307
+  date_recieved: 01/29/2018
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ab33ea63-b5e3-417c-bc3b-49e121da0027/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Devon Energy Corporation
+    asset_type: Stock
+    comment: jt
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 01/03/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Wal-Mart Stores, Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/25/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 01/25/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation
+    asset_type: Stock
+    comment: seo
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 01/17/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: Sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 01/05/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lockheed Martin Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LMT" target="_blank">LMT</a>
+    transaction_date: 01/17/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 01/04/2018
+    type: Purchase
+- bioguide: S001203
+  date_recieved: 01/29/2018
+  first_name: Tina
+  last_name: Smith
+  office: Smith, Tina (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/981f36ec-4d37-4060-9091-8137d76e7a95/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: Cutera, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CUTR" target="_blank">CUTR</a>
+    transaction_date: 01/16/2018
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Entellus Medical, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTL" target="_blank">ENTL</a>
+    transaction_date: 01/05/2018
+    type: Sale (Full)

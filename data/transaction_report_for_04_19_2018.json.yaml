@@ -1,0 +1,31 @@
+- bioguide: W000802
+  date_recieved: 04/19/2018
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3e0e6c8e-e659-4081-97cf-05e6f350a459/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 03/19/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 03/19/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 03/19/2018
+    type: Sale (Partial)

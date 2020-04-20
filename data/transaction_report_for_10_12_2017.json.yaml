@@ -1,0 +1,72 @@
+- bioguide: W000802
+  date_recieved: 10/12/2017
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bbab31ed-9493-4abc-a572-3a29c273fd97/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Goldman Sachs Group, Inc. <div class="text-muted"><em>Rate/Coupon:</em>
+      6.2<br> <em>Matures:</em> 09/01/2017</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 09/01/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 09/20/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 09/20/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: McKesson Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MCK" target="_blank">MCK</a>
+    transaction_date: 09/20/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: DISH Network Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISH" target="_blank">DISH</a>
+    transaction_date: 09/20/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Gilead Sciences, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 09/20/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The TJX Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TJX" target="_blank">TJX</a>
+    transaction_date: 09/20/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Union Pacific Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UNP" target="_blank">UNP</a>
+    transaction_date: 09/20/2017
+    type: Sale (Partial)

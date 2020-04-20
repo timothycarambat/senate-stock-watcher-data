@@ -1,0 +1,23 @@
+- bioguide: K000383
+  date_recieved: 11/10/2016
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7dd32f76-2862-421d-b105-84ff6a5e01cd/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Teva Pharmaceutical Industries Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TEVA" target="_blank">TEVA</a>
+    transaction_date: 10/19/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 10/19/2016
+    type: Sale (Full)

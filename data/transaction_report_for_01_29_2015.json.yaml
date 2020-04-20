@@ -1,0 +1,63 @@
+- bioguide: C001035
+  date_recieved: 01/29/2015
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6624f616-f247-4829-abaf-65fb4378d19d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Waste Connections Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WCN" target="_blank">WCN</a>
+    transaction_date: 01/13/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Unilever plc (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UL" target="_blank">UL</a>
+    transaction_date: 01/13/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Mettler-Toledo International Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MTD" target="_blank">MTD</a>
+    transaction_date: 01/13/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 01/13/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Automatic Data Processing, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ADP" target="_blank">ADP</a>
+    transaction_date: 01/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/13/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Express Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AXP" target="_blank">AXP</a>
+    transaction_date: 01/13/2015
+    type: Purchase

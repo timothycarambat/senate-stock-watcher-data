@@ -1,0 +1,15 @@
+- bioguide: C000174
+  date_recieved: 11/01/2016
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/11ef2ae5-ee16-4226-9c53-3d5acad5a8c7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Alcoa Inc Pfd Cl B
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/11/2016
+    type: Sale (Full)

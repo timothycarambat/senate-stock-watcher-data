@@ -1,0 +1,39 @@
+- bioguide: C000174
+  date_recieved: 02/06/2017
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/76d3f15b-9256-46b5-b1ee-244c63152f16/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/23/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/23/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Vector Group Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/17/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Reynolds American Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/17/2017
+    type: Sale (Full)

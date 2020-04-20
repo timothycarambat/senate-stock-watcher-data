@@ -1,0 +1,30 @@
+- bioguide: B001135
+  date_recieved: 08/01/2019
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/b93a26ef-d98b-4b8c-95ef-e7a870df27fc/
+  transactions: []
+- bioguide: B001135
+  date_recieved: 08/01/2019
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/ba0e05ef-d738-40db-9219-0b18d6cf4323/
+  transactions: []
+- bioguide: P000595
+  date_recieved: 08/01/2019
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6f3fbbb9-f091-4aa2-915c-a4fc78645aae/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: VERIZON COMM INC 03.700% 081529 DTD081717 <div class="text-muted"><em>Rate/Coupon:</em>
+      03.700%<br> <em>Matures:</em> 08/15/2029</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 07/03/2019
+    type: Purchase

@@ -1,0 +1,46 @@
+- bioguide: I000024
+  date_recieved: 06/07/2017
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8d59367d-5aa8-4b14-bfac-cb049a948de1/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Bright Horizons Family Solutions Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BFAM" target="_blank">BFAM</a>
+    transaction_date: 05/30/2017
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 05/30/2017
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Unilever PLC
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UL" target="_blank">UL</a>
+    transaction_date: 05/09/2017
+    type: Sale (Partial)
+- bioguide: T000461
+  date_recieved: 06/07/2017
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2de36776-059f-4038-8486-25ebce212b1b/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 05/18/2017
+    type: Sale (Full)

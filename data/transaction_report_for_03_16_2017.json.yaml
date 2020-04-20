@@ -1,0 +1,15 @@
+- bioguide: R000120
+  date_recieved: 03/16/2017
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a5822498-0b63-4ffc-975b-3038b25e101c/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Express Scripts Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ESRX" target="_blank">ESRX</a>
+    transaction_date: 03/15/2017
+    type: Sale (Full)

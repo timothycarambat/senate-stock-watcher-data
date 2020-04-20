@@ -1,0 +1,47 @@
+- bioguide: P000612
+  date_recieved: 06/26/2015
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e79a3e3f-b470-425f-9a39-4f7ea900b1cb/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Cablevision Systems Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVC" target="_blank">CVC</a>
+    transaction_date: 06/19/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Anthem, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ANTM" target="_blank">ANTM</a>
+    transaction_date: 06/11/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Discovery Communications, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 05/29/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 06/03/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 06/04/2015
+    type: Purchase

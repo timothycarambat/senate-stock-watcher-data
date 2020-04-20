@@ -1,0 +1,41 @@
+- bioguide: C001035
+  date_recieved: 04/07/2016
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/078d300c-902b-49d6-999c-4aa135b2f127/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Stericycle, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SRCL" target="_blank">SRCL</a>
+    transaction_date: 03/09/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: JPMorgan Chase &amp; Co <div class="text-muted"><em>Rate/Coupon:</em>
+      2.55%<br> <em>Matures:</em> 03/01/2021</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/09/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Red Hat, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RHT" target="_blank">RHT</a>
+    transaction_date: 03/09/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Augusta ME Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      2%<br> <em>Matures:</em> 05/01/2021</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/30/2016
+    type: Purchase

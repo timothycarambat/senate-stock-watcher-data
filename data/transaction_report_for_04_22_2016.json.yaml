@@ -1,0 +1,15 @@
+- bioguide: H001061
+  date_recieved: 04/22/2016
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/fe0f7e78-70eb-4974-b982-a9c314942e22/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Class C Shares of Under Armour, Inc.
+    asset_type: Stock
+    comment: Shares acquired result from a stock dividend by UA - Under Armour Inc.
+    owner: Self
+    ticker: --
+    transaction_date: 04/08/2016
+    type: Purchase

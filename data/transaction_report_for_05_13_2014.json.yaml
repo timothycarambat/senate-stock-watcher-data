@@ -1,0 +1,31 @@
+- bioguide: K000383
+  date_recieved: 05/13/2014
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f1c4bb82-2e7a-481f-afbd-9ac932f02844/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Sempra Energy (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SRE" target="_blank">SRE</a>
+    transaction_date: 04/28/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: DENTSPLY International Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XRAY" target="_blank">XRAY</a>
+    transaction_date: 04/28/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: UnitedHealth Group Incorporated (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UNH" target="_blank">UNH</a>
+    transaction_date: 04/28/2014
+    type: Purchase

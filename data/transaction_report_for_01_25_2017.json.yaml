@@ -1,0 +1,138 @@
+- bioguide: H001061
+  date_recieved: 01/25/2017
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8b98c664-7c64-4fe0-a7b9-016b0cc251f3/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: THE CAMPBELL FUND TRUST - SERIES A <div class="text-muted">
+      <em>Company:</em> THE CAMPBELL FUND TRUST - SERIES A &nbsp;(BALTIMORE, MARYLAND)
+      </div> <div class="text-muted"><em>Description:</em>&nbsp;INVETMENT MANAGEMENT
+      IN FUTURES AND CASH EQUITY STRATEGIES</div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/12/2017
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 01/25/2017
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Weight Watchers International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
+    transaction_date: 01/24/2017
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: V.F. Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VFC" target="_blank">VFC</a>
+    transaction_date: 01/23/2017
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Johnson &amp; Johnson
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+    transaction_date: 01/20/2017
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: AbbVie Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 01/20/2017
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 01/20/2017
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 01/20/2017
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 01/20/2017
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 01/20/2017
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 01/20/2017
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Pepsico, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 01/20/2017
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 01/20/2017
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: The Coca-Cola Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 01/20/2017
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 01/20/2017
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 01/20/2017
+    type: Purchase

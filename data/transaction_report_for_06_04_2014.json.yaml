@@ -1,0 +1,23 @@
+- bioguide: R000120
+  date_recieved: 06/04/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6b7a7936-a835-48a3-bc6c-6b04bff617cb/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Actavis plc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ACT" target="_blank">ACT</a>
+    transaction_date: 05/22/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Actavis plc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ACT" target="_blank">ACT</a>
+    transaction_date: 05/22/2014
+    type: Purchase

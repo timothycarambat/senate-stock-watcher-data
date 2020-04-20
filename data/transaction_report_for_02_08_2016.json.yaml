@@ -1,0 +1,62 @@
+- bioguide: C001047
+  date_recieved: 02/08/2016
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/575fb89d-a1f9-452d-84de-dcc16b19c1f5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: ConocoPhillips
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COP" target="_blank">COP</a>
+    transaction_date: 01/25/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NIKE, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NKE" target="_blank">NKE</a>
+    transaction_date: 01/21/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Chubb Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CB" target="_blank">CB</a>
+    transaction_date: 01/21/2016
+    type: Purchase
+- bioguide: H001061
+  date_recieved: 02/08/2016
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/21a365ca-4cce-46e3-8e60-aaf5f9b9b090/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Merck &amp;amp; Co. Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 01/28/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/28/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: McDonald&amp;apos;s Corp.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MCD" target="_blank">MCD</a>
+    transaction_date: 02/03/2016
+    type: Purchase

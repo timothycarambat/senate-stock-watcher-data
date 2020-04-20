@@ -1,0 +1,63 @@
+- bioguide: H001061
+  date_recieved: 12/20/2016
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0f3a5882-6a25-446b-8c3d-b71aeb1d63ed/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Valero Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VLO" target="_blank">VLO</a>
+    transaction_date: 12/16/2016
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Caterpillar Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CAT" target="_blank">CAT</a>
+    transaction_date: 12/16/2016
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Under Armour, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UA" target="_blank">UA</a>
+    transaction_date: 12/16/2016
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: UAA-Under Armour, Inc. Class A Comm
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UAA" target="_blank">UAA</a>
+    transaction_date: 12/16/2016
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: CenturyLink, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CTL" target="_blank">CTL</a>
+    transaction_date: 12/16/2016
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: The Blackstone Group L.P.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BX" target="_blank">BX</a>
+    transaction_date: 12/19/2016
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Diageo plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DEO" target="_blank">DEO</a>
+    transaction_date: 12/19/2016
+    type: Sale (Full)

@@ -1,0 +1,46 @@
+- bioguide: R000120
+  date_recieved: 02/21/2017
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ea5c1111-8f2d-45b3-b34c-5fdd502fc7fb/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Emerson Electric Co.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EMR" target="_blank">EMR</a>
+    transaction_date: 01/30/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Honeywell International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HON" target="_blank">HON</a>
+    transaction_date: 01/30/2017
+    type: Purchase
+- bioguide: R000120
+  date_recieved: 02/21/2017
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/282d1640-d7cd-441e-845b-00f68a3a449d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Pepsico, Inc.
+    asset_type: Stock
+    comment: Less than $1001.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 01/31/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pepsico, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 01/31/2017
+    type: Sale (Partial)

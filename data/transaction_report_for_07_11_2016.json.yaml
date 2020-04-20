@@ -1,0 +1,270 @@
+- bioguide: B001135
+  date_recieved: 07/11/2016
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/1c1c89fb-788c-4a3c-a6ae-1a3f790e6e62/
+  transactions: []
+- bioguide: P000612
+  date_recieved: 07/11/2016
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ad77d4e6-49b5-4bff-bbc0-3dca02ad19f3/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Discovery Communications, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 07/08/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 07/07/2016
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: MPLX LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MPLX" target="_blank">MPLX</a>
+    transaction_date: 07/06/2016
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Energy Transfer Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ETP" target="_blank">ETP</a>
+    transaction_date: 07/06/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 07/06/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/30/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Discovery Communications, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 06/29/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/29/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Westlake Chemical Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WLK" target="_blank">WLK</a>
+    transaction_date: 06/29/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 06/28/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 06/28/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Westlake Chemical Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WLK" target="_blank">WLK</a>
+    transaction_date: 06/28/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Spectra Energy Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SE" target="_blank">SE</a>
+    transaction_date: 06/27/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: NIKE, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NKE" target="_blank">NKE</a>
+    transaction_date: 06/27/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 06/27/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/27/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/27/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/27/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 06/27/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 06/24/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 06/24/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Westlake Chemical Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WLK" target="_blank">WLK</a>
+    transaction_date: 06/23/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Halyard Health, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HYH" target="_blank">HYH</a>
+    transaction_date: 06/23/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 06/22/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 06/21/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 06/20/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Shire plc
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SHPG" target="_blank">SHPG</a>
+    transaction_date: 06/13/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Axiall Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXLL" target="_blank">AXLL</a>
+    transaction_date: 06/13/2016
+    type: Sale (Partial)

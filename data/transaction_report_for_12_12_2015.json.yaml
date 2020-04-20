@@ -1,0 +1,15 @@
+- bioguide: C001047
+  date_recieved: 12/12/2015
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/96c3d990-3ce4-4b14-b749-6c221621820f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: SIGMA ALDRICH CORP
+    asset_type: Stock
+    comment: FMGR FR SIGMA ALDRICH CO
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/18/2015
+    type: Sale (Full)

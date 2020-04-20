@@ -1,0 +1,23 @@
+- bioguide: H001061
+  date_recieved: 06/03/2019
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b661543f-099b-40c5-87fa-bafce0b6eb34/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Celanese Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CE" target="_blank">CE</a>
+    transaction_date: 05/30/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Dow Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DOW" target="_blank">DOW</a>
+    transaction_date: 05/30/2019
+    type: Purchase

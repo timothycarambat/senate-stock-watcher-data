@@ -1,0 +1,39 @@
+- bioguide: R000307
+  date_recieved: 08/12/2014
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0deb4ff2-088b-4dd3-9cc1-58f5b600b39b/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Baidu, Inc. (NASDAQ)
+    asset_type: ''
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIDU" target="_blank">BIDU</a>
+    transaction_date: 07/30/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: ''
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 08/01/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: ''
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 07/30/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc. (NASDAQ)
+    asset_type: ''
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 07/23/2014
+    type: Sale (Full)

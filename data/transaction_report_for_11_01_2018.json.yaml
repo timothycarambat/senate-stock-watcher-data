@@ -1,0 +1,23 @@
+- bioguide: S001198
+  date_recieved: 11/01/2018
+  first_name: Daniel S
+  last_name: Sullivan
+  office: Sullivan, Dan (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/954bf027-bb1c-4ee1-bb59-f6e1ff493de3/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: RPM International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RPM" target="_blank">RPM</a>
+    transaction_date: 10/25/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: iShares Russell 1000 Growth ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IWF" target="_blank">IWF</a>
+    transaction_date: 10/02/2018
+    type: Sale (Partial)

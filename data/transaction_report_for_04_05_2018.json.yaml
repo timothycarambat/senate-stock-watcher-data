@@ -1,0 +1,96 @@
+- bioguide: P000612
+  date_recieved: 04/05/2018
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6d02e725-df28-4d70-9635-f99acf687da8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 04/02/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 04/02/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 04/02/2018
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: DALTON GA GO <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 02/01/24</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 03/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 03/29/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Devon Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 03/27/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 03/20/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 03/20/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: EQT Midstream Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EQM" target="_blank">EQM</a>
+    transaction_date: 03/15/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 03/13/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 03/06/2018
+    type: Sale (Partial)

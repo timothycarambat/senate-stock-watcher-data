@@ -1,6 +1,6 @@
 # Add details to each JSON file. Details added are as follows:
 # - bioguide id.
-import os, requests, json, re
+import os, requests, json, yaml, re
 
 # Get JSON of existing members
 existing_member_req = requests.get('https://theunitedstates.io/congress-legislators/legislators-current.json')
@@ -95,6 +95,23 @@ def add_details_to_senator_agg():
     with open(file, "w") as write_file:
         write_file.write(json.dumps(file_data))
 
+def files_to_yaml():
+    files = []
+    for filename in os.listdir('../data'):
+        if filename.endswith(".json"):
+            files.append(os.path.join('../data', filename))
+    for filename in os.listdir('../aggregate'):
+        if filename.endswith(".json"):
+            files.append(os.path.join('../aggregate', filename))
+
+    for file in files:
+        with open(file, "r") as read_file:
+            file_data = json.load(read_file)
+
+            with open(f"{file}.yaml", 'w') as write_file:
+                write_file.write(yaml.dump(file_data))
+
 add_details_to_daily_reports()
 add_details_to_daily_agg()
 add_details_to_senator_agg()
+files_to_yaml()

@@ -1,0 +1,15 @@
+- bioguide: C001075
+  date_recieved: 09/01/2017
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f9733850-1db0-4406-8936-ce2867c1b3b8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 08/08/2017
+    type: Sale (Partial)

@@ -1,0 +1,15 @@
+- bioguide: C001047
+  date_recieved: 12/17/2016
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4e70cc48-0073-4e1b-84fd-483b30822b3f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Nordstrom, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JWN" target="_blank">JWN</a>
+    transaction_date: 11/14/2016
+    type: Sale (Full)

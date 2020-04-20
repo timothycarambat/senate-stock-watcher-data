@@ -1,0 +1,31 @@
+- bioguide: C001047
+  date_recieved: 09/11/2017
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9d393664-5ed4-4040-b148-f066e79ae9a7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 08/30/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SCANA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SCG" target="_blank">SCG</a>
+    transaction_date: 08/22/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Southern Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SO" target="_blank">SO</a>
+    transaction_date: 08/18/2017
+    type: Sale (Full)

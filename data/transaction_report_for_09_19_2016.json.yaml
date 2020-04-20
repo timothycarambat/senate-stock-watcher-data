@@ -1,0 +1,55 @@
+- bioguide: R000120
+  date_recieved: 09/19/2016
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8186fc3c-f4e6-454d-8126-68d7c0800553/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Thermo Fisher Scientific, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TMO" target="_blank">TMO</a>
+    transaction_date: 09/12/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: iShares Transportation Average
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IYT" target="_blank">IYT</a>
+    transaction_date: 09/12/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corp.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 09/12/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Thermo Fisher Scientific, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TMO" target="_blank">TMO</a>
+    transaction_date: 09/12/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 09/12/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: iShares Transportation Average
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IYT" target="_blank">IYT</a>
+    transaction_date: 09/02/2016
+    type: Purchase

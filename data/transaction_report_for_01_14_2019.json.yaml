@@ -1,0 +1,31 @@
+- bioguide: T000461
+  date_recieved: 01/14/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7db16f74-eafc-4b64-8c9b-abcc80bc6565/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: CrossAmerica Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CAPL" target="_blank">CAPL</a>
+    transaction_date: 08/22/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: CrossAmerica Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CAPL" target="_blank">CAPL</a>
+    transaction_date: 08/09/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 08/02/2018
+    type: Sale (Partial)

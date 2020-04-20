@@ -1,0 +1,23 @@
+- bioguide: I000024
+  date_recieved: 01/05/2017
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3a1d4542-db04-4e96-a209-2847715969b7/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 12/15/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: AGN-Allergan plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/15/2016
+    type: Purchase

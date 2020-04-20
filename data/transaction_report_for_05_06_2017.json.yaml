@@ -1,0 +1,15 @@
+- bioguide: C001047
+  date_recieved: 05/06/2017
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4af0c5ff-5ecd-42ef-809c-6840e686034f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 04/24/2017
+    type: Sale (Partial)

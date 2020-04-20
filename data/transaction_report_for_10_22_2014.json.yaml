@@ -1,0 +1,55 @@
+- bioguide: H001061
+  date_recieved: 10/22/2014
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2bad305c-8d1e-404e-97bd-c6389864832e/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: CDK Global, Inc. (NASDAQ)
+    asset_type: ''
+    comment: Received shares of CDK resulting from a spin-off of ADP.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CDK" target="_blank">CDK</a>
+    transaction_date: 10/01/2014
+    type: Exchange
+  - amount: $100,001 - $250,000
+    asset_description: Arthur J Gallagher &amp; Co. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AJG" target="_blank">AJG</a>
+    transaction_date: 10/20/2014
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Cummins Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CMI" target="_blank">CMI</a>
+    transaction_date: 10/20/2014
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: The Boeing Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 09/29/2014
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: AbbVie Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 09/29/2014
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Starbucks Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 09/29/2014
+    type: Purchase

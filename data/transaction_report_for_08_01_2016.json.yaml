@@ -1,0 +1,65 @@
+- bioguide: C000174
+  date_recieved: 08/01/2016
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cae9ddff-8b81-4f6c-b9ff-59cb075f01d4/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Under Armour Class A
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/14/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: PDL Biopharma Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/14/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Testainer Group Holdings
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/14/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Under Armour Class C
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/14/2016
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Dupont
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/14/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Compass Bank <div class="text-muted"><em>Rate/Coupon:</em>
+      3.875%<br> <em>Matures:</em> 04/10/2025</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/06/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Xerox Corp <div class="text-muted"><em>Rate/Coupon:</em> 3.5%<br>
+      <em>Matures:</em> 08/20/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/06/2016
+    type: Sale (Full)

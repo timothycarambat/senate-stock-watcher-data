@@ -1,0 +1,50 @@
+- bioguide: M001183
+  date_recieved: 05/15/2017
+  first_name: Joseph
+  last_name: Manchin, III
+  office: Manchin, Joe (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c3bad3f4-9079-4edb-8d4a-eaa952d5e7d3/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Huntington Bancshares Incorporated
+    asset_type: Stock
+    comment: Stock inherited from deceased mother's estate.  Transfer paperwork signed
+      4/21/2017.
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HBAN" target="_blank">HBAN</a>
+    transaction_date: 04/21/2017
+    type: Purchase
+- bioguide: M000357
+  date_recieved: 05/15/2017
+  first_name: A. Mitchell
+  last_name: McConnell, Jr.
+  office: McConnell, A. Mitchell Jr. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/43b7eaea-8886-47c7-ae19-f714dacbd020/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: AMCP Security Holdings, L.P. Incentive Units (parent of Centerra)
+    asset_type: Stock
+    comment: Transaction is due to sale of a security from redemption of incentive
+      units vested on April 21, 2017
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/21/2017
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: IR-Ingersoll-Rand Plc
+    asset_type: Stock
+    comment: 2016 Issued IR RSUs vested and actual shares issued; part of shares sold
+      w/ remainder in UBS CSSP
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/02/2017
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: IR-Ingersoll-Rand Plc
+    asset_type: Stock
+    comment: 2015 Issued IR RSUs vested and actual shares issued; part of shares sold
+      w/ remainder in UBS CSSP
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/09/2016
+    type: Sale (Partial)

@@ -1,0 +1,95 @@
+- bioguide: C000174
+  date_recieved: 08/04/2014
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/64a8ee70-87a9-4f08-95d4-dfa5521d511c/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: MS Contingent Autocall Ford Motor 8.35% due 10/31/2016
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/31/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: JPM Contingent Autocall Walgreen 10% due 4/28/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/30/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: HSBC Contingent Autocall FCX 8.95% due 7/30/2015
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/25/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: JPM Contingent Autocall Walgreen 9.3% due 7/28/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/25/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: MS Fixed Autocall FCX 8.05% due 1/26/2015
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/24/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPM Contingent Autocall Walgreen 10% due 4/28/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/30/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPM Contingent Autocall Walgreen 9.3% due 7/28/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/25/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Lincoln National Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LNC" target="_blank">LNC</a>
+    transaction_date: 07/17/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Transalta Renewables Inc
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/17/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Versen Inc
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/17/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Valero Energy
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/17/2014
+    type: Purchase

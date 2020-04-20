@@ -1,0 +1,39 @@
+- bioguide: C001035
+  date_recieved: 04/11/2017
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ea48ecad-1959-4f7a-ace0-778a71d06437/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Roche Holding AG
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RHHBY" target="_blank">RHHBY</a>
+    transaction_date: 03/02/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 03/02/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Danaher Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 03/02/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BRKB" target="_blank">BRKB</a>
+    transaction_date: 03/02/2017
+    type: Purchase

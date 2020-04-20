@@ -1,0 +1,125 @@
+- bioguide: B001277
+  date_recieved: 03/07/2017
+  first_name: 'RICHARD '
+  last_name: BLUMENTHAL
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/664fa42a-d3e1-4871-8ed5-235d0ceec62a/
+  transactions: []
+- bioguide: R000120
+  date_recieved: 03/07/2017
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/92854eb7-296a-4d06-a52d-3cbbf5fafead/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Thermo Fisher Scientific Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TMO" target="_blank">TMO</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Biotech ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XBI" target="_blank">XBI</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Analog Devices, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADI" target="_blank">ADI</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Allergan plc
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AGN" target="_blank">AGN</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+- bioguide: R000120
+  date_recieved: 03/07/2017
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e8354860-7058-44f0-966f-97e6bf65a178/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: TMO - Thermo Fisher Scientific Inc.
+    asset_type: Stock
+    comment: Less than $1001.
+    owner: Self
+    ticker: --
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Biotech ETF
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XBI" target="_blank">XBI</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PureFunds ISE Cyber Security ETF
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=HACK" target="_blank">HACK</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: iShares Transportation Average
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IYT" target="_blank">IYT</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Analog Devices, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ADI" target="_blank">ADI</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Allergan plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AGN" target="_blank">AGN</a>
+    transaction_date: 03/06/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Express Scripts Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ESRX" target="_blank">ESRX</a>
+    transaction_date: 03/06/2017
+    type: Sale (Full)

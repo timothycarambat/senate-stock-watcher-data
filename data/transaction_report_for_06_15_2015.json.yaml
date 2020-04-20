@@ -1,0 +1,23 @@
+- bioguide: R000120
+  date_recieved: 06/15/2015
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/41ffb889-56b3-4aab-bb14-ef28d8568346/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Lattice Semiconductor Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LSCC" target="_blank">LSCC</a>
+    transaction_date: 06/04/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lattice Semiconductor Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LSCC" target="_blank">LSCC</a>
+    transaction_date: 06/04/2015
+    type: Purchase

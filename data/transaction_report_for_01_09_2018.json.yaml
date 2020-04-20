@@ -1,0 +1,40 @@
+- bioguide: H001061
+  date_recieved: 01/09/2018
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b1a14265-d278-4c5d-a281-5991b0595bd5/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 12/29/2017
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Broadcom Limited
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AVGO" target="_blank">AVGO</a>
+    transaction_date: 12/29/2017
+    type: Purchase
+- bioguide: W000805
+  date_recieved: 01/09/2018
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/52d46415-96f1-46d8-959c-9f2a3731bf4f/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: HCEB Ballantyne, LLC <div class="text-muted"> <em>Company:</em>
+      HCEB Ballantyne, LLC &nbsp;(Englewood, CO) </div> <div class="text-muted"><em>Description:</em>&nbsp;Real
+      Estate</div>
+    asset_type: Other Securities
+    comment: Underlying asset Echo Bridge Realty Fund I, L.P.
+    owner: Self
+    ticker: --
+    transaction_date: 12/07/2017
+    type: Sale (Full)

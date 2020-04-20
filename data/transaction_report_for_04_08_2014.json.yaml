@@ -1,0 +1,87 @@
+- bioguide: C001035
+  date_recieved: 04/08/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7979b93e-f577-4806-9c20-de0d175b42df/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Salesforce.com, Inc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CRM" target="_blank">CRM</a>
+    transaction_date: 04/03/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 04/03/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Roche Holding AG (OTC Markets)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RHHBY" target="_blank">RHHBY</a>
+    transaction_date: 04/04/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 04/03/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Macy's, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=M" target="_blank">M</a>
+    transaction_date: 04/03/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: United Technologies Corp. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UTX" target="_blank">UTX</a>
+    transaction_date: 04/03/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: General Motors Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 04/03/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 04/03/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Red Hat, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RHT" target="_blank">RHT</a>
+    transaction_date: 04/03/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Salesforce.com, Inc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CRM" target="_blank">CRM</a>
+    transaction_date: 04/03/2014
+    type: Sale (Partial)

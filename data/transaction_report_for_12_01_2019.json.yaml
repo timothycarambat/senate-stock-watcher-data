@@ -1,0 +1,39 @@
+- bioguide: R000307
+  date_recieved: 12/01/2019
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/74d7fcde-e861-476e-9258-561874fb23cc/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Mastercard Incorporated
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MA" target="_blank">MA</a>
+    transaction_date: 11/12/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Northrop Grumman Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NOC" target="_blank">NOC</a>
+    transaction_date: 11/04/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Northrop Grumman Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NOC" target="_blank">NOC</a>
+    transaction_date: 11/04/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/04/2019
+    type: Purchase

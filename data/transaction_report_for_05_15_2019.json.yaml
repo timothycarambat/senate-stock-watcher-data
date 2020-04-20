@@ -1,0 +1,1267 @@
+- bioguide: C000174
+  date_recieved: 05/15/2019
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/acf289a7-36c4-40fb-a491-8f31e24cdb32/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 06/21/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 06/21/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Invesco Pacific Growth A
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/17/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Goldman Sachs <div class="text-muted"><em>Rate/Coupon:</em>
+      4.5%<br> <em>Matures:</em> 12/15/2018</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/17/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Compass Materials
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/10/2018
+    type: Sale (Full)
+- bioguide: C000174
+  date_recieved: 05/15/2019
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b9beb296-ed8a-49f3-8d2a-dc782679fd71/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Owens &amp; Minor <div class="text-muted"><em>Rate/Coupon:</em>
+      3.875%<br> <em>Matures:</em> 09/15/2021</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/17/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Icahn Enterprises <div class="text-muted"><em>Rate/Coupon:</em>
+      4.875%<br> <em>Matures:</em> 03/15/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/16/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ishares S&amp;P Smll-Cap 600 Value
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Core S&amp;P Small Cap ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Ishares MSCI India Sm Cap
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ETFMG Prime Mobile Payments
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Wisdom Tree Intl Sm Cap Div
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares S&amp;P GS Commodity Index
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Arrow Managed Futures
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Global X Lithium &amp; Battery
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Global X Robotics &amp; Artificial Intelligence
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Alpine Ultra Short Muni Income
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Omega Healthcare Inv
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ares Capital
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Western Asset /Claymore Inflation &amp; Opportunity
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Owens &amp; Minor
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares China Large Cap
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Newell Brands
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Axis Capital Holdings
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ishares MSCI EAFE
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Gladstone Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CyrusOne
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 20 Trm
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: FT EM SC Alphadex
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 2018 term
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Hartford Multifactor Developed Mkt
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pacer Trendpilot 750
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pacer Trendpilot 450
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pacer Trendpilot 100
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Global X Lithium &amp; Battery
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FMC Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: General Electric
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Robert Half Intl
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2018
+    type: Sale (Full)
+- bioguide: C000174
+  date_recieved: 05/15/2019
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3235ca53-346d-4905-94b6-2dc6e50bc2c7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: General Electric
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hexcel Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Qualcomm Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Scotts Miracle Grow
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Banco Latinoamerican De Comercio Exterior S.A.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Western Asset inflation Linked Opportunity &amp; Income Fd
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares China Large Cap ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Agilent Technologies
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Lazard Global Total Return &amp; Income
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Packaging Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Fedex Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Altria Group
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Metlife
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares MSCI Emerging Markets ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Raytheon
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Mantech Intl
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR Eurostoxx 50 ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Zoetis Inc Class A
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: CyrusOne Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Sprott Physical Gold &amp; Silver Tr
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pentair PLC
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Catalyst Millburn Hgd Strategies
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Abbvie
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 20 TRM
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: TenCent Holdings Ltd Unsponsored ADR
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Algonquin Power Utils
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: FT EM SC Alphadex
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AQR Long-Short Equity
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 18 TRM
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hartford Multifactor Developed Markets ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DowDupont
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Iron Mountain
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Corning Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Fifth Third Bancorp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Tyson Foods
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Amazon
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Toronto Dominion Bank Step-Up Note <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 10/31/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Toronto Dominion Bank Step-Up Note <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 10/31/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Amazon
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/22/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Amazon
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares China Large Cap ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Alps ETF Trust Alps Medical
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Core S&amp;P 500 ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Ishares MSCI India Small Cap
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR Eurostoxx 50 ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Victoryshares US 500 Volatility
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Aerospace &amp; Defense ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FT Nasdaq Cybersecurity ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Kraneshares Bosera MSCI China A
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Ishares US Regional Bank ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lord Abbbett Ultra Short Bd Fund
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 18 Trm ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 19 Trm ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Global X Fintech ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Fidelity Advisor Intl Capital Appreciation
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Raytheon
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/05/2018
+    type: Purchase
+- bioguide: M000934
+  date_recieved: 05/15/2019
+  first_name: Jerry
+  last_name: 'Moran,  '
+  office: Moran, Jerry (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/dafb67b1-d578-402d-9e26-c3c2a575b42c/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Weyerhaeuser Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WY" target="_blank">WY</a>
+    transaction_date: 12/19/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Liberty Media Corp. Reg.Sh.C FO
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LM09.SG" target="_blank">LM09.SG</a>
+    transaction_date: 12/19/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 12/19/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 12/19/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: General Mills, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GIS" target="_blank">GIS</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Allstate Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ALL" target="_blank">ALL</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Weyerhaeuser Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WY" target="_blank">WY</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: U.S. Bancorp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=USB" target="_blank">USB</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Royal Dutch Shell plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RDS-B" target="_blank">RDS-B</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Liberty Media Corp. Reg.Sh.C FO
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LM09.SG" target="_blank">LM09.SG</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DaVita Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DVA" target="_blank">DVA</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AbbVie Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Weyerhaeuser Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WY" target="_blank">WY</a>
+    transaction_date: 12/19/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 12/19/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Royal Dutch Shell plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=RDS-B" target="_blank">RDS-B</a>
+    transaction_date: 12/19/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Liberty Media Corp. Reg.Sh.C FO
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LM09.SG" target="_blank">LM09.SG</a>
+    transaction_date: 12/19/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 12/19/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 12/19/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 12/19/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: General Mills, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GIS" target="_blank">GIS</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Allstate Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 12/06/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Weyerhaeuser Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WY" target="_blank">WY</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: U.S. Bancorp
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=USB" target="_blank">USB</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Royal Dutch Shell plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=RDS-B" target="_blank">RDS-B</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Liberty Media Corp. Reg.Sh.C FO
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LM09.SG" target="_blank">LM09.SG</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DaVita Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DVA" target="_blank">DVA</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BRKB" target="_blank">BRKB</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 12/06/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AbbVie Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 12/06/2018
+    type: Purchase

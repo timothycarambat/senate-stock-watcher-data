@@ -1,0 +1,25 @@
+- bioguide: P000595
+  date_recieved: 04/25/2019
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6fb6530c-db51-4751-a1ab-7928aeff396d/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: NEXTERA ENERGY CAPITAL 03.500% 040129 DTD040419 <div class="text-muted"><em>Rate/Coupon:</em>
+      03.500%<br> <em>Matures:</em> 04/01/2029</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 04/17/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SANTA CLARA CALIF UNI SCH DIST GO BDS 2019 DUE 07/01/2042 <div
+      class="text-muted"><em>Rate/Coupon:</em> 3.00%<br> <em>Matures:</em> 07/01/2042</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/29/2019
+    type: Purchase

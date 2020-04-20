@@ -1,0 +1,31 @@
+- bioguide: I000024
+  date_recieved: 06/20/2018
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/72b5ca95-5ae4-4bb3-9088-d0bb167e429b/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: CRISPR Therapeutics AG
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CRSP" target="_blank">CRSP</a>
+    transaction_date: 06/19/2018
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 06/04/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Continental Resources, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CLR" target="_blank">CLR</a>
+    transaction_date: 05/29/2018
+    type: Sale (Partial)

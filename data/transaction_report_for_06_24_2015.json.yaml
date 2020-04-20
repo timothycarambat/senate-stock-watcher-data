@@ -1,0 +1,15 @@
+- bioguide: P000595
+  date_recieved: 06/24/2015
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4c71b757-583d-4861-91cb-955782db8ea0/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: STAG Industrial, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=STAG" target="_blank">STAG</a>
+    transaction_date: 06/16/2015
+    type: Purchase

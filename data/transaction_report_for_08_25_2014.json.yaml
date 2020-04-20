@@ -1,0 +1,23 @@
+- bioguide: K000383
+  date_recieved: 08/25/2014
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f40d9641-54e9-4ec3-960f-2071ed4d08bf/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Maine Turnpike Authority Bond 3.00% 07/01/2026
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Rayonier Advanced Materials Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RYAM" target="_blank">RYAM</a>
+    transaction_date: 07/25/2014
+    type: Sale (Full)

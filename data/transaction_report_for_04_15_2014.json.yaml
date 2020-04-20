@@ -1,0 +1,110 @@
+- bioguide: C000141
+  date_recieved: 04/15/2014
+  first_name: Benjamin L
+  last_name: Cardin
+  office: Cardin, Benjamin L. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f08ea534-1963-41e9-9737-ba1e4a86faf6/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Israel Bond
+    asset_type: ''
+    comment: IRA
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/01/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Israel Bond
+    asset_type: ''
+    comment: IRA
+    owner: Self
+    ticker: --
+    transaction_date: 02/01/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Israel Bond
+    asset_type: ''
+    comment: IRA (bond matured)
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/01/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Israel Bond
+    asset_type: ''
+    comment: IRA (bond matured)
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/01/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Israel Bond
+    asset_type: ''
+    comment: IRA (bond matured)
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/01/2013
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Israel Bond
+    asset_type: ''
+    comment: IRA (bond matured)
+    owner: Self
+    ticker: --
+    transaction_date: 11/01/2013
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Meyer M. Cardin Trust, Baltimore, Md. Bond
+    asset_type: ''
+    comment: bond matured
+    owner: Joint
+    ticker: --
+    transaction_date: 10/15/2013
+    type: Sale (Full)
+- bioguide: C001035
+  date_recieved: 04/15/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/072982d0-5c5e-4658-9ea0-a25b76b80f41/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Caterpillar Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CAT" target="_blank">CAT</a>
+    transaction_date: 04/08/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Amazon.com Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 04/09/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 04/09/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Macy's, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=M" target="_blank">M</a>
+    transaction_date: 04/07/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Honeywell International Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HON" target="_blank">HON</a>
+    transaction_date: 04/07/2014
+    type: Purchase

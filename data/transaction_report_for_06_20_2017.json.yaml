@@ -1,0 +1,47 @@
+- bioguide: R000120
+  date_recieved: 06/20/2017
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8b7d2849-1062-4bc9-b230-fd1cab165b22/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: PureFunds ISE Cyber Security ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HACK" target="_blank">HACK</a>
+    transaction_date: 06/19/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: iShares Transportation Average
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IYT" target="_blank">IYT</a>
+    transaction_date: 06/19/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Analog Devices, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADI" target="_blank">ADI</a>
+    transaction_date: 06/19/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Biotech ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XBI" target="_blank">XBI</a>
+    transaction_date: 06/19/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Whole Foods Market, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WFM" target="_blank">WFM</a>
+    transaction_date: 06/19/2017
+    type: Sale (Partial)

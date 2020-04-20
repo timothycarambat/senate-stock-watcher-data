@@ -1,0 +1,55 @@
+- bioguide: R000307
+  date_recieved: 10/06/2014
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/78c3b60a-532e-4dc8-8c68-760bd9718ab5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: ''
+    comment: SEP
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/03/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: ''
+    comment: SEP
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/02/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: ''
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 09/22/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: ''
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/12/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: ''
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 09/12/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: ''
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 09/02/2014
+    type: Purchase

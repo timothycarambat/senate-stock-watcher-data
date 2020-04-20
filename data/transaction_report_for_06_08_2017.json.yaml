@@ -1,0 +1,257 @@
+- bioguide: W000802
+  date_recieved: 06/08/2017
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b33c92f5-43d9-430a-8c52-7e5c29954e6d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Bioverativ Inc.
+    asset_type: Stock
+    comment: Shares received in spin off with BIIB on 1/17/17.
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIVV" target="_blank">BIVV</a>
+    transaction_date: 05/24/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BIVV-Bioverativ Inc.
+    asset_type: Stock
+    comment: Shares received in spin off with BIIB.
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIVV" target="_blank">BIVV</a>
+    transaction_date: 01/17/2017
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Analog Devices, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=ADI" target="_blank">ADI</a>
+    transaction_date: 05/05/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: L Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=LB" target="_blank">LB</a>
+    transaction_date: 05/16/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Citigroup Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 05/24/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 05/30/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Company
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 05/30/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Magna International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=MGA" target="_blank">MGA</a>
+    transaction_date: 05/30/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DISH Network Corporation
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DISH" target="_blank">DISH</a>
+    transaction_date: 05/10/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Marsh &amp; McLennan Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=MMC" target="_blank">MMC</a>
+    transaction_date: 05/10/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Walgreens Boots Alliance, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=WBA" target="_blank">WBA</a>
+    transaction_date: 05/24/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Twitter, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TWTR" target="_blank">TWTR</a>
+    transaction_date: 05/24/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Victory Sycamore Established Value I
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VEVIX" target="_blank">VEVIX</a>
+    transaction_date: 05/25/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Mastercard Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MA" target="_blank">MA</a>
+    transaction_date: 05/05/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: RHODE IS INFRASTRUCTURE BK <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0<br> <em>Matures:</em> 10/01/2032</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 05/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Analog Devices, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADI" target="_blank">ADI</a>
+    transaction_date: 05/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 05/16/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lam Research Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LRCX" target="_blank">LRCX</a>
+    transaction_date: 05/16/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Citigroup Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 05/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 05/24/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: GENERAL MOTORS FINANCIAL <div class="text-muted"><em>Rate/Coupon:</em>
+      3.2<br> <em>Matures:</em> 07/06/2021</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 05/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Waste Management, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WM" target="_blank">WM</a>
+    transaction_date: 05/10/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Regeneron Pharmaceuticals, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=REGN" target="_blank">REGN</a>
+    transaction_date: 05/16/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Akamai Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AKAM" target="_blank">AKAM</a>
+    transaction_date: 05/16/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Twitter, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TWTR" target="_blank">TWTR</a>
+    transaction_date: 05/24/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 05/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 05/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 05/30/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: 3M Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MMM" target="_blank">MMM</a>
+    transaction_date: 05/30/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Magna International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MGA" target="_blank">MGA</a>
+    transaction_date: 05/30/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: NIKE, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NKE" target="_blank">NKE</a>
+    transaction_date: 05/30/2017
+    type: Sale (Partial)

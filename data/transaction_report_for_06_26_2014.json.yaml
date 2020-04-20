@@ -1,0 +1,15 @@
+- bioguide: T000461
+  date_recieved: 06/26/2014
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc5abd7e-9920-40bf-91ed-0c3cc78ca5f5/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: ALPS Alerian MLP ETF
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMLP" target="_blank">AMLP</a>
+    transaction_date: 06/24/2014
+    type: Purchase

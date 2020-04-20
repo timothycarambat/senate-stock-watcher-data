@@ -1,0 +1,17 @@
+- bioguide: S001203
+  date_recieved: 10/25/2019
+  first_name: Tina
+  last_name: Smith
+  office: Smith, Tina (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2c7444a7-64a1-412c-a6d7-c6b3c54de9fe/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Surgical Information Sciences <div class="text-muted"> <em>Company:</em>
+      Surgical Information Sciences &nbsp;(Alpharetta, CA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Health
+      Management Systems</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/16/2019
+    type: Purchase

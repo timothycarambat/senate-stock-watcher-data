@@ -1,0 +1,68 @@
+- bioguide: A000360
+  date_recieved: 02/27/2020
+  first_name: Lamar
+  last_name: Alexander
+  office: Alexander, Lamar (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e4a2aa00-e5bc-4c2f-967a-ff0b5bb5089b/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Little Star Partnership <div class="text-muted"> <em>Company:</em>
+      Little Star Partnership &nbsp;(Victoria, Texas) </div> <div class="text-muted"><em>Description:</em>&nbsp;Rental
+      Real Estate</div>
+    asset_type: Other Securities
+    comment: Little Star Partnership is a family Company owned by Senator Alexander's
+      wife and her four siblings.  After the final settlement of their mother's estate,
+      Senator Alexander's wife exchanged her interest in Starboard Corporation for
+      an additional interest in Little Star Partnership.  Starboard Corporation is
+      also a family owned Company owned by the five siblings and the exchange occurred
+      between the siblings.
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/31/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Buhler Telferner Partnership <div class="text-muted"> <em>Company:</em>
+      Buhler Telferner Partnership &nbsp;(Victoria, Texas) </div> <div class="text-muted"><em>Description:</em>&nbsp;Rental
+      real estate</div>
+    asset_type: Other Securities
+    comment: Buhler Telferner Partnership is a family Company owned by Senator Alexander's
+      wife and her four siblings.  After the final settlement of their mother's estate,
+      Senator Alexander's wife exchanged her interest in Starboard Corporation for
+      an additional interest in Buhler Telferner Partnership.  Starboard Corporation
+      is also a family owned Company owned by the five siblings and the exchange occurred
+      between the siblings.
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/31/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Starboard Corporation - Commercial Real Estate <div class="text-muted">
+      <em>Company:</em> Starboard Corporation &nbsp;(Victoria, TX) </div> <div class="text-muted"><em>Description:</em>&nbsp;Commercial
+      rental real estate</div>
+    asset_type: Non-Public Stock
+    comment: Starboard Corporation is a family Company owned by Senator Alexander's
+      wife and her four siblings.  After the final settlement of their mother's estate,
+      Senator Alexander's wife exchanged her interest in Starboard Corporation for
+      an additional interest in Buhler Telferner Partnership and Little Star Partnership.  The
+      two partnerships are also family owned Companies owned by the five siblings
+      and the exchange occurred between the siblings.
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/31/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: McKinney Texas Indpt Sch Dist <div class="text-muted"><em>Rate/Coupon:</em>
+      5.00%<br> <em>Matures:</em> 02/15/2028</div>
+    asset_type: Municipal Security
+    comment: Notification of the transaction was delayed due to the holidays
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/13/2019
+    type: Purchase
+- bioguide: B001135
+  date_recieved: 02/27/2020
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/156b69ba-6f48-4a32-b796-707093c476c6/
+  transactions: []

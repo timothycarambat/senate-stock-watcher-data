@@ -1,0 +1,23 @@
+- bioguide: H001061
+  date_recieved: 04/23/2014
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/baeae9dc-9f34-4204-994c-652b0e4848a2/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Anheuser-Busch InBev SA/NV (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BUD" target="_blank">BUD</a>
+    transaction_date: 03/31/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: AbbVie Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 03/31/2014
+    type: Purchase

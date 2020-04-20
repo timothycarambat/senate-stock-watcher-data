@@ -1,0 +1,17 @@
+- bioguide: H001061
+  date_recieved: 10/19/2018
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/19aa90af-3557-4b85-aab8-32337e8a93d8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Westbrand, Inc. <div class="text-muted"> <em>Company:</em>
+      Westbrand, Inc. &nbsp;(Minot, North Dakota) </div> <div class="text-muted"><em>Description:</em>&nbsp;Bank
+      holding company of First Western Bank</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 10/15/2018
+    type: Purchase

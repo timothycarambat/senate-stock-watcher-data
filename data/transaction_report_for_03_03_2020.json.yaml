@@ -1,0 +1,738 @@
+- bioguide: C000174
+  date_recieved: 03/03/2020
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5b18c631-389d-4542-850e-e4b2a5d87aba/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Tekla Life Sciences Investors
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HQL" target="_blank">HQL</a>
+    transaction_date: 02/22/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Tekla Life Sciences Investors
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HQL" target="_blank">HQL</a>
+    transaction_date: 02/22/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BlackRock Science and Technology Trust II
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BSTZ" target="_blank">BSTZ</a>
+    transaction_date: 02/22/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BlackRock Science and Technology Trust II
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BSTZ" target="_blank">BSTZ</a>
+    transaction_date: 02/22/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: HSBC Contingent Autocall BMY <div class="text-muted"><em>Rate/Coupon:</em>
+      8.75%<br> <em>Matures:</em> 02/24/2023</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/21/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: HSBC Contingent Autocall BMY <div class="text-muted"><em>Rate/Coupon:</em>
+      8.75%<br> <em>Matures:</em> 02/24/2023</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/21/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: BCS Contingent Autocall BMY <div class="text-muted"><em>Rate/Coupon:</em>
+      9.0%<br> <em>Matures:</em> 11/14/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/13/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: BCS Contingent Autocall BMY <div class="text-muted"><em>Rate/Coupon:</em>
+      9.0%<br> <em>Matures:</em> 11/14/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/13/2020
+    type: Sale (Full)
+- bioguide: P000612
+  date_recieved: 03/03/2020
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c67b2ac7-642e-4601-8d9d-d7b613ec7b5e/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: General Motors Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 02/28/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/28/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 02/28/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 02/28/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Devon Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 02/28/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/28/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/28/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/28/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/28/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 02/27/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/27/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 02/27/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Delta Air Lines, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DAL" target="_blank">DAL</a>
+    transaction_date: 02/27/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/27/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 02/27/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/27/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/27/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/27/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/26/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Graphic Packaging Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GPK" target="_blank">GPK</a>
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/26/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/26/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ViacomCBS Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VIAC" target="_blank">VIAC</a>
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/26/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/25/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 02/25/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Graphic Packaging Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GPK" target="_blank">GPK</a>
+    transaction_date: 02/25/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Delta Air Lines, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DAL" target="_blank">DAL</a>
+    transaction_date: 02/25/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/25/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ViacomCBS Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VIAC" target="_blank">VIAC</a>
+    transaction_date: 02/25/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Devon Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 02/25/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/25/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/25/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/25/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/25/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ViacomCBS Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VIAC" target="_blank">VIAC</a>
+    transaction_date: 02/25/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/24/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/24/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ViacomCBS Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VIAC" target="_blank">VIAC</a>
+    transaction_date: 02/24/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: TC Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRP" target="_blank">TRP</a>
+    transaction_date: 02/24/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/24/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 02/24/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Delta Air Lines, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DAL" target="_blank">DAL</a>
+    transaction_date: 02/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/24/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: TC Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRP" target="_blank">TRP</a>
+    transaction_date: 02/24/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Hanesbrands Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HBI" target="_blank">HBI</a>
+    transaction_date: 02/07/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Hanesbrands Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HBI" target="_blank">HBI</a>
+    transaction_date: 02/07/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 02/10/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 02/10/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 02/10/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Hanesbrands Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HBI" target="_blank">HBI</a>
+    transaction_date: 02/10/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 02/10/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 02/10/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/11/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 02/13/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 02/13/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 02/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 02/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 02/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: MPLX LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MPLX" target="_blank">MPLX</a>
+    transaction_date: 02/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Enbridge Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENB" target="_blank">ENB</a>
+    transaction_date: 02/19/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DCP Midstream, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DCP" target="_blank">DCP</a>
+    transaction_date: 02/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: DCP Midstream, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DCP" target="_blank">DCP</a>
+    transaction_date: 02/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cheniere Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LNG" target="_blank">LNG</a>
+    transaction_date: 02/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Albemarle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ALB" target="_blank">ALB</a>
+    transaction_date: 02/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Western Midstream Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WES" target="_blank">WES</a>
+    transaction_date: 02/20/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Western Midstream Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WES" target="_blank">WES</a>
+    transaction_date: 02/20/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Shell Midstream Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SHLX" target="_blank">SHLX</a>
+    transaction_date: 02/20/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ONEOK, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OKE" target="_blank">OKE</a>
+    transaction_date: 02/20/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/20/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Phillips 66 Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PSXP" target="_blank">PSXP</a>
+    transaction_date: 02/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Phillips 66 Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PSXP" target="_blank">PSXP</a>
+    transaction_date: 02/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Phillips 66 Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PSXP" target="_blank">PSXP</a>
+    transaction_date: 02/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ViacomCBS Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VIAC" target="_blank">VIAC</a>
+    transaction_date: 02/21/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/21/2020
+    type: Sale (Partial)

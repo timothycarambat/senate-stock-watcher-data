@@ -1,0 +1,53 @@
+- bioguide: F000062
+  date_recieved: 06/11/2018
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/aa258eda-0256-4ec9-bcc2-b03f7ff9228f/
+  transactions: []
+- bioguide: R000307
+  date_recieved: 06/11/2018
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/24599111-b376-47d5-8777-f742400a6da6/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: ugma--lily
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/16/2018
+    type: Purchase
+- bioguide: S001203
+  date_recieved: 06/11/2018
+  first_name: Tina
+  last_name: Smith
+  office: Smith, Tina (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/fd4807b4-12c1-4014-9ed0-c4933dcb7446/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Tactile Systems Technology, Inc.
+    asset_type: Stock
+    comment: Asset held in Charles Schwab - Rollover IRA
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TCMD" target="_blank">TCMD</a>
+    transaction_date: 06/01/2018
+    type: Sale (Partial)
+  - amount: $100,001 - $250,000
+    asset_description: Tactile Systems Technology, Inc.
+    asset_type: Stock
+    comment: Asset held in Truchas Capital 401K Plan
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TCMD" target="_blank">TCMD</a>
+    transaction_date: 06/01/2018
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Insulet Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PODD" target="_blank">PODD</a>
+    transaction_date: 06/01/2018
+    type: Sale (Partial)

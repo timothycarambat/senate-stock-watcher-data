@@ -1,0 +1,15 @@
+- bioguide: I000024
+  date_recieved: 06/16/2015
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/141487b3-8c16-4282-bbd7-13b7ed8b9101/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Continental Resources, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CLR" target="_blank">CLR</a>
+    transaction_date: 06/04/2015
+    type: Purchase

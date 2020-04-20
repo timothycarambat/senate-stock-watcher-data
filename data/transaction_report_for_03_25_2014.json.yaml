@@ -1,0 +1,46 @@
+- bioguide: B001135
+  date_recieved: 03/25/2014
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/D22FAF65-5196-452C-8042-92E593E21F8B/
+  transactions: []
+- bioguide: C001035
+  date_recieved: 03/25/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/fa1f4bdc-b23d-4f6c-ab85-75203a9e80a2/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: American International Group, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AIG" target="_blank">AIG</a>
+    transaction_date: 03/18/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 03/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Salesforce.com, Inc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CRM" target="_blank">CRM</a>
+    transaction_date: 03/19/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: American Electric Power Co., Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AEP" target="_blank">AEP</a>
+    transaction_date: 03/14/2014
+    type: Sale (Partial)

@@ -1,0 +1,63 @@
+- bioguide: B001277
+  date_recieved: 10/08/2019
+  first_name: 'RICHARD '
+  last_name: BLUMENTHAL
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/5dbceca2-e2ab-4520-8580-4a2ebe968f47/
+  transactions: []
+- bioguide: W000805
+  date_recieved: 10/08/2019
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9eed67f0-288a-440a-b8fb-cda5a43aebe5/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Snap + Style, Inc. <div class="text-muted"> <em>Company:</em>
+      Snap + Style, Inc. &nbsp;(Washington, DC) </div> <div class="text-muted"><em>Description:</em>&nbsp;Online
+      Fashion Advisory &amp; Shopping Website</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 09/06/2019
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 10/08/2019
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6afab8c4-aaf4-464a-9c1c-4e04b229e77f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 08/27/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 08/27/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 08/27/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 08/27/2019
+    type: Sale (Full)

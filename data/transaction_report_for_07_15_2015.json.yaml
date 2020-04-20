@@ -1,0 +1,156 @@
+- bioguide: F000062
+  date_recieved: 07/15/2015
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/B82D4538-ADAB-44BD-8E1E-2C25657A1AE4/
+  transactions: []
+- bioguide: F000062
+  date_recieved: 07/15/2015
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/11FB9231-B083-4ACD-9234-084718A0F00E/
+  transactions: []
+- bioguide: F000062
+  date_recieved: 07/15/2015
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/E933D449-D4A4-4307-B949-29E948DC5BD5/
+  transactions: []
+- bioguide: I000024
+  date_recieved: 07/15/2015
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/19829594-5717-4584-9c23-352c638d83b3/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Morgan Stanley Inst Active Intl Allc I (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MSACX" target="_blank">MSACX</a>
+    transaction_date: 07/09/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Invesco Equally-Wtd S&amp;P 500 Y (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VADDX" target="_blank">VADDX</a>
+    transaction_date: 07/09/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Columbia Marsico Growth Z (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NGIPX" target="_blank">NGIPX</a>
+    transaction_date: 07/09/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo Advantage S/T Muni Bd Adm (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WSTMX" target="_blank">WSTMX</a>
+    transaction_date: 07/09/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Invesco Municipal Income Y (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VMIIX" target="_blank">VMIIX</a>
+    transaction_date: 07/09/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Invesco SmallCapValue Y (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VSMIX" target="_blank">VSMIX</a>
+    transaction_date: 07/09/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Invesco Comstock Y (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ACSDX" target="_blank">ACSDX</a>
+    transaction_date: 07/09/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Morgan Stanley Inst Emerging Mkts I (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MGEMX" target="_blank">MGEMX</a>
+    transaction_date: 07/09/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Biogen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 07/09/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Continental Resources, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CLR" target="_blank">CLR</a>
+    transaction_date: 07/09/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 07/09/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Priceline Group Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PCLN" target="_blank">PCLN</a>
+    transaction_date: 07/09/2015
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Merck &amp; Co. Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 07/09/2015
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: ITC Holdings Corp. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ITC" target="_blank">ITC</a>
+    transaction_date: 07/09/2015
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Abbott Laboratories (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ABT" target="_blank">ABT</a>
+    transaction_date: 07/09/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Columbia Marsico Growth Z (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NGIPX" target="_blank">NGIPX</a>
+    transaction_date: 06/22/2015
+    type: Purchase

@@ -1,0 +1,347 @@
+- bioguide: C000174
+  date_recieved: 03/12/2018
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/07935a4d-85ec-406f-8c1c-bd951dfd2903/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Western Asset/Claymore Inflation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR Gold Tr Gold Shs
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 20 Trm Corp
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 18 Trm Corp
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pacer Trendpilot 750 ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pacer Trendpilot 450 ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FS Investment Corp <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 07/15/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Central Fund of Canada
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Compass Minerals
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Acadian Timber
+    asset_type: Stock
+    comment: Due to clerical error, transaction amount incorrectly reported when PTR
+      filed.
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Government Properties Inc <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 07/15/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/20/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Compass Bank <div class="text-muted"><em>Rate/Coupon:</em>
+      3.875%<br> <em>Matures:</em> 04/10/2025</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/20/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hexcel Corp New
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/18/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Mantech Intl Corp Cl A
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/18/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Orbital ATK
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/18/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR Gold Tr Gold Shs
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/07/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Central Fund of Canada
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/07/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: HSBC Contingent Autocall on Anadarko Petroleum <div class="text-muted"><em>Rate/Coupon:</em>
+      9.0%<br> <em>Matures:</em> 09/05/2017</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/05/2017
+    type: Sale (Full)
+- bioguide: R000120
+  date_recieved: 03/12/2018
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/63409db6-5b28-43aa-aa0f-d6594a8f15b4/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Xilinx, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XLNX" target="_blank">XLNX</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Vertex Pharmaceuticals Incorporated
+    asset_type: Stock
+    comment: Less than $1000
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VRTX" target="_blank">VRTX</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Vanguard FTSE Emerging Markets ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VWO" target="_blank">VWO</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Thermo Fisher Scientific Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TMO" target="_blank">TMO</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Stryker Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SYK" target="_blank">SYK</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Biotech ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XBI" target="_blank">XBI</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Semiconductor ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XSD" target="_blank">XSD</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Guggenheim S&amp;P 500 Eq Wt Technology ETF
+    asset_type: Stock
+    comment: Less than $1000
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RYT" target="_blank">RYT</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Intuitive Surgical, Inc.
+    asset_type: Stock
+    comment: Less than $1000
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ISRG" target="_blank">ISRG</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Illinois Tool Works Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ITW" target="_blank">ITW</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: iShares Transportation Average ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IYT" target="_blank">IYT</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: IQVIA Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IQV" target="_blank">IQV</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Honeywell International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HON" target="_blank">HON</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: Less than $1000
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Analog Devices, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADI" target="_blank">ADI</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 03/09/2018
+    type: Sale (Partial)

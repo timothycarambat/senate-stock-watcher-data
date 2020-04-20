@@ -1,0 +1,39 @@
+- bioguide: R000120
+  date_recieved: 03/04/2015
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3d422ca8-7dc9-4d3f-9ab7-9f9e7daacf53/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Mylan, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MYL" target="_blank">MYL</a>
+    transaction_date: 03/03/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Actavis plc (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ACT" target="_blank">ACT</a>
+    transaction_date: 03/03/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Applied Materials, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMAT" target="_blank">AMAT</a>
+    transaction_date: 03/03/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Actavis plc (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ACT" target="_blank">ACT</a>
+    transaction_date: 03/03/2015
+    type: Sale (Full)

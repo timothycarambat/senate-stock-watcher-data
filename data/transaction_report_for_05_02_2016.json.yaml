@@ -1,0 +1,279 @@
+- bioguide: C001075
+  date_recieved: 05/02/2016
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/56cd23d0-e41f-41a4-9f69-d90722af497a/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Toyota Motor Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TM" target="_blank">TM</a>
+    transaction_date: 03/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Royal Dutch Shell plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RDS-B" target="_blank">RDS-B</a>
+    transaction_date: 03/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 03/31/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Occidental Petroleum Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=OXY" target="_blank">OXY</a>
+    transaction_date: 03/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 03/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 03/31/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Cummins Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CMI" target="_blank">CMI</a>
+    transaction_date: 03/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 03/31/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: CenturyLink, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CTL" target="_blank">CTL</a>
+    transaction_date: 03/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Caterpillar Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CAT" target="_blank">CAT</a>
+    transaction_date: 03/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: American Tower Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMT" target="_blank">AMT</a>
+    transaction_date: 03/31/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 03/31/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AMG Yacktman Service
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=YACKX" target="_blank">YACKX</a>
+    transaction_date: 03/29/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Wal-Mart Stores Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: V.F. Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VFC" target="_blank">VFC</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: United Technologies Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UTX" target="_blank">UTX</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Southern Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SO" target="_blank">SO</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Praxair Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PX" target="_blank">PX</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Novartis AG
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVS" target="_blank">NVS</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Norfolk Southern Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NSC" target="_blank">NSC</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lowe's Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LOW" target="_blank">LOW</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Johnson &amp; Johnson
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Emerson Electric Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EMR" target="_blank">EMR</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Eaton Vance Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EV" target="_blank">EV</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BlackRock, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BLK" target="_blank">BLK</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Abbott Laboratories
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ABT" target="_blank">ABT</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Aflac Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AFL" target="_blank">AFL</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+- bioguide: C001088
+  date_recieved: 05/02/2016
+  first_name: Christopher A
+  last_name: Coons
+  office: Coons, Chris (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9bcd76b3-61c3-434c-9b34-8398e7a50b40/
+  transactions:
+  - amount: $500,001 - $1,000,000
+    asset_description: W.L. Gore &amp; Associates Inc. <div class="text-muted"> <em>Company:</em>
+      W.L. Gore &amp; Associates Inc. &nbsp;(Newark, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Manufacturing</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/30/2015
+    type: Sale (Partial)

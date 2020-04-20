@@ -1,0 +1,15 @@
+- bioguide: C001047
+  date_recieved: 02/11/2017
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e326a763-0e64-4700-b4f6-d3c8b070b8dc/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: USB-U.S. Bancorp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=USB" target="_blank">USB</a>
+    transaction_date: 01/30/2017
+    type: Purchase

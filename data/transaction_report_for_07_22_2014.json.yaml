@@ -1,0 +1,23 @@
+- bioguide: R000307
+  date_recieved: 07/22/2014
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e6f5aa66-afae-43a5-9462-b6e12ba8bac5/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 06/06/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Co. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 06/06/2014
+    type: Sale (Full)

@@ -1,0 +1,15 @@
+- bioguide: I000024
+  date_recieved: 09/04/2015
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/97ec46e2-c917-4c6a-91cd-bc0c791b642f/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Discovery Communications, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCK" target="_blank">DISCK</a>
+    transaction_date: 08/07/2015
+    type: Sale (Partial)

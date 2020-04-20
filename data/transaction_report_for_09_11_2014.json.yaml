@@ -1,0 +1,23 @@
+- bioguide: R000120
+  date_recieved: 09/11/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/fe0e11a9-38bf-4e60-8ac6-2ae1f7732f83/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: NXP Semiconductors NV (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NXPI" target="_blank">NXPI</a>
+    transaction_date: 09/02/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: NXP Semiconductors NV (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NXPI" target="_blank">NXPI</a>
+    transaction_date: 09/02/2014
+    type: Purchase

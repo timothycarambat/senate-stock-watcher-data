@@ -1,0 +1,96 @@
+- bioguide: C000174
+  date_recieved: 08/03/2018
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4effd1f7-f8b3-4997-b6ce-08a6628a538d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Knight-Swift Transportation Holdings
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/23/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/23/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tellus Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/23/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Walt Disney Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/23/2018
+    type: Sale (Full)
+- bioguide: H001061
+  date_recieved: 08/03/2018
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/27c02c5d-a76b-4d5d-9f4e-758c6d91b4c5/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Weight Watchers International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
+    transaction_date: 07/26/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Westbrand, Inc. <div class="text-muted"> <em>Company:</em>
+      Westbrand, Inc. &nbsp;(Minot, North Dakota) </div> <div class="text-muted"><em>Description:</em>&nbsp;Bank
+      holding company of First Western Bank</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 07/25/2018
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 08/03/2018
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a622eaed-e4dc-4093-b5f5-e4fbd1834af1/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 07/27/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: SPDR Gold Shares
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GLD" target="_blank">GLD</a>
+    transaction_date: 07/03/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: EL DUPONT DE NEMOURS &amp; CO <div class="text-muted"><em>Rate/Coupon:</em>
+      6%<br> <em>Matures:</em> 07/15/2018</div>
+    asset_type: Corporate Bond
+    comment: This is a full redemption of a bond
+    owner: Joint
+    ticker: --
+    transaction_date: 07/16/2018
+    type: Sale (Full)

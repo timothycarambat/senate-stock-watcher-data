@@ -1,0 +1,38 @@
+- bioguide: B001135
+  date_recieved: 02/08/2018
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/84bdabd1-9e02-420a-937e-fc7906a75cc4/
+  transactions: []
+- bioguide: C001035
+  date_recieved: 02/08/2018
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/846b8cd9-497b-4dd9-bd1e-602233f2a572/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Tractor Supply Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSCO" target="_blank">TSCO</a>
+    transaction_date: 01/31/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Red Hat, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RHT" target="_blank">RHT</a>
+    transaction_date: 01/31/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Acuity Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AYI" target="_blank">AYI</a>
+    transaction_date: 01/31/2018
+    type: Sale (Full)

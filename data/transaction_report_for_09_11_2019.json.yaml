@@ -1,0 +1,15 @@
+- bioguide: C001075
+  date_recieved: 09/11/2019
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/17f2fb92-a548-45bc-9033-bd6b50703caa/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 08/01/2019
+    type: Sale (Full)

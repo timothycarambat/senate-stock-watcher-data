@@ -1,0 +1,102 @@
+- bioguide: M001183
+  date_recieved: 02/11/2016
+  first_name: Joseph
+  last_name: Manchin, III
+  office: Manchin, Joe (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6e59931f-6354-4980-bcc3-040d1bb9ebd4/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: West Virginia Growth Investment LLC <div class="text-muted">
+      <em>Company:</em> Figure 8 Surgical Inc. &nbsp;(Morgantown, WV) </div> <div
+      class="text-muted"><em>Description:</em>&nbsp;Sternal closure medical device
+      company</div>
+    asset_type: Non-Public Stock
+    comment: Underlying asset of West Virginia Growth Investment LLC
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/03/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: West Virginia Growth Investment LLC <div class="text-muted">
+      <em>Company:</em> PolyPlexx, LLC &nbsp;(Charleston, WV) </div> <div class="text-muted"><em>Description:</em>&nbsp;Chemical
+      process patents</div>
+    asset_type: Non-Public Stock
+    comment: Underlying asset of West Virginia Growth Investment LLC
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/03/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: West Virginia Growth Investment LLC <div class="text-muted">
+      <em>Company:</em> CereDx &nbsp;(Morgantown, WV) </div> <div class="text-muted"><em>Description:</em>&nbsp;Develops
+      new testing for stroke candidates</div>
+    asset_type: Non-Public Stock
+    comment: Underlying asset of West Virginia Growth Investment LLC
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/12/2016
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 02/11/2016
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/1036d588-6f60-4695-9b88-610bf7540e22/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;amp;P 500 ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 02/11/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: SPY Feb 2016 put 180.000
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY160219P00180000" target="_blank">SPY160219P00180000</a>
+    transaction_date: 01/19/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SPY Feb 2016 put 180.000
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY160219P00180000" target="_blank">SPY160219P00180000</a>
+    transaction_date: 01/19/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPY Feb 2016 put 180.000
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY160219P00180000" target="_blank">SPY160219P00180000</a>
+    transaction_date: 01/19/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Nordea Bank AB
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 12/31/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: United States Treasury Note <div class="text-muted"> <em>Company:</em>
+      United States Treasury Note </div>
+    asset_type: Other Securities
+    comment: 'Symbol: 912828XA3'
+    owner: Joint
+    ticker: --
+    transaction_date: 12/31/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: iShares MSCI Emerging Markets
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EEM" target="_blank">EEM</a>
+    transaction_date: 12/30/2015
+    type: Sale (Partial)

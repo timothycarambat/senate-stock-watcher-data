@@ -1,0 +1,81 @@
+- bioguide: B001135
+  date_recieved: 07/16/2015
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/E273DE65-7F80-4CBE-AA9A-EA232D165C4C/
+  transactions: []
+- bioguide: R000120
+  date_recieved: 07/16/2015
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b75cb037-87d1-4373-9f70-3f26109d1df1/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Altera Corp. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ALTR" target="_blank">ALTR</a>
+    transaction_date: 06/30/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Affiliated Managers Group Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMG" target="_blank">AMG</a>
+    transaction_date: 06/30/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Altera Corp. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ALTR" target="_blank">ALTR</a>
+    transaction_date: 06/30/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Affiliated Managers Group Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMG" target="_blank">AMG</a>
+    transaction_date: 06/30/2015
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 07/16/2015
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c56210d5-0612-4026-a361-df15fb546545/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Patriot Financial Partners II, LP <div class="text-muted">
+      <em>Company:</em> Patriot Financial Partners II, LP &nbsp;(Philadelphia, PA)
+      </div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 05/18/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BPG Properties, Ltd 2009 <div class="text-muted"> <em>Company:</em>
+      BPG Properties, Ltd 2009 &nbsp;(Philadelphia , PA) </div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 05/27/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BPG9 <div class="text-muted"> <em>Company:</em> BPG Properties,
+      Ltd 2009 &nbsp;(Philadelphia, PA) </div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 06/01/2015
+    type: Purchase

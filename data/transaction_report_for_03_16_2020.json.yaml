@@ -1,0 +1,39 @@
+- bioguide: M000934
+  date_recieved: 03/16/2020
+  first_name: Jerry
+  last_name: 'Moran,  '
+  office: Moran, Jerry (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/d35dfe91-076e-45b7-9fd1-8d4dd9ad72bd/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Vanguard FTSE Emerging Markets Index Fund ETF Shar
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VWO" target="_blank">VWO</a>
+    transaction_date: 03/10/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Halliburton Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HAL" target="_blank">HAL</a>
+    transaction_date: 03/10/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 03/10/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 03/10/2020
+    type: Purchase

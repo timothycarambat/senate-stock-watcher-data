@@ -1,0 +1,63 @@
+- bioguide: C000174
+  date_recieved: 10/21/2014
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cf6b7999-604c-47fd-83c5-47a9366675f3/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: CFI Trigger Jump based on the price of gold due 9/29/14
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/29/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPM Contingent Autocall Apple Inc 9.50% due 9/29/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/26/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: JPM Contingent Autocall STX Inc 9.75% due 9/22/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Nike Inc B
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/18/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: JPM Contingent Autocall Applied Materials 10.85% due 6/11/2015
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/11/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Powershares NASDAQ Internet
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/09/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Barclays Contingent Autocall on Bristol Myers 8% due 6/2/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/05/2014
+    type: Sale (Full)

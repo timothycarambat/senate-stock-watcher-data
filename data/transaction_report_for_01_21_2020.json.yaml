@@ -1,0 +1,79 @@
+- bioguide: S001217
+  date_recieved: 01/21/2020
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/891c7d3d-9085-47e2-8aa0-d20cf767487b/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Port Authority of NY &amp; NJ Bonds 218 Series <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 11/01/2030</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/19/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Port Authority of NY &amp; NJ Bonds 218 Series <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 11/01/2032</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/19/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Port Authority of NY &amp; NJ Bonds 218 Series <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 11/01/2030</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/19/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: Port Authority of NY &amp; NJ Bonds 218 Series <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 11/01/2030</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/19/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Broward County Fla Airport System Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/17/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Broward County Fla Airport System Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/17/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Broward County Fla Airport System Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/17/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: Broward County Fla Airport System Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/17/2019
+    type: Purchase

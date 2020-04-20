@@ -1,0 +1,150 @@
+- bioguide: R000120
+  date_recieved: 04/09/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/647ef29d-2d05-44c0-8a5f-66183194cb66/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: PROSHARES TRUST ETF
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SANOFI ADR
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Freeport-McMoRan Copper &amp; Gold Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FCX" target="_blank">FCX</a>
+    transaction_date: 03/28/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: XILINX Inc.
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Biotech ETF
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: NCR Corp New
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Altera Corp. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ALTR" target="_blank">ALTR</a>
+    transaction_date: 03/28/2014
+    type: Purchase
+- bioguide: R000120
+  date_recieved: 04/09/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ae491574-c7dc-414f-b601-8b3cea60f4f7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Zimmer Holdings, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ZMH" target="_blank">ZMH</a>
+    transaction_date: 03/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: NCR Corp New
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 03/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Global X Funds ETF
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Proshares Trust ETF
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Sanofi ADR
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Qualcomm Inc.
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Express Scripts HLDG Co.
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Applied Materials Inc
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 03/28/2014
+    type: Purchase

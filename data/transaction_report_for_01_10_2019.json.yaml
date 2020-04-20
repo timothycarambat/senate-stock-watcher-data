@@ -1,0 +1,190 @@
+- bioguide: U000039
+  date_recieved: 01/10/2019
+  first_name: Thomas
+  last_name: Udall
+  office: Udall, Tom (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3d4fc7ff-d1fc-4b0a-a4a0-493a65ab9d07/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 12/18/2018
+    type: Sale (Partial)
+- bioguide: W000802
+  date_recieved: 01/10/2019
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a22bbeeb-0e4f-4993-89e2-ed28ba9f6242/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 12/04/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 12/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Eaton Corporation plc
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ETN" target="_blank">ETN</a>
+    transaction_date: 12/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Anheuser-Busch InBev SA/NV
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BUD" target="_blank">BUD</a>
+    transaction_date: 12/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Resideo Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REZI" target="_blank">REZI</a>
+    transaction_date: 12/04/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 12/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 12/28/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 12/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 12/28/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 12/28/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 12/28/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Citigroup Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 12/03/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Anheuser-Busch InBev SA/NV
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BUD" target="_blank">BUD</a>
+    transaction_date: 12/03/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Resideo Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=REZI" target="_blank">REZI</a>
+    transaction_date: 12/03/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 12/04/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Union Pacific Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UNP" target="_blank">UNP</a>
+    transaction_date: 12/04/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Capital One Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=COF" target="_blank">COF</a>
+    transaction_date: 12/19/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Illumina, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ILMN" target="_blank">ILMN</a>
+    transaction_date: 12/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 12/28/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 12/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Square, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SQ" target="_blank">SQ</a>
+    transaction_date: 12/28/2018
+    type: Purchase

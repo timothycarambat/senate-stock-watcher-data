@@ -1,0 +1,47 @@
+- bioguide: R000120
+  date_recieved: 08/07/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6d829137-deb9-402d-95f8-095480868da9/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Xilinx Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XLNX" target="_blank">XLNX</a>
+    transaction_date: 07/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Vanguard Emerging Markets Stock Idx ETF
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VWO" target="_blank">VWO</a>
+    transaction_date: 07/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: iShares MSCI Emerging Markets
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EEM" target="_blank">EEM</a>
+    transaction_date: 07/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Altera Corp. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ALTR" target="_blank">ALTR</a>
+    transaction_date: 07/28/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Retail ETF
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XRT" target="_blank">XRT</a>
+    transaction_date: 07/28/2014
+    type: Sale (Partial)

@@ -1,0 +1,15 @@
+- bioguide: M000357
+  date_recieved: 03/11/2020
+  first_name: A. Mitchell
+  last_name: McConnell, Jr.
+  office: McConnell, A. Mitchell Jr. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ce3e9174-2da2-4f53-9f7f-37f9e0305a9f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: Dividend Reinvestment
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 03/04/2020
+    type: Purchase

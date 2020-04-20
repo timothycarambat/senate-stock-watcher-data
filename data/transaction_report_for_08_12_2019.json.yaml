@@ -1,0 +1,274 @@
+- bioguide: T000461
+  date_recieved: 08/12/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/adfa0396-aa71-4fe6-8033-600e6e70e669/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: FIRST NIAGARA FINANCIAL GROUP INC <div class="text-muted"><em>Rate/Coupon:</em>
+      6.75%<br> <em>Matures:</em> 03/19/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 03/22/2018
+    type: Sale (Partial)
+- bioguide: T000461
+  date_recieved: 08/12/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f3401d4b-32f3-4ae3-8fad-d76d5154f170/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 07/27/2018
+    type: Sale (Partial)
+- bioguide: T000461
+  date_recieved: 08/12/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42013227-54d2-4641-ba01-d21a7d77cee7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: CrossAmerica Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CAPL" target="_blank">CAPL</a>
+    transaction_date: 08/22/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: CrossAmerica Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CAPL" target="_blank">CAPL</a>
+    transaction_date: 08/09/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 08/02/2018
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 08/12/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/482ea72a-ca70-4fd9-922a-68cd723b0ee7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Provident Financial Services, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 01/05/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 01/08/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Provident Financial Services, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 01/08/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 01/30/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 01/30/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America Corporation <div class="text-muted"><em>Rate/Coupon:</em>
+      5.5%<br> <em>Matures:</em> 03/15/2018</div>
+    asset_type: Corporate Bond
+    comment: This transaction was a sale of a BAC bond. Originally, this transaction
+      was inadvertently listed as a sale of BAC stock.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 01/05/2018
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 08/12/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a2e8208b-16b3-4e97-ad54-fa8b2e6e443a/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 05/16/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Box, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BOX" target="_blank">BOX</a>
+    transaction_date: 05/02/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Box, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BOX" target="_blank">BOX</a>
+    transaction_date: 05/02/2018
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 08/12/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/fbe05b6b-08c1-4c10-8115-2e453d6f8a06/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Neurotrope, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NTRP" target="_blank">NTRP</a>
+    transaction_date: 02/15/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 02/08/2018
+    type: Sale (Partial)
+- bioguide: T000461
+  date_recieved: 08/12/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6f737b9c-6983-43ae-854d-8e03a702c3b7/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 07/27/2018
+    type: Sale (Partial)
+- bioguide: T000461
+  date_recieved: 08/12/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/d70bb093-22e4-48a6-a682-2aa1f569d32c/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 09/06/2018
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 08/12/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/957fc2e0-f898-4b9b-acbc-c7acca4820e8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 04/30/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Box, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BOX" target="_blank">BOX</a>
+    transaction_date: 04/23/2018
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 08/12/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/fb862ec8-d6d8-4199-8ffe-41b750ebfe3f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 06/25/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 06/06/2018
+    type: Sale (Partial)
+- bioguide: W000805
+  date_recieved: 08/12/2019
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/85a752ed-7121-421f-8c1e-2a055fffe95e/
+  transactions:
+  - amount: $500,001 - $1,000,000
+    asset_description: Hawthorne EB North Rivers, LLC <div class="text-muted"> <em>Company:</em>
+      Hawthorne EB North Rivers, LLC/The Promenade Northwoods &nbsp;(North Charleston,
+      SC) </div> <div class="text-muted"><em>Description:</em>&nbsp;Real Estate</div>
+    asset_type: Other Securities
+    comment: Underlying asset of Echo Bridge Realty Fund I, L.P.
+    owner: Self
+    ticker: --
+    transaction_date: 07/03/2019
+    type: Sale (Full)

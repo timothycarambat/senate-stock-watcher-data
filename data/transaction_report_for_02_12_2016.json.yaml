@@ -1,0 +1,60 @@
+- bioguide: P000595
+  date_recieved: 02/12/2016
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e1c8b2ba-e3eb-4cfc-8e9f-c99fc677a7a7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: WASHOE CNTY NEV SCH DIST RFDG-SCH IMPT-SER A <div class="text-muted"><em>Rate/Coupon:</em>
+      3.125%<br> <em>Matures:</em> 06/01/2036</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/25/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CELINA TEX INDPT SCH DIST RFDG-SCH BLDG PERMANENT SCHOOL FUND
+      GUARANTY <div class="text-muted"><em>Rate/Coupon:</em> 3.00%<br> <em>Matures:</em>
+      08/15/2037</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/25/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: ABBVIE INC NTS B/E <div class="text-muted"><em>Rate/Coupon:</em>
+      2.900%<br> <em>Matures:</em> 11/06/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/25/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: MONSANTO CO B/E <div class="text-muted"><em>Rate/Coupon:</em>
+      3.375%<br> <em>Matures:</em> 07/15/2024</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/26/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: W. P. Carey Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WPC" target="_blank">WPC</a>
+    transaction_date: 01/26/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Nucor Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NUE" target="_blank">NUE</a>
+    transaction_date: 01/26/2016
+    type: Purchase

@@ -1,0 +1,88 @@
+- bioguide: I000024
+  date_recieved: 09/19/2017
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6351df8c-6f4a-4598-90a8-42a50d855d4c/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 09/15/2017
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: General Motors Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 08/30/2017
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Coherent, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=COHR" target="_blank">COHR</a>
+    transaction_date: 08/30/2017
+    type: Purchase
+- bioguide: P000595
+  date_recieved: 09/19/2017
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/984c84fa-c389-49cf-995b-75afcefdc5b1/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: DISCOVER FINL SVCS NTS <div class="text-muted"><em>Rate/Coupon:</em>
+      3.050%<br> <em>Matures:</em> 09/15/2023</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 09/11/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Brighthouse Financial, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BHF" target="_blank">BHF</a>
+    transaction_date: 08/23/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: MULTNOMAH CNTY ORE SCH DIST NO 1J PORTLAND PORTLAND PUB SCHS-SER
+      B OREGON SCHOOL BOND GUARANTEE PROG <div class="text-muted"><em>Rate/Coupon:</em>
+      3.00%<br> <em>Matures:</em> 06/15/2037</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 08/23/2017
+    type: Purchase
+- bioguide: R000120
+  date_recieved: 09/19/2017
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3119e824-d7fa-44df-8f51-e33693af10bd/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Quintiles IMS Holdings, Inc.
+    asset_type: Stock
+    comment: 'Note: Transaction was less than $1,000.'
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=Q" target="_blank">Q</a>
+    transaction_date: 09/18/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Quintiles IMS Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=Q" target="_blank">Q</a>
+    transaction_date: 09/18/2017
+    type: Purchase

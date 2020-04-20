@@ -1,0 +1,23 @@
+- bioguide: B001277
+  date_recieved: 02/19/2019
+  first_name: 'RICHARD '
+  last_name: BLUMENTHAL
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/8e223aef-2f07-43cb-9af3-12914429aa46/
+  transactions: []
+- bioguide: P000595
+  date_recieved: 02/19/2019
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c8f3ddd3-5ed2-4342-9698-690d7c77a082/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: HONOLULU HAWAII CITY &amp; CNTY GO BDS A DUE 10/01/2041 <div
+      class="text-muted"><em>Rate/Coupon:</em> 3.00%<br> <em>Matures:</em> 10/01/2041</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 02/01/2019
+    type: Purchase

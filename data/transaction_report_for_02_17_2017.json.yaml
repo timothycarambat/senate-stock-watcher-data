@@ -1,0 +1,31 @@
+- bioguide: T000476
+  date_recieved: 02/17/2017
+  first_name: Thomas R
+  last_name: Tillis
+  office: Tillis, Thom (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c7e41996-1636-4615-8d99-3fe47ca90f95/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Aquesta Financial Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AQFH" target="_blank">AQFH</a>
+    transaction_date: 02/03/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Aquesta Financial Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AQFH" target="_blank">AQFH</a>
+    transaction_date: 02/01/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: AQFH-Aquesta Financial Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 01/26/2017
+    type: Sale (Partial)

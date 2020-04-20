@@ -1,0 +1,15 @@
+- bioguide: R000120
+  date_recieved: 01/14/2016
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/820f9aa8-b741-4642-b0df-7728f66e1d4a/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Vanguard FTSE Emerging Markets ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VWO" target="_blank">VWO</a>
+    transaction_date: 12/29/2015
+    type: Sale (Full)

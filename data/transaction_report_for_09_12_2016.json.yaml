@@ -1,0 +1,23 @@
+- bioguide: I000024
+  date_recieved: 09/12/2016
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8952b980-2f92-434b-89df-dbf67c034adf/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Allergan plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AGN" target="_blank">AGN</a>
+    transaction_date: 09/15/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Perrigo Company plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PRGO" target="_blank">PRGO</a>
+    transaction_date: 08/12/2016
+    type: Sale (Full)

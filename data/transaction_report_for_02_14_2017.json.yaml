@@ -1,0 +1,159 @@
+- bioguide: C001035
+  date_recieved: 02/14/2017
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/614f837e-4d49-459b-b50b-1e6cdd90d212/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Federal Farm Credit Bank 3133EGU94 <div class="text-muted"><em>Rate/Coupon:</em>
+      2.300%<br> <em>Matures:</em> 12/14/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/31/2017
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 02/14/2017
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/18f07909-0ca6-4804-8503-d83c0b84a15e/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Medtronic plc
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=MDT" target="_blank">MDT</a>
+    transaction_date: 01/11/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 01/11/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Palo Alto Networks, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PANW" target="_blank">PANW</a>
+    transaction_date: 01/11/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: UnitedHealth Group Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=UNH" target="_blank">UNH</a>
+    transaction_date: 01/11/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Palo Alto Networks, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PANW" target="_blank">PANW</a>
+    transaction_date: 01/11/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/11/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: "Nestl\xE9 S.A."
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NSRGY" target="_blank">NSRGY</a>
+    transaction_date: 01/11/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: T-Mobile US, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TMUS" target="_blank">TMUS</a>
+    transaction_date: 01/24/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Ingersoll-Rand Plc
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IR" target="_blank">IR</a>
+    transaction_date: 01/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 01/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: MO-Altria Group, Inc.
+    asset_type: Stock
+    comment: Acquired as a result of a 9/21/16 inheritance
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MO" target="_blank">MO</a>
+    transaction_date: 01/30/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: LW-Lamb Weston Holdings, Inc.
+    asset_type: Stock
+    comment: LW received as a split from CAG on 11/09/16
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LW" target="_blank">LW</a>
+    transaction_date: 01/30/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/11/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Ingersoll-Rand Plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IR" target="_blank">IR</a>
+    transaction_date: 01/25/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Altria Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MO" target="_blank">MO</a>
+    transaction_date: 01/30/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: U.S. Bancorp
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=USB" target="_blank">USB</a>
+    transaction_date: 01/25/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 01/30/2017
+    type: Purchase

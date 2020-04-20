@@ -1,0 +1,31 @@
+- bioguide: C000141
+  date_recieved: 11/29/2014
+  first_name: Benjamin L
+  last_name: Cardin
+  office: Cardin, Benjamin L. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2315722c-3ef7-4724-aef7-80c564b1dbb7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: National Grid plc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NGG" target="_blank">NGG</a>
+    transaction_date: 11/17/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Olin Corp. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OLN" target="_blank">OLN</a>
+    transaction_date: 11/17/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: MetLife, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MET" target="_blank">MET</a>
+    transaction_date: 11/17/2014
+    type: Sale (Full)

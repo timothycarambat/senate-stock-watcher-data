@@ -1,0 +1,23 @@
+- bioguide: W000802
+  date_recieved: 07/18/2019
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/93e79f26-9cce-4cec-936f-33435468bdc0/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: "Nestl\xE9 S.A."
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NSRGY" target="_blank">NSRGY</a>
+    transaction_date: 06/05/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Coca-Cola Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 06/05/2019
+    type: Purchase

@@ -1,0 +1,146 @@
+- bioguide: C000174
+  date_recieved: 09/01/2015
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bd75505b-cd44-431d-94b2-7eda40672953/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: HSBC Contingent Autocall on Briston Myers Squibb <div class="text-muted"><em>Rate/Coupon:</em>
+      8.5%<br> <em>Matures:</em> 08/31/2018</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/28/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: UBS Contingent Autocall Marathon Petroleum <div class="text-muted"><em>Rate/Coupon:</em>
+      11%<br> <em>Matures:</em> 08/17/2018</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/14/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: JPM Contingent Autocall Prudential Financial <div class="text-muted"><em>Rate/Coupon:</em>
+      8.15%<br> <em>Matures:</em> 08/11/2017</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/13/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: JPM Contingent Autocall Mobileye N.V. <div class="text-muted"><em>Rate/Coupon:</em>
+      13.75%<br> <em>Matures:</em> 05/05/2016</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/06/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AGL Resources Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GAS" target="_blank">GAS</a>
+    transaction_date: 08/25/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ameren Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AEE" target="_blank">AEE</a>
+    transaction_date: 08/25/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Baxalta
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/04/2015
+    type: Sale (Full)
+- bioguide: W000802
+  date_recieved: 09/01/2015
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/24a82dfc-b32a-4ec8-b78c-f72ec81f32d1/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 08/04/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Biogen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 08/04/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Coca-Cola Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 08/10/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Biogen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 08/10/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Biogen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 08/10/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Biogen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 08/04/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 08/04/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Verizon Communications Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 08/04/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 07/15/2015
+    type: Purchase

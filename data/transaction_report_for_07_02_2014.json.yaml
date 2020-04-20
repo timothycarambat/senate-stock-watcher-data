@@ -1,0 +1,89 @@
+- bioguide: W000779
+  date_recieved: 07/02/2014
+  first_name: Ron
+  last_name: Wyden
+  office: Wyden, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/94cdb35a-a771-4aa7-a7f7-fef0082343e5/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: WATERVILLE N Y CENT SCH DIST SCH DIST BDS 2006
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/03/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: SCHENECTADY CNTY N Y VAR PURP BDS 2013
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/03/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: PORT AUTH N Y &amp; N J CONSOLIDATED BDS 179
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/03/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: NEW YORK ST LOC GOVT ASSISTANCE CORP REF BDS 1993E
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/03/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NEW YORK N Y CITY TRANSITIONAL FIN AUTH FUTURE TAX SECURED
+      SUB BDS 2007B
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/03/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NASSAU CNTY N Y SWR &amp; STORM WTR FIN AUT REV BDS 2008A
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/03/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: ERIE CNTY NY INDL DEV AGY SCH FAC REV REV BDS CITY SCH DIST
+      OF BUFFALO 2008A
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/03/2014
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: new york st dorm auth lease bond fund
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/07/2013
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: triborough brdg &amp; Tunl auth ny rev bond
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/30/2013
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: brookhaven NY ref bonds
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/30/2013
+    type: Purchase

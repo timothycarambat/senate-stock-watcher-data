@@ -1,0 +1,135 @@
+- bioguide: C001088
+  date_recieved: 08/28/2018
+  first_name: Christopher A
+  last_name: Coons
+  office: Coons, Chris (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ee7fdf0d-58cd-4aa1-a412-75f7aea2f1c1/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: W.L. Gore &amp; Associates Inc. <div class="text-muted"> <em>Company:</em>
+      W.L. Gore &amp; Associates Inc. &nbsp;(Newark, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Advanced
+      materials manufacturing</div>
+    asset_type: Non-Public Stock
+    comment: Gorfam Inc. sold stock to benefit another shareholder. Child received
+      only funds to cover taxes.
+    owner: Child
+    ticker: --
+    transaction_date: 06/22/2018
+    type: Sale (Partial)
+  - amount: $250,001 - $500,000
+    asset_description: W.L. Gore &amp; Associates Inc. <div class="text-muted"> <em>Company:</em>
+      W.L. Gore &amp; Associates Inc. &nbsp;(Newark, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Advanced
+      materials manufacturing</div>
+    asset_type: Non-Public Stock
+    comment: Gorfam Inc. sold stock to benefit another shareholder. Child received
+      only funds to cover taxes.
+    owner: Child
+    ticker: --
+    transaction_date: 06/22/2018
+    type: Sale (Partial)
+  - amount: $250,001 - $500,000
+    asset_description: W.L. Gore &amp; Associates Inc. <div class="text-muted"> <em>Company:</em>
+      W.L. Gore &amp; Associates Inc. &nbsp;(Newark, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Advanced
+      materials manufacturing</div>
+    asset_type: Non-Public Stock
+    comment: Gorfam Inc. sold stock to benefit another shareholder. Child received
+      only funds to cover taxes.
+    owner: Child
+    ticker: --
+    transaction_date: 06/22/2018
+    type: Sale (Partial)
+- bioguide: R000307
+  date_recieved: 08/28/2018
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9bf4061a-631f-4413-9e74-aaf653ffa30e/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 08/21/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/30/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: Jt
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 08/20/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Devon Energy Corporation
+    asset_type: Stock
+    comment: Jt
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 08/20/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: Sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 08/20/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Northrop Grumman Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NOC" target="_blank">NOC</a>
+    transaction_date: 08/20/2018
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 07/30/2018
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 07/30/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 07/30/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 07/30/2018
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 07/30/2018
+    type: Sale (Full)

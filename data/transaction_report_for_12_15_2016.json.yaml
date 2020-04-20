@@ -1,0 +1,94 @@
+- bioguide: R000120
+  date_recieved: 12/15/2016
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0fb8d5eb-e20b-4059-96ae-db537df609c8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: WisdomTree Investments, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WETF" target="_blank">WETF</a>
+    transaction_date: 12/14/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Dell Technologies Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DVMT" target="_blank">DVMT</a>
+    transaction_date: 12/14/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Affiliated Managers Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMG" target="_blank">AMG</a>
+    transaction_date: 12/14/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Semiconductor ETF
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XSD" target="_blank">XSD</a>
+    transaction_date: 12/14/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 12/14/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 12/14/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: iShares US Broker-Dealers &amp; Secs Exchs
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IAI" target="_blank">IAI</a>
+    transaction_date: 12/14/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Affiliated Managers Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMG" target="_blank">AMG</a>
+    transaction_date: 12/14/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Semiconductor ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XSD" target="_blank">XSD</a>
+    transaction_date: 12/14/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 12/14/2016
+    type: Purchase
+- bioguide: W000805
+  date_recieved: 12/15/2016
+  first_name: MARK R
+  last_name: WARNER
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/a7a15ba6-fde7-4b5a-b6bf-d3517746144d/
+  transactions: []

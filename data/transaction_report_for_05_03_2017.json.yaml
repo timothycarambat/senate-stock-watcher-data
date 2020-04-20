@@ -1,0 +1,105 @@
+- bioguide: C000174
+  date_recieved: 05/03/2017
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/1337a2d7-6022-43c2-aad8-4b92e1b581fb/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Barclays Contingent Autocall on Apple <div class="text-muted"><em>Rate/Coupon:</em>
+      8.15%<br> <em>Matures:</em> 07/13/2018</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/13/2017
+    type: Sale (Full)
+- bioguide: H001061
+  date_recieved: 05/03/2017
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0068462f-ee01-4550-98c9-b4437019d615/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 04/24/2017
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Mondelez International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MDLZ" target="_blank">MDLZ</a>
+    transaction_date: 04/24/2017
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: General Mills, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GIS" target="_blank">GIS</a>
+    transaction_date: 04/21/2017
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 04/21/2017
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Simon Property Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SPG" target="_blank">SPG</a>
+    transaction_date: 04/20/2017
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Kohl's Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KSS" target="_blank">KSS</a>
+    transaction_date: 04/20/2017
+    type: Sale (Full)
+- bioguide: P000595
+  date_recieved: 05/03/2017
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/aff8a922-560d-4df4-a6e5-14c5d7751e90/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: MIAMI-DADE CNTY FLA SCH DIST <div class="text-muted"><em>Rate/Coupon:</em>
+      3.25%<br> <em>Matures:</em> 03/15/2033</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 05/02/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: TURLOCK CALIF UNI SCH DIST <div class="text-muted"><em>Rate/Coupon:</em>
+      3.50%<br> <em>Matures:</em> 08/01/2039</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 04/26/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: GUILFORD CNTY N C RFDG PUB IMPT-SER B <div class="text-muted"><em>Rate/Coupon:</em>
+      3.125%<br> <em>Matures:</em> 05/01/2035</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 04/26/2017
+    type: Purchase

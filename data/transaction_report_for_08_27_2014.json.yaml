@@ -1,0 +1,23 @@
+- bioguide: R000120
+  date_recieved: 08/27/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/76614a3b-7669-40b3-ab73-5b49c42af0d7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 08/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 08/19/2014
+    type: Purchase

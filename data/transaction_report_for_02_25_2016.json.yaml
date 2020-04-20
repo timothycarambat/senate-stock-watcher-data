@@ -1,0 +1,23 @@
+- bioguide: C001075
+  date_recieved: 02/25/2016
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ea758fbc-f062-401b-8c38-66139a93efff/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: ConocoPhillips
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COP" target="_blank">COP</a>
+    transaction_date: 02/09/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 02/09/2016
+    type: Purchase

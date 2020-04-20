@@ -1,0 +1,28 @@
+- bioguide: P000595
+  date_recieved: 01/25/2020
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f330078d-ccbe-46f5-9764-376f7b421236/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: WARRINGTON TWP PA GO BDS 2014 DUE 12/01/2029 (Exchanged) <br>
+      WARRINGTON TWP PA GO BDS 2014 DUE 12/01/2029 CALLABLE-NEXT PRICING CALL 12/01/2024
+      (Received) <div class="text-muted"><em>Rate/Coupon:</em> 3.125%<br> <em>Matures:</em>
+      12/01/2029</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/31/2019
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: WARRINGTON TWP PA GO BDS 2014 DUE 12/01/2029 (Exchanged) <br>
+      WARRINGTON TWP PA GO BDS 2014 DUE 12/01/2029 PREREFUNDED 12/01/2024 (Received)
+      <div class="text-muted"><em>Rate/Coupon:</em> 3.125%<br> <em>Matures:</em> 12/01/2029</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/31/2019
+    type: Exchange

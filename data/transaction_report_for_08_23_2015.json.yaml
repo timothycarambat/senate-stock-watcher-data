@@ -1,0 +1,47 @@
+- bioguide: R000307
+  date_recieved: 08/23/2015
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/da32cc82-662c-4fc0-a938-9dcd2ef8e845/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Baidu, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: roth
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIDU" target="_blank">BIDU</a>
+    transaction_date: 07/27/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: Stock
+    comment: roth
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 07/27/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: Stock
+    comment: roth
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 07/24/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: STARBUCKS (Swiss)
+    asset_type: Stock
+    comment: roth
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX.SW" target="_blank">SBUX.SW</a>
+    transaction_date: 07/13/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation (NASDAQ)
+    asset_type: Stock
+    comment: roth
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 07/02/2015
+    type: Sale (Full)

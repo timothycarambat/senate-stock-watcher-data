@@ -1,0 +1,15 @@
+- bioguide: C001075
+  date_recieved: 10/31/2018
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a57e8890-7890-4e0e-bef7-bd8fb22c9d44/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: T. Rowe Price Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TROW" target="_blank">TROW</a>
+    transaction_date: 10/31/2016
+    type: Purchase

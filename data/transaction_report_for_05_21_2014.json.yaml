@@ -1,0 +1,15 @@
+- bioguide: C001088
+  date_recieved: 05/21/2014
+  first_name: Christopher A
+  last_name: Coons
+  office: Coons, Chris (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4d53f9d0-7982-4dd7-947f-c77e7b81f481/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: W.L. Gore &amp; Associates Inc.
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/06/2014
+    type: Sale (Partial)

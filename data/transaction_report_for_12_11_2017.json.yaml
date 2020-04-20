@@ -1,0 +1,94 @@
+- bioguide: D000622
+  date_recieved: 12/11/2017
+  first_name: Tammy
+  last_name: Duckworth
+  office: Duckworth, Tammy (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2db68076-a5e6-49c9-9d73-6017b6885e67/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 11/30/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: South32 Limited
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SOUHY" target="_blank">SOUHY</a>
+    transaction_date: 11/01/2017
+    type: Sale (Full)
+- bioguide: W000802
+  date_recieved: 12/11/2017
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5d05e733-82e7-42a4-9653-0859439e3f13/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 11/27/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 11/27/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 11/27/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: T-Mobile US, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TMUS" target="_blank">TMUS</a>
+    transaction_date: 11/01/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: T-Mobile US, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TMUS" target="_blank">TMUS</a>
+    transaction_date: 11/07/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 11/27/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 11/27/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Wal-Mart Stores, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 11/27/2017
+    type: Purchase

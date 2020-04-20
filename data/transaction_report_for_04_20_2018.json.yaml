@@ -1,0 +1,38 @@
+- bioguide: B001236
+  date_recieved: 04/20/2018
+  first_name: 'JOHN '
+  last_name: BOOZMAN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/e194954a-ab04-4284-9d79-c830631d348d/
+  transactions: []
+- bioguide: S001203
+  date_recieved: 04/20/2018
+  first_name: Tina
+  last_name: Smith
+  office: Smith, Tina (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e4eae413-9ad7-4ccf-a37c-a277a55707cc/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Cogentix Medical, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CGNT" target="_blank">CGNT</a>
+    transaction_date: 04/12/2018
+    type: Sale (Partial)
+  - amount: $100,001 - $250,000
+    asset_description: Cogentix Medical, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CGNT" target="_blank">CGNT</a>
+    transaction_date: 04/12/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Cogentix Medical, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CGNT" target="_blank">CGNT</a>
+    transaction_date: 04/10/2018
+    type: Sale (Partial)

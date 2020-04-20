@@ -1,0 +1,32 @@
+- bioguide: R000605
+  date_recieved: 08/21/2018
+  first_name: Mike
+  last_name: Rounds
+  office: Rounds, Mike (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/db61ea4a-79be-4bb5-b6f6-505d717dde9c/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Bird Dog Hospitality, LLC <div class="text-muted"> <em>Company:</em>
+      Bird Dog Hospitality, LLC &nbsp;(Sioux Falls, SD) </div> <div class="text-muted"><em>Description:</em>&nbsp;Hospitality
+      Investments</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 08/20/2018
+    type: Purchase
+- bioguide: S001203
+  date_recieved: 08/21/2018
+  first_name: Tina
+  last_name: Smith
+  office: Smith, Tina (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b5aa283c-4a0b-44f2-8571-e68bf04c6984/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: IntriCon Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IIN" target="_blank">IIN</a>
+    transaction_date: 07/26/2018
+    type: Sale (Partial)

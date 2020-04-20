@@ -1,0 +1,50 @@
+- bioguide: I000024
+  date_recieved: 04/10/2020
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7d096cf3-d20a-41fe-b493-f758a829a6ce/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Brookfield Asset Management Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BAM" target="_blank">BAM</a>
+    transaction_date: 03/20/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Citigroup Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 03/09/2020
+    type: Sale (Full)
+- bioguide: W000805
+  date_recieved: 04/10/2020
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e2727dd9-816b-4bcb-b303-9eaaa4c39215/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Trilliant Networks, Inc. <div class="text-muted"> <em>Company:</em>
+      Trilliant Networks, Inc. &nbsp;(Redwood City, CA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Intelligent
+      Network Solutions Company</div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/25/2020
+    type: Sale (Full)
+  - amount: $250,001 - $500,000
+    asset_description: Revival LOC, LLC <div class="text-muted"> <em>Company:</em>
+      Revival LOC, LLC &nbsp;(Springfield, NJ) </div> <div class="text-muted"><em>Description:</em>&nbsp;Line
+      of Credit - Manufacturer</div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/09/2020
+    type: Purchase

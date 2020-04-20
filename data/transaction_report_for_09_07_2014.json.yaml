@@ -1,0 +1,95 @@
+- bioguide: B001288
+  date_recieved: 09/07/2014
+  first_name: Cory A
+  last_name: Booker
+  office: Booker, Cory (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7abb2400-6528-4f7f-9739-248dfedc3ca2/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Nike, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NKE" target="_blank">NKE</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Iron Mountain Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IRM" target="_blank">IRM</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: International Business Machines Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amazon.com Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Dish Network Corp. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DISH" target="_blank">DISH</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: American Tower Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMT" target="_blank">AMT</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: eBay Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=EBAY" target="_blank">EBAY</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Iron Mountain Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IRM" target="_blank">IRM</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 08/08/2014
+    type: Sale (Full)

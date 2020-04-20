@@ -1,0 +1,15 @@
+- bioguide: C000127
+  date_recieved: 05/11/2016
+  first_name: Maria
+  last_name: Cantwell
+  office: Cantwell, Maria (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/03ac42db-829c-4c48-8624-fa9dd85f1ad7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: RealNetworks Inc.
+    asset_type: Stock
+    comment: Sale of two blocks
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=RNWK" target="_blank">RNWK</a>
+    transaction_date: 04/28/2016
+    type: Sale (Partial)

@@ -1,0 +1,39 @@
+- bioguide: H001061
+  date_recieved: 09/22/2014
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/921b5d2e-4bab-4241-85c9-66d7be05aa83/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: The Blackstone Group L.P. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BX" target="_blank">BX</a>
+    transaction_date: 08/25/2014
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: The Est (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=EL" target="_blank">EL</a>
+    transaction_date: 08/25/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Yum! Brands, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=YUM" target="_blank">YUM</a>
+    transaction_date: 08/25/2014
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Pepsico, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 08/26/2014
+    type: Purchase

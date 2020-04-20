@@ -1,0 +1,95 @@
+- bioguide: W000802
+  date_recieved: 09/24/2015
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/aa249ce3-6a83-4bb8-a1b6-80fc2a1c2fef/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: United Technologies Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=UTX" target="_blank">UTX</a>
+    transaction_date: 09/18/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Macy's, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=M" target="_blank">M</a>
+    transaction_date: 09/22/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Raytheon Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RTN" target="_blank">RTN</a>
+    transaction_date: 09/22/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: QUALCOMM Incorporated (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 09/15/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 09/15/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 08/28/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CSX Corp. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CSX" target="_blank">CSX</a>
+    transaction_date: 08/28/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Biogen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 08/28/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Qlik Technologies, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=QLIK" target="_blank">QLIK</a>
+    transaction_date: 08/28/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 08/28/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: V.F. Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VFC" target="_blank">VFC</a>
+    transaction_date: 08/28/2015
+    type: Sale (Partial)

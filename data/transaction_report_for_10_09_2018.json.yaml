@@ -1,0 +1,47 @@
+- bioguide: B001135
+  date_recieved: 10/09/2018
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/c413b08c-f70d-41d1-a7b8-ea38a00f6d18/
+  transactions: []
+- bioguide: P000595
+  date_recieved: 10/09/2018
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0e3cbf76-35b2-4ecb-8f87-d94a185b04d1/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: LENAWEE CNTY MICH GO LTD TAX BDS 2018 DUE 05/01/2032 <div class="text-muted"><em>Rate/Coupon:</em>
+      3.25%<br> <em>Matures:</em> 05/01/2032</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 09/24/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: CAPITAL ONE FINANCIAL CO 04.200% 102925 DTD102915 <div class="text-muted"><em>Rate/Coupon:</em>
+      04.200%<br> <em>Matures:</em> 10/29/25</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 09/27/2018
+    type: Purchase
+- bioguide: S001198
+  date_recieved: 10/09/2018
+  first_name: Daniel S
+  last_name: Sullivan
+  office: Sullivan, Dan (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/494b2c1a-2a7d-4395-bb0b-ee26e2f2e0f5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: RPM International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RPM" target="_blank">RPM</a>
+    transaction_date: 09/25/2018
+    type: Sale (Partial)

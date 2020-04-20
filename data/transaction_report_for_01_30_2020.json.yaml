@@ -1,0 +1,34 @@
+- bioguide: C000174
+  date_recieved: 01/30/2020
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6bcdb0f5-1e80-4199-a3e7-0a1891b38a75/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: BCS Contingent Autocall CSCO <div class="text-muted"><em>Rate/Coupon:</em>
+      8.3%<br> <em>Matures:</em> 01/27/2023</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: CS Contingent Autocall MSFT <div class="text-muted"><em>Rate/Coupon:</em>
+      8.25%<br> <em>Matures:</em> 09/30/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/02/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: CS Contingent Autocall MSFT <div class="text-muted"><em>Rate/Coupon:</em>
+      8.25%<br> <em>Matures:</em> 09/30/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/02/2020
+    type: Sale (Full)

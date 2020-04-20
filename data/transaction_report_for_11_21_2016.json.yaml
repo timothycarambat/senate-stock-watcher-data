@@ -1,0 +1,103 @@
+- bioguide: C001075
+  date_recieved: 11/21/2016
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/36884c7d-49e1-4b08-82a7-f567270ac9dd/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 10/31/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 10/31/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Praxair Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PX" target="_blank">PX</a>
+    transaction_date: 10/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Norfolk Southern Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NSC" target="_blank">NSC</a>
+    transaction_date: 10/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Johnson &amp; Johnson
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+    transaction_date: 10/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Eaton Vance Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EV" target="_blank">EV</a>
+    transaction_date: 10/31/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: V.F. Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VFC" target="_blank">VFC</a>
+    transaction_date: 10/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PPG Industries, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PPG" target="_blank">PPG</a>
+    transaction_date: 10/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lowe's Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LOW" target="_blank">LOW</a>
+    transaction_date: 10/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: W.W. Grainger, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GWW" target="_blank">GWW</a>
+    transaction_date: 10/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 10/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 10/31/2016
+    type: Purchase

@@ -1,0 +1,110 @@
+- bioguide: R000120
+  date_recieved: 11/28/2016
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/33adc80e-a7e9-443d-95d2-269d4b027478/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 11/23/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Semiconductor ETF
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XSD" target="_blank">XSD</a>
+    transaction_date: 11/23/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PureFunds ISE Cyber Security ETF
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=HACK" target="_blank">HACK</a>
+    transaction_date: 11/23/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Intuitive Surgical, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ISRG" target="_blank">ISRG</a>
+    transaction_date: 11/23/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: WisdomTree Investments, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WETF" target="_blank">WETF</a>
+    transaction_date: 11/23/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Thermo Fisher Scientific Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TMO" target="_blank">TMO</a>
+    transaction_date: 11/23/2016
+    type: Purchase
+- bioguide: R000120
+  date_recieved: 11/28/2016
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/99a7a983-4c6d-4ee4-aa35-af8253d28f4a/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: iShares MSCI Emerging Markets
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EEM" target="_blank">EEM</a>
+    transaction_date: 11/23/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Thermo Fisher Scientific Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TMO" target="_blank">TMO</a>
+    transaction_date: 11/23/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Semiconductor ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XSD" target="_blank">XSD</a>
+    transaction_date: 11/23/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Intuitive Surgical, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ISRG" target="_blank">ISRG</a>
+    transaction_date: 11/23/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: WisdomTree Investments, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WETF" target="_blank">WETF</a>
+    transaction_date: 11/23/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Vanguard FTSE Emerging Markets ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VWO" target="_blank">VWO</a>
+    transaction_date: 11/23/2016
+    type: Purchase

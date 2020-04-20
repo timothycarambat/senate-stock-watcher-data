@@ -1,0 +1,43 @@
+- bioguide: F000062
+  date_recieved: 05/22/2018
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/298d2c2a-63ac-4d94-8be4-3717a336f30c/
+  transactions: []
+- bioguide: F000062
+  date_recieved: 05/22/2018
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/7d534d16-8f7d-4ef1-8be2-a1d815c9d708/
+  transactions: []
+- bioguide: F000062
+  date_recieved: 05/22/2018
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/9ac5f227-4b29-480d-9221-4f5468fef9fc/
+  transactions: []
+- bioguide: F000062
+  date_recieved: 05/22/2018
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/1bae21d6-4cec-4c77-9a14-d52256f5ea57/
+  transactions: []
+- bioguide: K000383
+  date_recieved: 05/22/2018
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/01cec9aa-793e-407f-9186-4c48160e5278/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 04/23/2018
+    type: Sale (Partial)

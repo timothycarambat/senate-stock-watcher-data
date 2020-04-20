@@ -1,0 +1,78 @@
+- bioguide: C000174
+  date_recieved: 03/03/2017
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/1c67a189-fb8a-42ed-a265-91ebaf4af2e3/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: SE - Spectra Energy Corp
+    asset_type: Stock
+    comment: Spectra Energy Corp exchanged for Enbridge Inc
+    owner: Self
+    ticker: --
+    transaction_date: 02/28/2017
+    type: Exchange
+  - amount: $15,001 - $50,000
+    asset_description: Enbridge Inc
+    asset_type: Stock
+    comment: Spectra Energy Corp exchanged for Enbridge Inc
+    owner: Self
+    ticker: --
+    transaction_date: 02/28/2017
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Preospect Capital Group
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/10/2017
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 03/03/2017
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a955c070-bf0f-4c41-afaa-57edfc0d6276/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 02/13/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 01/27/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Xcel Energy Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XEL" target="_blank">XEL</a>
+    transaction_date: 02/22/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Travelers Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRV" target="_blank">TRV</a>
+    transaction_date: 02/22/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: E. I. du Pont de Nemours and Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 02/22/2017
+    type: Purchase

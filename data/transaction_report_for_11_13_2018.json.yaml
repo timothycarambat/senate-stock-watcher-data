@@ -1,0 +1,56 @@
+- bioguide: C001035
+  date_recieved: 11/13/2018
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cc72eaf0-41e8-4ca1-9439-46e5d7b8a3dc/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Aon plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AON" target="_blank">AON</a>
+    transaction_date: 10/31/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 10/02/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Praxair, Inc. (Exchanged) <br> Linde plc (Received)
+    asset_type: Stock
+    comment: LIN acquired from PX due to mandatory stock merger.
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PX" target="_blank">PX</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=LIN" target="_blank">LIN</a>
+    transaction_date: 10/31/2018
+    type: Exchange
+  - amount: $15,001 - $50,000
+    asset_description: Honeywell International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HON" target="_blank">HON</a>
+    transaction_date: 10/16/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The TJX Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TJX" target="_blank">TJX</a>
+    transaction_date: 10/16/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 10/02/2018
+    type: Purchase

@@ -1,0 +1,63 @@
+- bioguide: W000802
+  date_recieved: 01/11/2017
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/217dbf6f-8941-4967-94d3-22bf039e1d30/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 12/13/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 12/13/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 12/23/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Public Storage
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PSA" target="_blank">PSA</a>
+    transaction_date: 12/23/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Biogen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 12/23/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Biogen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 12/13/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 12/23/2016
+    type: Sale (Partial)

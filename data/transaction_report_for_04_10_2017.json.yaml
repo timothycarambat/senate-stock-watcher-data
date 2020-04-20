@@ -1,0 +1,15 @@
+- bioguide: B001267
+  date_recieved: 04/10/2017
+  first_name: Michael F
+  last_name: Bennet
+  office: Bennet, Michael (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ca3a419d-76cb-45f4-b6ac-203baf908371/
+  transactions:
+  - amount: $500,001 - $1,000,000
+    asset_description: Regal Entertainment Group
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=RGC" target="_blank">RGC</a>
+    transaction_date: 03/28/2017
+    type: Sale (Partial)

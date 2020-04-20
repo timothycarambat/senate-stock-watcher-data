@@ -1,0 +1,31 @@
+- bioguide: C000174
+  date_recieved: 04/04/2014
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e9aadf86-d3ed-49c2-9bcf-44a600c0ea54/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: UBS Autocall Met Life
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/21/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: MS Autocall Dow Chemical
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: HSBC Autocall Transocean
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/14/2014
+    type: Purchase

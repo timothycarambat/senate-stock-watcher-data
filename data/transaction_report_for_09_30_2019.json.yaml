@@ -1,0 +1,186 @@
+- bioguide: P000612
+  date_recieved: 09/30/2019
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c6302d00-ca70-47b4-82be-71cbd2c0ecf5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 09/26/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Casars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 09/04/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Casars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 09/05/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 09/11/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 09/13/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Buckeye Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BPL" target="_blank">BPL</a>
+    transaction_date: 09/16/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Buckeye Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BPL" target="_blank">BPL</a>
+    transaction_date: 09/16/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Buckeye Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BPL" target="_blank">BPL</a>
+    transaction_date: 09/16/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Buckeye Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BPL" target="_blank">BPL</a>
+    transaction_date: 09/17/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 09/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Western Midstream Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WES" target="_blank">WES</a>
+    transaction_date: 09/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Western Midstream Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WES" target="_blank">WES</a>
+    transaction_date: 09/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Buckeye Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BPL" target="_blank">BPL</a>
+    transaction_date: 09/18/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Buckeye Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BPL" target="_blank">BPL</a>
+    transaction_date: 09/18/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ONEOK, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OKE" target="_blank">OKE</a>
+    transaction_date: 09/19/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/19/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: DCP Midstream, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DCP" target="_blank">DCP</a>
+    transaction_date: 09/19/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Graphic Packaging Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GPK" target="_blank">GPK</a>
+    transaction_date: 09/25/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Suncor Energy Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SU" target="_blank">SU</a>
+    transaction_date: 09/25/2019
+    type: Sale (Full)
+- bioguide: P000595
+  date_recieved: 09/30/2019
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc5764cd-d819-4508-bfda-8b3931bcfeb6/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: VICTORIA TEX INDPT SCH DIST ULTD TAX REF BDS 2016 (Exchanged)
+      <br> VICTORIA TEX INDPT SCH DIST UNREFUNDED BALANCE-REF (Received) <div class="text-muted"><em>Rate/Coupon:</em>
+      3.125%<br> <em>Matures:</em> 02/15/2038</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 08/29/2019
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: VICTORIA TEX INDPT SCH DIST ULTD TAX REF BDS 2016 (Exchanged)
+      <br> VICTORIA TEX INDPT SCH DIST PREREFUNDED-REF (Received) <div class="text-muted"><em>Rate/Coupon:</em>
+      3.125%<br> <em>Matures:</em> 02/15/2038</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 08/29/2019
+    type: Exchange

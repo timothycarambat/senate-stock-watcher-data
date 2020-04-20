@@ -1,0 +1,151 @@
+- bioguide: W000802
+  date_recieved: 12/12/2016
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0b09f334-04bc-4942-b432-d9fcdae80d08/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 11/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Oracle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 11/28/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 11/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 11/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 11/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: McKesson Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MCK" target="_blank">MCK</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOGL" target="_blank">GOOGL</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Abbott Laboratories
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ABT" target="_blank">ABT</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Unilever PLC
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UL" target="_blank">UL</a>
+    transaction_date: 11/15/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Johnson Controls International plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=JCI" target="_blank">JCI</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 11/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Oracle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 11/28/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Diageo plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DEO" target="_blank">DEO</a>
+    transaction_date: 11/28/2016
+    type: Purchase

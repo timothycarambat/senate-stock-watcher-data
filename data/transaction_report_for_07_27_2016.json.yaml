@@ -1,0 +1,118 @@
+- bioguide: C001075
+  date_recieved: 07/27/2016
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/d40b2263-32c8-45a7-b1e1-a549953d5c2b/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Wal-Mart Stores Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 07/15/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Southern Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SO" target="_blank">SO</a>
+    transaction_date: 07/15/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 07/15/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 07/15/2016
+    type: Sale (Partial)
+- bioguide: R000120
+  date_recieved: 07/27/2016
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/acc35b83-1ed6-4d21-ae5b-7e844646e422/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 07/25/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Affiliated Managers Group Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMG" target="_blank">AMG</a>
+    transaction_date: 07/25/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Zimmer Biomet Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ZBH" target="_blank">ZBH</a>
+    transaction_date: 07/25/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pepsico, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 07/25/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 07/25/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 07/25/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Affiliated Managers Group Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMG" target="_blank">AMG</a>
+    transaction_date: 07/25/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Zimmer Biomet Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ZBH" target="_blank">ZBH</a>
+    transaction_date: 07/25/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pepsico, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 07/25/2016
+    type: Sale (Partial)

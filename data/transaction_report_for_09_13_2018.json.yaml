@@ -1,0 +1,32 @@
+- bioguide: F000062
+  date_recieved: 09/13/2018
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/4b384664-d12b-465b-8219-c910566adf06/
+  transactions: []
+- bioguide: T000461
+  date_recieved: 09/13/2018
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9b7a5966-d5fd-4976-8a2c-e28fbdc865f9/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: SANTANDER UK GROUP HOLDINGS <div class="text-muted"><em>Rate/Coupon:</em>
+      3.125<br> <em>Matures:</em> 01/01/2021</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 08/01/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: BB&amp;T Corporation <div class="text-muted"><em>Rate/Coupon:</em>
+      5.25<br> <em>Matures:</em> 11/01/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BBT" target="_blank">BBT</a>
+    transaction_date: 08/01/2018
+    type: Purchase

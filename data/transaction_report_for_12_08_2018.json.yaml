@@ -1,0 +1,63 @@
+- bioguide: C001047
+  date_recieved: 12/08/2018
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b34c6735-9a2f-427d-811b-f4cbeff9e676/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Linde plc (Exchanged) <br> Praxair, Inc. (Received)
+    asset_type: Stock
+    comment: Praxair, Inc. exchanged for Linde PLC (received) 10/31/18
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LIN" target="_blank">LIN</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=PX" target="_blank">PX</a>
+    transaction_date: 10/31/2018
+    type: Exchange
+- bioguide: C001047
+  date_recieved: 12/08/2018
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2969d359-4901-4bd8-a92d-74fbf37573e6/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 11/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 11/29/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Incyte Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=INCY" target="_blank">INCY</a>
+    transaction_date: 11/12/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Shin-Etsu Chemical Co., Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SHECY" target="_blank">SHECY</a>
+    transaction_date: 11/13/2018
+    type: Sale (Full)

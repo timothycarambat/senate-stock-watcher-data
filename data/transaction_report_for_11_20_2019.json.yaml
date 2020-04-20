@@ -1,0 +1,55 @@
+- bioguide: H001061
+  date_recieved: 11/20/2019
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/efda208f-8afc-48d9-938e-5cb8e6bfc988/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Invesco Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IVZ" target="_blank">IVZ</a>
+    transaction_date: 11/05/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 11/05/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Two Harbors Investment Corp.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TWO" target="_blank">TWO</a>
+    transaction_date: 11/04/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 11/04/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Exelon Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=EXC" target="_blank">EXC</a>
+    transaction_date: 11/04/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 11/04/2019
+    type: Purchase

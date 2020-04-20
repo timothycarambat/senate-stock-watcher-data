@@ -1,0 +1,31 @@
+- bioguide: C001047
+  date_recieved: 10/18/2018
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ae39aeb9-967e-49eb-be3d-562d7efd2159/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 09/25/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 09/27/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Westinghouse Air Brake Technologies Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WAB" target="_blank">WAB</a>
+    transaction_date: 09/27/2018
+    type: Purchase

@@ -1,0 +1,23 @@
+- bioguide: B001135
+  date_recieved: 06/09/2015
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/6E0A407B-E64E-4264-8F05-D23BDA26F873/
+  transactions: []
+- bioguide: C001035
+  date_recieved: 06/09/2015
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6939846a-1fa1-44df-bbe0-abbc43a7d4ce/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: New Hampshire MUND BD Bk <div class="text-muted"><em>Rate/Coupon:</em>
+      3.000<br> <em>Matures:</em> 08/15/2020</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/21/2015
+    type: Purchase

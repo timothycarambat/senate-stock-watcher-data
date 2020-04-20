@@ -1,0 +1,87 @@
+- bioguide: B001277
+  date_recieved: 12/04/2018
+  first_name: 'RICHARD '
+  last_name: BLUMENTHAL
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/6a259a17-8da7-4e6c-bcec-68d10e497c0e/
+  transactions: []
+- bioguide: B001135
+  date_recieved: 12/04/2018
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/a9376ef3-2a48-4543-94ec-eea5b522bffd/
+  transactions: []
+- bioguide: C000174
+  date_recieved: 12/04/2018
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3fc1418c-5789-4f36-b7f5-2a9c445a756d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Nuveen JFR Term Preferred Step-up <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 12/01/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/21/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Nuveen JFR Term Preferred Step-up <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 12/01/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/21/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Marathon Petroleum Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/09/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amazon
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/12/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/09/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Marathon Petroleum Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Amazon
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/02/2018
+    type: Purchase

@@ -1,0 +1,127 @@
+- bioguide: P000595
+  date_recieved: 03/15/2019
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e5ceb5f5-7fdd-4f72-8e7f-ef951dec3ef6/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: AMERICAN INTL GROUP B/E 03.900% 040126 DTD032216 <div class="text-muted"><em>Rate/Coupon:</em>
+      03.900%<br> <em>Matures:</em> 04/01/2026</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 02/21/2019
+    type: Purchase
+- bioguide: S001217
+  date_recieved: 03/15/2019
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/66076f89-c84b-43db-b818-b5e700a9b8fc/
+  transactions:
+  - amount: $1,000,001 - $5,000,000
+    asset_description: California General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 04/01/2049</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/07/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: New York City Mun Water Finance Authority Water &amp; Sewer
+      Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em>
+      06/15/2033</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/27/2019
+    type: Purchase
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Tarrant County Texas Cultural Ed Facs Fin Corp Revenue Bond
+      <div class="text-muted"><em>Rate/Coupon:</em> 6.375%<br> <em>Matures:</em> 11/15/2044</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/22/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: Iowa State Special Obligation Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 06/01/2024</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/22/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: New York City Mun Water Finance Authority Water &amp; Sewer
+      Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em>
+      06/15/2033</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/27/2019
+    type: Purchase
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Tarrant County Texas Cultural Ed Facs Fin Corp Revenue Bond
+      <div class="text-muted"><em>Rate/Coupon:</em> 6.375%<br> <em>Matures:</em> 11/15/2044</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/22/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: Iowa State Special Obligation Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 06/01/2024</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/22/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: New York City Mun Water Finance Authority Water &amp; Sewer
+      Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em>
+      06/15/2033</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/27/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: Tarrant County Texas Cultural Ed Facs Fin Corp Revenue Bond
+      <div class="text-muted"><em>Rate/Coupon:</em> 6.375%<br> <em>Matures:</em> 11/15/2044</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 02/22/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: University of North Carolina Chapel Hill General Revenue Bond
+      <div class="text-muted"><em>Rate/Coupon:</em> 2.017% - Floating<br> <em>Matures:</em>
+      12/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/13/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: University of North Carolina Chapel Hill General Revenue Bond
+      <div class="text-muted"><em>Rate/Coupon:</em> 2.017% - Floating<br> <em>Matures:</em>
+      12/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/13/2019
+    type: Purchase

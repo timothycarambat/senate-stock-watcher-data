@@ -1,0 +1,27 @@
+- bioguide: E000285
+  date_recieved: 06/18/2015
+  first_name: Michael  B
+  last_name: Enzi
+  office: Enzi, Michael B. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ad134ff2-010c-4a8c-82cc-66414775c048/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: WYOMING COMMUNITY DEVELOPMENT AUTHORITY HOUSING REVENUE BONDS
+      2013 SERIES 2 <div class="text-muted"><em>Rate/Coupon:</em> 3.75%<br> <em>Matures:</em>
+      12/01/2032</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 06/12/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: MITCHELL SOUTH DAKOTA SCHOOL DISTRICT NUMBER 17-2 LIMITED TAX
+      CAPITAL OUTLAY CERTIFICATES <div class="text-muted"><em>Rate/Coupon:</em> 3.2%<br>
+      <em>Matures:</em> 06/15/2027</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 06/03/2015
+    type: Purchase

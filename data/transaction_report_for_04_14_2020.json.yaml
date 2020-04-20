@@ -1,0 +1,49 @@
+- bioguide: W000802
+  date_recieved: 04/14/2020
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/469d1b8f-262c-4cdc-9052-2f76ce33c2bc/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: INGERSOLL RAND PLC SHARES (Exchanged) <br> TRANE TECHNOLOGIES
+      PLC (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 03/04/2020
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: INGERSOLL RAND PLC SHS (Exchanged) <br> TRANE TECHNOLOGIES
+      PLC (Received)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/04/2020
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Illumina, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ILMN" target="_blank">ILMN</a>
+    transaction_date: 03/11/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Cognex Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CGNX" target="_blank">CGNX</a>
+    transaction_date: 03/11/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Siemens Aktiengesellschaft
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SIEGY" target="_blank">SIEGY</a>
+    transaction_date: 03/11/2020
+    type: Sale (Full)

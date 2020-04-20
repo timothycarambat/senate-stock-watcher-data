@@ -1,0 +1,16 @@
+- bioguide: P000595
+  date_recieved: 03/09/2020
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b9a9074a-6f64-4ff4-bf4e-bf6541ebc1db/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: ALLY FINL INC NTS B/E 02.200% 021525 DTD022120 <div class="text-muted"><em>Rate/Coupon:</em>
+      02.200%<br> <em>Matures:</em> 02/15/2025</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 02/18/2020
+    type: Purchase

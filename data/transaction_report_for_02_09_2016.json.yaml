@@ -1,0 +1,23 @@
+- bioguide: R000120
+  date_recieved: 02/09/2016
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/db28ae3b-bec7-4ae3-85f1-08fc226b5ff4/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short 20+ Year Treasury
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TBF" target="_blank">TBF</a>
+    transaction_date: 01/29/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short 20+ Year Treasury
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TBF" target="_blank">TBF</a>
+    transaction_date: 01/29/2016
+    type: Sale (Full)

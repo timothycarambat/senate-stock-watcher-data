@@ -1,0 +1,248 @@
+- bioguide: P000612
+  date_recieved: 01/10/2020
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a78c3a39-385a-40e2-8062-c429eb485393/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: BBT.F - BB&amp;T CORP F PERPTL PFD (Exchanged) <br> TFC.F -
+      TRUIST FINL CORP F PFD (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 12/09/2019
+    type: Exchange
+  - amount: $15,001 - $50,000
+    asset_description: Regions Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RF" target="_blank">RF</a>
+    transaction_date: 01/03/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 01/02/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 01/02/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Albemarle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ALB" target="_blank">ALB</a>
+    transaction_date: 12/31/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Booz Allen Hamilton Holding Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAH" target="_blank">BAH</a>
+    transaction_date: 12/31/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Dow Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DOW" target="_blank">DOW</a>
+    transaction_date: 12/31/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Kinder Morgan, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KMI" target="_blank">KMI</a>
+    transaction_date: 12/31/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/30/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/23/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Arcosa, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ACA" target="_blank">ACA</a>
+    transaction_date: 12/19/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/19/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/19/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 12/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Plains All American Pipeline, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PAA" target="_blank">PAA</a>
+    transaction_date: 12/17/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/16/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 12/16/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cheniere Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LNG" target="_blank">LNG</a>
+    transaction_date: 12/16/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Sunoco LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SUN" target="_blank">SUN</a>
+    transaction_date: 12/13/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/13/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: International Paper Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IP" target="_blank">IP</a>
+    transaction_date: 12/12/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/11/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Plains All American Pipeline, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PAA" target="_blank">PAA</a>
+    transaction_date: 12/10/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/10/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 12/09/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 12/09/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/06/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Albemarle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ALB" target="_blank">ALB</a>
+    transaction_date: 12/05/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/03/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 12/03/2019
+    type: Purchase

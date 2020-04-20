@@ -1,0 +1,23 @@
+- bioguide: T000461
+  date_recieved: 08/06/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/54bc8764-f9ae-4467-b3d3-e930069c929e/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: MPLX LP
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MPLX" target="_blank">MPLX</a>
+    transaction_date: 06/28/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 07/31/2019
+    type: Sale (Full)

@@ -1,0 +1,27 @@
+- bioguide: H001061
+  date_recieved: 04/19/2017
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/80a82376-fdab-471f-bd31-31bdd33976d9/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: WESTBRAND, INC. BANK HOLDING COMPANY STOCK <div class="text-muted">
+      <em>Company:</em> WESTBRAND, INC. &nbsp;(MINOT, NORTH DAKOTA) </div> <div class="text-muted"><em>Description:</em>&nbsp;BANK
+      HOLDING COMPANY OF FIRST WESTERN BANK</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 04/05/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: WESTBRAND, INC. BANK HOLDING COMPANY STOCK <div class="text-muted">
+      <em>Company:</em> WESTBRAND, INC. &nbsp;(MINOT, NORTH DAKOTA) </div> <div class="text-muted"><em>Description:</em>&nbsp;BANK
+      HOLDING COMPANY OF FIRST WESTERN BANK</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/29/2017
+    type: Purchase

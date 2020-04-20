@@ -1,0 +1,23 @@
+- bioguide: K000393
+  date_recieved: 12/19/2019
+  first_name: John N
+  last_name: Kennedy
+  office: Kennedy, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e9f2d5d8-0d9f-4894-ac58-55e9afdea159/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: iShares Edge MSCI USA Momentum Factor ETF
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MTUM" target="_blank">MTUM</a>
+    transaction_date: 10/11/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CVG (Exchanged) <br> SNX (Received)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 10/09/2018
+    type: Exchange

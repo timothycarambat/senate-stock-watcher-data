@@ -1,0 +1,23 @@
+- bioguide: P000595
+  date_recieved: 02/25/2015
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/86b10d4f-da16-462e-85f6-3ebd80be89a4/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Meditronic Inc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/27/2015
+    type: Exchange
+  - amount: $15,001 - $50,000
+    asset_description: Medtronic plc (NYSE)
+    asset_type: Stock
+    comment: Exchanged 350 shares of Meditronic Inc to Medtronic PLC
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MDT" target="_blank">MDT</a>
+    transaction_date: 01/27/2015
+    type: Exchange

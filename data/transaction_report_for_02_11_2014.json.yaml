@@ -1,0 +1,87 @@
+- bioguide: C001035
+  date_recieved: 02/11/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8225a609-c7d3-4301-a11c-16aaeab1ba0d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 02/04/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 02/04/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Canadian Pacific Railway Limited (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CP" target="_blank">CP</a>
+    transaction_date: 02/04/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 01/31/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 02/07/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 02/06/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: McKesson Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MCK" target="_blank">MCK</a>
+    transaction_date: 02/06/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/06/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Honeywell International Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HON" target="_blank">HON</a>
+    transaction_date: 02/06/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Comcast Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CMCSA" target="_blank">CMCSA</a>
+    transaction_date: 02/06/2014
+    type: Purchase

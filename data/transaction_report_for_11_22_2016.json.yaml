@@ -1,0 +1,17 @@
+- bioguide: R000605
+  date_recieved: 11/22/2016
+  first_name: Mike
+  last_name: Rounds
+  office: Rounds, Mike (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4889ab33-0e9c-4fc1-af0f-2b84b36b6047/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Bird Dog Hospitality II, LLC <div class="text-muted"> <em>Company:</em>
+      Bird Dog Hopitality II, LLC &nbsp;(Sioux Falls, SD) </div> <div class="text-muted"><em>Description:</em>&nbsp;Hospitality
+      Property</div>
+    asset_type: Non-Public Stock
+    comment: This is an underlying asset to Bird Dog Hospitality, LLC (Purchased 9/26/16)
+    owner: Joint
+    ticker: --
+    transaction_date: 11/07/2016
+    type: Purchase

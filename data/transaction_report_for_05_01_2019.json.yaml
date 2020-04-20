@@ -1,0 +1,41 @@
+- bioguide: C000174
+  date_recieved: 05/01/2019
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ee11f53b-a3b1-4824-a16c-d3a98f090527/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: UBS Contingent Autocall on SLB 90281C708 <div class="text-muted"><em>Rate/Coupon:</em>
+      9.0%<br> <em>Matures:</em> 04/23/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/18/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: UBS Contingent Autocall on SLB 90281C708 <div class="text-muted"><em>Rate/Coupon:</em>
+      9.0%<br> <em>Matures:</em> 04/23/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 04/17/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Skyworks Solutions, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SWKS" target="_blank">SWKS</a>
+    transaction_date: 04/17/2019
+    type: Purchase

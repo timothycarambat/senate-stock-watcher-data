@@ -1,0 +1,15 @@
+- bioguide: I000024
+  date_recieved: 07/29/2015
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f0a5ee4b-1196-401f-87ee-92739d2f342a/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Diamondback Energy, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FANG" target="_blank">FANG</a>
+    transaction_date: 07/15/2015
+    type: Purchase

@@ -1,0 +1,31 @@
+- bioguide: R000307
+  date_recieved: 01/08/2016
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9dcaf704-0704-4e87-9f36-0cceab5097ab/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: aapl
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/17/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: nflx
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/10/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: nflx
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/08/2015
+    type: Purchase

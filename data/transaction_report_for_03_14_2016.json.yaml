@@ -1,0 +1,15 @@
+- bioguide: R000120
+  date_recieved: 03/14/2016
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/091a5ff3-b35e-4c27-bd88-c1d0858e9a97/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: NCR Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NCR" target="_blank">NCR</a>
+    transaction_date: 03/03/2016
+    type: Sale (Full)

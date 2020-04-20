@@ -1,0 +1,117 @@
+- bioguide: B001277
+  date_recieved: 04/04/2016
+  first_name: 'RICHARD '
+  last_name: BLUMENTHAL
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/3c973abc-4ff7-4dbb-a52d-f8cc384b7794/
+  transactions: []
+- bioguide: C001047
+  date_recieved: 04/04/2016
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cf017fcb-1b84-4db3-937f-fac442acce37/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 03/22/2016
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 04/04/2016
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5c325b70-9ec7-4e64-b9a7-e8d604da0ca2/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Newell Rubbermaid Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NWL" target="_blank">NWL</a>
+    transaction_date: 03/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 03/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: MetLife, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MET" target="_blank">MET</a>
+    transaction_date: 03/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Visa Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 03/01/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 03/01/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Starwood Hotels &amp; Resorts Worldwide Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=HOT" target="_blank">HOT</a>
+    transaction_date: 03/01/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Newell Rubbermaid Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NWL" target="_blank">NWL</a>
+    transaction_date: 03/01/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Newell Rubbermaid Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NWL" target="_blank">NWL</a>
+    transaction_date: 03/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Home Depot, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=HD" target="_blank">HD</a>
+    transaction_date: 03/24/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 03/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lam Research Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LRCX" target="_blank">LRCX</a>
+    transaction_date: 03/24/2016
+    type: Purchase

@@ -1,0 +1,62 @@
+- bioguide: C001075
+  date_recieved: 01/16/2018
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a2f3bcb0-5afa-4c17-99fd-885e3abdf963/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 12/29/2017
+    type: Sale (Partial)
+- bioguide: R000120
+  date_recieved: 01/16/2018
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/699fadc2-7371-48a5-a348-40d3fc00f538/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Lattice Semiconductor Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LSCC" target="_blank">LSCC</a>
+    transaction_date: 01/12/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ETFMG Prime Cyber Security ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HACK" target="_blank">HACK</a>
+    transaction_date: 01/11/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Pepsico, Inc.
+    asset_type: Stock
+    comment: Transaction was less than $1000.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 01/11/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 01/11/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: United Natural Foods, Inc.
+    asset_type: Stock
+    comment: Transaction was less than $1000
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=UNFI" target="_blank">UNFI</a>
+    transaction_date: 01/11/2018
+    type: Sale (Full)

@@ -1,0 +1,15 @@
+- bioguide: W000802
+  date_recieved: 02/12/2019
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/63672a06-1e37-400a-ae73-391b444294fc/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 01/24/2019
+    type: Purchase

@@ -1,0 +1,73 @@
+- bioguide: H001061
+  date_recieved: 03/25/2016
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/661e7458-54f0-40c9-9daf-c95502e3a6e3/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Invesco Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IVZ" target="_blank">IVZ</a>
+    transaction_date: 03/07/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Prudential Financial, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PRU" target="_blank">PRU</a>
+    transaction_date: 03/07/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 03/07/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 03/07/2016
+    type: Purchase
+- bioguide: P000595
+  date_recieved: 03/25/2016
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2291106e-4f4d-41be-887f-7e2a72d30814/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: CARMAN-AINSWORTH CMNTY SCH DIST MICH RFDG <div class="text-muted"><em>Rate/Coupon:</em>
+      3.00%<br> <em>Matures:</em> 05/01/2027</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/02/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: LINCOLN NATL CORP B/E <div class="text-muted"><em>Rate/Coupon:</em>
+      3.350%<br> <em>Matures:</em> 03/09/2025</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/02/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CIGNA CORP B/E <div class="text-muted"><em>Rate/Coupon:</em>
+      3.250%<br> <em>Matures:</em> 04/15/2025</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/02/2016
+    type: Purchase

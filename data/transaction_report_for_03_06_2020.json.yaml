@@ -1,0 +1,15 @@
+- bioguide: T000461
+  date_recieved: 03/06/2020
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/47763e88-79c4-477e-af8d-5d5b3bc5ede4/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: PPL
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 02/28/2020
+    type: Purchase

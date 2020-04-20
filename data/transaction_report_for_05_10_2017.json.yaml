@@ -1,0 +1,262 @@
+- bioguide: B001135
+  date_recieved: 05/10/2017
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/5e61d29a-0e35-470b-8b05-1ae9a7a429c6/
+  transactions: []
+- bioguide: C001035
+  date_recieved: 05/10/2017
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5bc04cde-0e58-495a-96a3-4de12b0d0c27/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: PRGO-Perrigo Company plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/30/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Express Scripts Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ESRX" target="_blank">ESRX</a>
+    transaction_date: 12/16/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 12/01/2016
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Stericycle, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SRCL" target="_blank">SRCL</a>
+    transaction_date: 12/01/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 12/01/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: ConocoPhillips
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COP" target="_blank">COP</a>
+    transaction_date: 12/30/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Washington State Federal Highway Grant <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 09/01/2019</div>
+    asset_type: Municipal Security
+    comment: Federal Government grant.
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/20/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Tractor Supply Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSCO" target="_blank">TSCO</a>
+    transaction_date: 12/01/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Torchmark Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TMK" target="_blank">TMK</a>
+    transaction_date: 12/01/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Mettler-Toledo International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MTD" target="_blank">MTD</a>
+    transaction_date: 12/01/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Hologic, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HOLX" target="_blank">HOLX</a>
+    transaction_date: 12/01/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: American Water Works Company, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AWK" target="_blank">AWK</a>
+    transaction_date: 12/01/2016
+    type: Purchase
+- bioguide: C001035
+  date_recieved: 05/10/2017
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8ce46f93-dceb-4c05-9cf3-c463ebce7867/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Federal Farm Credit Bank 3133EFHP5 <div class="text-muted"><em>Rate/Coupon:</em>
+      1.7%<br> <em>Matures:</em> 07/08/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/28/2016
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Federal Farm Credit Bank 3133EFZT7 <div class="text-muted"><em>Rate/Coupon:</em>
+      1.4%<br> <em>Matures:</em> 02/24/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/30/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Federal Home Loan Bank 3130A8LS0 <div class="text-muted"><em>Rate/Coupon:</em>
+      1.5%<br> <em>Matures:</em> 06/30/2021</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/30/2016
+    type: Purchase
+- bioguide: R000120
+  date_recieved: 05/10/2017
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ca0b6632-94b2-4687-bbb1-5f6796c3e4b5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: NXP Semiconductors N.V.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NXPI" target="_blank">NXPI</a>
+    transaction_date: 05/05/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NXP Semiconductors N.V.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NXPI" target="_blank">NXPI</a>
+    transaction_date: 05/05/2017
+    type: Sale (Full)
+- bioguide: R000120
+  date_recieved: 05/10/2017
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c760fdfd-2aec-4189-a5c9-68d93ae67238/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Dell Technologies Inc.
+    asset_type: Stock
+    comment: EMC Corp. Mass EMC is now listed as Dell Technologies FMGR EMC Corp Mass.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DVMT" target="_blank">DVMT</a>
+    transaction_date: 09/07/2016
+    type: Exchange
+- bioguide: W000802
+  date_recieved: 05/10/2017
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/aaa4a9d3-35d4-4c1e-8aad-6fef7d251021/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 04/05/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DISH Network Corporation
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DISH" target="_blank">DISH</a>
+    transaction_date: 04/05/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 04/05/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: L Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LB" target="_blank">LB</a>
+    transaction_date: 04/05/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: W. P. Carey Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPC" target="_blank">WPC</a>
+    transaction_date: 04/05/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: U.S. Bancorp
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=USB" target="_blank">USB</a>
+    transaction_date: 04/05/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: L Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LB" target="_blank">LB</a>
+    transaction_date: 04/05/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 04/05/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 04/05/2017
+    type: Purchase

@@ -1,0 +1,24 @@
+- bioguide: T000476
+  date_recieved: 02/27/2019
+  first_name: Thomas R
+  last_name: Tillis
+  office: Tillis, Thom (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/44a21895-607d-48b6-89d9-0876caad796f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 12/20/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Victory Portfolio Munder Multi-Cap Mutual Fund <div class="text-muted">
+      <em>Company:</em> Munder Funds &nbsp;(Coloumbus, OH) </div>
+    asset_type: Other Securities
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 12/20/2018
+    type: Sale (Full)

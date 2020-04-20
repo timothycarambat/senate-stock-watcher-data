@@ -1,0 +1,255 @@
+- bioguide: C000174
+  date_recieved: 12/01/2017
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/79153a16-480e-4895-bf52-0e56562c6196/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Prudential Jennison Global Opportunity A
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/27/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Fidelity Advisor International Small Cap A
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/27/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: UBS Contingent Autocall Marathon Petroleum <div class="text-muted"><em>Rate/Coupon:</em>
+      11%<br> <em>Matures:</em> 08/17/2018</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/17/2017
+    type: Sale (Full)
+- bioguide: R000307
+  date_recieved: 12/01/2017
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4cdd93be-dfaf-465a-820f-616ae1f0f6b0/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Devon Energy Corporation
+    asset_type: Stock
+    comment: Jt
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 11/06/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 11/30/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The TJX Companies, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TJX" target="_blank">TJX</a>
+    transaction_date: 11/30/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 11/30/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: XOM-Exxon Mobil Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/07/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 11/07/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 11/07/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 11/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The TJX Companies, Inc.
+    asset_type: Stock
+    comment: seo
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TJX" target="_blank">TJX</a>
+    transaction_date: 11/30/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 11/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 11/07/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 09/27/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Raytheon Company
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RTN" target="_blank">RTN</a>
+    transaction_date: 09/27/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 09/28/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Northrop Grumman Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NOC" target="_blank">NOC</a>
+    transaction_date: 09/28/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/27/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: TCS-The Container Store Group, Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/26/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 09/26/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 09/26/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Capital One Financial Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COF" target="_blank">COF</a>
+    transaction_date: 09/26/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Woori Bank Co., Ltd.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WF" target="_blank">WF</a>
+    transaction_date: 09/26/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 09/26/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 09/26/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 09/07/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Celgene Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 09/07/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Container Store Group, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TCS" target="_blank">TCS</a>
+    transaction_date: 09/26/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Baidu, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIDU" target="_blank">BIDU</a>
+    transaction_date: 09/09/2017
+    type: Sale (Full)

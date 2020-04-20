@@ -1,0 +1,25 @@
+- bioguide: K000383
+  date_recieved: 07/10/2015
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e1501d00-a4ee-456d-9cf8-1fdb52e3390b/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Maine State Hsg Authority Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      2.60%<br> <em>Matures:</em> 11/15/2022</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/17/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Maine Health &amp; Higher Ed Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      3.25%<br> <em>Matures:</em> 07/01/2027</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/10/2015
+    type: Purchase

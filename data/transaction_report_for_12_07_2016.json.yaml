@@ -1,0 +1,31 @@
+- bioguide: H001061
+  date_recieved: 12/07/2016
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/33d29259-5947-4ac6-bdb8-940d752466c9/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: MDU Resources Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MDU" target="_blank">MDU</a>
+    transaction_date: 11/23/2016
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 11/25/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 11/23/2016
+    type: Purchase

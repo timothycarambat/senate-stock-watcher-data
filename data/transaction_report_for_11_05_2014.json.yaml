@@ -1,0 +1,15 @@
+- bioguide: T000461
+  date_recieved: 11/05/2014
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7d2bc1ec-5ae5-4073-aaa6-07e8cfbcd6a2/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Provident Financial Services, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 11/30/2014
+    type: Sale (Full)

@@ -1,0 +1,63 @@
+- bioguide: C001035
+  date_recieved: 01/31/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/52ba7b0b-343b-440d-8465-06987c9fbebb/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 01/29/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Citigroup, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 01/29/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Citigroup, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 01/29/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: eBay Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EBAY" target="_blank">EBAY</a>
+    transaction_date: 01/28/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 01/24/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Salesforce.com, Inc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CRM" target="_blank">CRM</a>
+    transaction_date: 01/24/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 01/24/2014
+    type: Sale (Partial)

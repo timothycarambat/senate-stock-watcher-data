@@ -1,0 +1,23 @@
+- bioguide: I000024
+  date_recieved: 02/25/2019
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c75ec379-8d72-4242-88db-a7cd910840b4/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Editas Medicine, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=EDIT" target="_blank">EDIT</a>
+    transaction_date: 02/04/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 01/29/2019
+    type: Sale (Full)

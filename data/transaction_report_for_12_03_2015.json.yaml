@@ -1,0 +1,15 @@
+- bioguide: C001098
+  date_recieved: 12/03/2015
+  first_name: Rafael E
+  last_name: Cruz
+  office: Cruz, Ted (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e40bb309-a7ff-4375-9032-ca7c6a7100fa/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: CVX - Chevron Corporation CMN
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 11/29/2015
+    type: Sale (Full)

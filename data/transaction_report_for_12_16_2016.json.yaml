@@ -1,0 +1,15 @@
+- bioguide: P000595
+  date_recieved: 12/16/2016
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1acf60e-03f1-4e23-b9e3-3ac6b7dc1f6f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 11/30/2016
+    type: Purchase

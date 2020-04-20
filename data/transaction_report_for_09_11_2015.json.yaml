@@ -1,0 +1,23 @@
+- bioguide: B001135
+  date_recieved: 09/11/2015
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/F27D0166-CB77-4D9D-B8B0-110965A46409/
+  transactions: []
+- bioguide: P000595
+  date_recieved: 09/11/2015
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/1c14b10b-125f-43df-b190-910a13679b12/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Saint Charles MICH CMNTY SCHS SCH BLDG &amp; SITE <div class="text-muted"><em>Rate/Coupon:</em>
+      3.75<br> <em>Matures:</em> 05/01/2035</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 08/13/2015
+    type: Purchase

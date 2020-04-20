@@ -1,0 +1,23 @@
+- bioguide: S001203
+  date_recieved: 04/16/2020
+  first_name: Tina
+  last_name: Smith
+  office: Smith, Tina (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8eae5ca1-bec4-44fd-b294-088d17ed7760/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: DexCom, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DXCM" target="_blank">DXCM</a>
+    transaction_date: 03/17/2020
+    type: Sale (Partial)
+  - amount: $250,001 - $500,000
+    asset_description: Insulet Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PODD" target="_blank">PODD</a>
+    transaction_date: 03/17/2020
+    type: Sale (Partial)

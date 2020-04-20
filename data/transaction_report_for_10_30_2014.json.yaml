@@ -1,0 +1,15 @@
+- bioguide: T000461
+  date_recieved: 10/30/2014
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6daf2369-34e9-4df7-a327-d9498fa21c84/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: ProShares VIX Short-Term Futures (NYSEArca)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VIXY" target="_blank">VIXY</a>
+    transaction_date: 10/01/2014
+    type: Sale (Full)

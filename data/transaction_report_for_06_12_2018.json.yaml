@@ -1,0 +1,31 @@
+- bioguide: C001035
+  date_recieved: 06/12/2018
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6b2185d5-94ef-4af2-9159-6d00d7e5dcee/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: (IRA)
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 05/08/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: U.S. Bancorp
+    asset_type: Stock
+    comment: (IRA)
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=USB" target="_blank">USB</a>
+    transaction_date: 05/08/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Hologic, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HOLX" target="_blank">HOLX</a>
+    transaction_date: 05/04/2018
+    type: Sale (Full)

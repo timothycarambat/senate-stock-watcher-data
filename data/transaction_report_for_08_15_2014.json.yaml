@@ -1,0 +1,15 @@
+- bioguide: T000461
+  date_recieved: 08/15/2014
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/53509c9e-b701-403e-b900-fd3a0db40067/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Lehigh Gas Partners LP (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LGP" target="_blank">LGP</a>
+    transaction_date: 08/07/2014
+    type: Sale (Full)

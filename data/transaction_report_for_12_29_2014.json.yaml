@@ -1,0 +1,55 @@
+- bioguide: H001061
+  date_recieved: 12/29/2014
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a2365248-26eb-4f8b-ab94-7d477dd82f3f/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Kinder Morgan Energy Partners
+    asset_type: ''
+    comment: KMP merger resulted in receiving cash and 1603 shares of Kinder Morgan
+      Inc. (KMI).
+    owner: Self
+    ticker: --
+    transaction_date: 12/03/2014
+    type: Exchange
+- bioguide: T000461
+  date_recieved: 12/29/2014
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/afa826b7-2b0a-400a-8023-c94dcae64f6b/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Provident Financial Services, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 12/17/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: AT&amp;T, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 12/18/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Provident Financial Services, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 12/18/2014
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Ensco plc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ESV" target="_blank">ESV</a>
+    transaction_date: 12/18/2014
+    type: Purchase

@@ -1,0 +1,96 @@
+- bioguide: W000802
+  date_recieved: 04/23/2015
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ebb68a90-5d92-481b-96df-bdaa5fc99b4b/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: JPMORGAN CHASE CAPITAL XXIX 6.75 <div class="text-muted"><em>Rate/Coupon:</em>
+      6.7<br> <em>Matures:</em> 04/02/2040</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/02/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 04/07/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PANW
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/07/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Biogen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 04/07/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 04/07/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Stratasys Ltd. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=SSYS" target="_blank">SSYS</a>
+    transaction_date: 04/06/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 04/07/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Accenture plc (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ACN" target="_blank">ACN</a>
+    transaction_date: 04/06/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Alibaba Group Holding Limited (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BABA" target="_blank">BABA</a>
+    transaction_date: 04/07/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Home Depot, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=HD" target="_blank">HD</a>
+    transaction_date: 04/07/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Under Armour, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UA" target="_blank">UA</a>
+    transaction_date: 04/13/2015
+    type: Purchase

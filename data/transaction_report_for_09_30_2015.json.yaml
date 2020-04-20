@@ -1,0 +1,23 @@
+- bioguide: B001135
+  date_recieved: 09/30/2015
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/C50F00D7-DBE9-4DFA-AA46-23A9C5BDB413/
+  transactions: []
+- bioguide: C001075
+  date_recieved: 09/30/2015
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/49fcb4d6-d449-49d2-9f2a-190fb36a2180/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Green Tree 95-10 B2 Financial Corporation <div class="text-muted"><em>Rate/Coupon:</em>
+      7.400<br> <em>Matures:</em> 01/15/2027</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 09/18/2015
+    type: Sale (Full)

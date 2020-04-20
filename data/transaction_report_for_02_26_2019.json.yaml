@@ -1,0 +1,39 @@
+- bioguide: K000383
+  date_recieved: 02/26/2019
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/90e20076-4d79-4ee1-a5dd-eaec71eae17a/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 01/31/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: United Technologies Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UTX" target="_blank">UTX</a>
+    transaction_date: 01/10/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: McCormick &amp; Company, Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MKC" target="_blank">MKC</a>
+    transaction_date: 01/10/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: American Express Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AXP" target="_blank">AXP</a>
+    transaction_date: 01/10/2019
+    type: Sale (Partial)

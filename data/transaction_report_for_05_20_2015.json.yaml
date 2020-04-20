@@ -1,0 +1,47 @@
+- bioguide: K000383
+  date_recieved: 05/20/2015
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f3195f71-6d23-460d-89d0-9acf5862ebf5/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Muni Bond Cape Elizabeth ME <div class="text-muted"><em>Rate/Coupon:</em>
+      3.75%<br> <em>Matures:</em> 04/01/2016</div>
+    asset_type: Municipal Security
+    comment: Redemption "Called"
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/01/2015
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 05/20/2015
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/98b3f68c-01cd-4642-8c17-ecadc1cbeb93/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: IberiaBank Corp. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IBKC" target="_blank">IBKC</a>
+    transaction_date: 05/07/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: IberiaBank Corp. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IBKC" target="_blank">IBKC</a>
+    transaction_date: 05/06/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Procter &amp; Gamble Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 04/27/2015
+    type: Purchase

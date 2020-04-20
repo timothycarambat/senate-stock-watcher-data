@@ -1,0 +1,15 @@
+- bioguide: C001056
+  date_recieved: 02/24/2017
+  first_name: John
+  last_name: Cornyn
+  office: Cornyn, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3c3b5ad6-91be-4cd0-9c18-fbeab62cb0fd/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/01/2017
+    type: Sale (Full)

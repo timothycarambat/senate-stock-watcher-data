@@ -1,0 +1,78 @@
+- bioguide: C000174
+  date_recieved: 03/04/2016
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/17caad4c-3801-48b6-85b5-b4bfbe09be8b/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The ADT Corporation
+    asset_type: Stock
+    comment: Report amended to reflect correct ticker symbol.
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ADT" target="_blank">ADT</a>
+    transaction_date: 02/16/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Boeing Co
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/11/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Met Life Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/02/2016
+    type: Purchase
+- bioguide: C001035
+  date_recieved: 03/04/2016
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f3bcb26e-db22-405a-8107-d16ea8621583/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Precision Castparts Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/01/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Precision Castparts Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/01/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Precision Castparts Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/01/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Precision Castparts Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/01/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: EMC Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EMC" target="_blank">EMC</a>
+    transaction_date: 02/09/2016
+    type: Sale (Full)

@@ -1,0 +1,548 @@
+- bioguide: B001236
+  date_recieved: 03/06/2019
+  first_name: 'JOHN '
+  last_name: BOOZMAN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/7f0d501b-72c9-40f5-bd07-f76d6aed289d/
+  transactions: []
+- bioguide: M000357
+  date_recieved: 03/06/2019
+  first_name: A. Mitchell
+  last_name: McConnell, Jr.
+  office: McConnell, A. Mitchell Jr. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/78a66c3d-1d51-4b8f-ac8a-12ca25b75563/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: Dividend Reinvestment
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 03/05/2019
+    type: Purchase
+- bioguide: P000612
+  date_recieved: 03/06/2019
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/27190d45-df1c-4988-a69a-3281d4ad02e5/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Western Gas Partners (Exchanged) <br> Western Midstream Partners,
+      LP (Received)
+    asset_type: Stock
+    comment: Following this merger, Western Midstream Partners - WGP changed its name
+      to Western Midstream Operating - WES which is now the asset that the Senator
+      owns.
+    owner: Joint
+    ticker: --                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=WGP" target="_blank">WGP</a>
+    transaction_date: 02/27/2019
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Bollore
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BOIVF" target="_blank">BOIVF</a>
+    transaction_date: 02/13/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BWX Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BWXT" target="_blank">BWXT</a>
+    transaction_date: 02/27/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: BWX Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BWXT" target="_blank">BWXT</a>
+    transaction_date: 02/27/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 02/27/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cheniere Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LNG" target="_blank">LNG</a>
+    transaction_date: 02/27/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: BWX Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BWXT" target="_blank">BWXT</a>
+    transaction_date: 02/26/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AMERCO
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=UHAL" target="_blank">UHAL</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: PepsiCo, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Avon Products, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AVP" target="_blank">AVP</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: State Street Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=STT" target="_blank">STT</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOX" target="_blank">FOX</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Coca-Cola Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 02/25/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Unilever N.V.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=UN" target="_blank">UN</a>
+    transaction_date: 02/25/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Sysco Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SYY" target="_blank">SYY</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Oracle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ConocoPhillips
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=COP" target="_blank">COP</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Anthem, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ANTM" target="_blank">ANTM</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Arcosa, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ACA" target="_blank">ACA</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Infosys Limited
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=INFY" target="_blank">INFY</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Micron Technology, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MU" target="_blank">MU</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Clorox Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CLX" target="_blank">CLX</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 02/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 02/25/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 02/19/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Corning Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GLW" target="_blank">GLW</a>
+    transaction_date: 02/19/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 02/19/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 02/19/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Hanesbrands Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HBI" target="_blank">HBI</a>
+    transaction_date: 02/19/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 02/19/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: General Motors Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 02/19/2019
+    type: Sale (Partial)
+  - amount: $250,001 - $500,000
+    asset_description: FLORIDA ST GO <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 07/01/26</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 02/15/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: FORSYTH CNTY GA WTR &amp; SEW AUTH REV <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 04/01/23</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 02/13/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: METROPOLITAN ATLANTA RAPID REV <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 07/01/24</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 02/13/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 02/12/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: WPX Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+    transaction_date: 02/11/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bollore
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BOIVF" target="_blank">BOIVF</a>
+    transaction_date: 02/08/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 02/08/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Lions Gate Entertainment Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LGF-B" target="_blank">LGF-B</a>
+    transaction_date: 02/08/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ONEOK, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OKE" target="_blank">OKE</a>
+    transaction_date: 02/07/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Plains GP Holdings, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PAGP" target="_blank">PAGP</a>
+    transaction_date: 02/07/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 02/07/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 02/07/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 02/07/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bollore
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BOIVF" target="_blank">BOIVF</a>
+    transaction_date: 02/07/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Plains GP Holdings, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PAGP" target="_blank">PAGP</a>
+    transaction_date: 02/07/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Antero Midstream Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AM" target="_blank">AM</a>
+    transaction_date: 02/07/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: WPX Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+    transaction_date: 02/06/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/06/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/05/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 02/05/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/05/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: WPX Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+    transaction_date: 02/05/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: WPX Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+    transaction_date: 02/05/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: MPLX LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MPLX" target="_blank">MPLX</a>
+    transaction_date: 02/04/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 02/01/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: WPX Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+    transaction_date: 02/01/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bollore
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BOIVF" target="_blank">BOIVF</a>
+    transaction_date: 02/01/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/01/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 02/01/2019
+    type: Purchase

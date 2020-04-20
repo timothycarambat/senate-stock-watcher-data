@@ -1,0 +1,486 @@
+- bioguide: C000174
+  date_recieved: 04/09/2019
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2ae1f15e-73c5-40ea-bff7-28aecdbeb585/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 06/21/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 06/21/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/19/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Invesco Pacific Growth A
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/17/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Goldman Sachs <div class="text-muted"><em>Rate/Coupon:</em>
+      4.5%<br> <em>Matures:</em> 12/15/2018</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/17/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Compass Materials
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/10/2018
+    type: Sale (Full)
+- bioguide: C000174
+  date_recieved: 04/09/2019
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/61f45eac-be7d-4441-a2c0-1fe36d2cff9b/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Hormel Foods
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/01/2018
+    type: Sale (Full)
+- bioguide: H001061
+  date_recieved: 04/09/2019
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/252cb80b-a178-4762-8e33-d1d3776a0656/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Invesco S&amp;P SmallCap Low Volatility ETF
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XSLV" target="_blank">XSLV</a>
+    transaction_date: 03/08/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: T. Rowe Price New Horizons
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PRNHX" target="_blank">PRNHX</a>
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: JPMorgan Mid Cap Value L
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FLMVX" target="_blank">FLMVX</a>
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Fidelity Contrafund
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FCNTX" target="_blank">FCNTX</a>
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Target Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TGT" target="_blank">TGT</a>
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: MetLife, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MET" target="_blank">MET</a>
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Invesco Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IVZ" target="_blank">IVZ</a>
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Keurig Dr Pepper Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KDP" target="_blank">KDP</a>
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Crown Castle International Corp. (REIT)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CCI" target="_blank">CCI</a>
+    transaction_date: 03/22/2019
+    type: Purchase
+- bioguide: P000612
+  date_recieved: 04/09/2019
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0e5d9b1e-2b51-42b9-9ead-f05d117260a8/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: 21st Century Fox Class B (Exchanged) <br> The Walt Disney Company
+      (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 03/20/2019
+    type: Exchange
+  - amount: $15,001 - $50,000
+    asset_description: 21st Century Fox Class A (Exchanged) <br> The Walt Disney Company
+      (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 03/20/2019
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 04/05/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 04/05/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: BWX Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BWXT" target="_blank">BWXT</a>
+    transaction_date: 04/05/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Live Nation Entertainment, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LYV" target="_blank">LYV</a>
+    transaction_date: 04/03/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 04/03/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 04/03/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 04/02/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Live Nation Entertainment, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LYV" target="_blank">LYV</a>
+    transaction_date: 04/02/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 04/02/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Antero Midstream Partners, LP (Exchanged) <br> Antero Midstream
+      Corporation (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=AM" target="_blank">AM</a>
+    transaction_date: 03/13/2019
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 03/29/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 03/29/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 03/28/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 03/28/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 03/28/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 03/28/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Kinder Morgan, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KMI" target="_blank">KMI</a>
+    transaction_date: 03/28/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 03/28/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Booking Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BKNG" target="_blank">BKNG</a>
+    transaction_date: 03/26/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 03/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 03/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Oracle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 03/25/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 03/25/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 03/21/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BWX Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BWXT" target="_blank">BWXT</a>
+    transaction_date: 03/19/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 03/19/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BWX Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BWXT" target="_blank">BWXT</a>
+    transaction_date: 03/19/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: MPLX LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MPLX" target="_blank">MPLX</a>
+    transaction_date: 03/19/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 03/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Western Midstream Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WES" target="_blank">WES</a>
+    transaction_date: 03/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 03/13/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 03/08/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: TransCanada Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRP" target="_blank">TRP</a>
+    transaction_date: 03/07/2019
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 03/07/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: TransCanada Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRP" target="_blank">TRP</a>
+    transaction_date: 03/07/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: TransCanada Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRP" target="_blank">TRP</a>
+    transaction_date: 03/06/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: BWX Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BWXT" target="_blank">BWXT</a>
+    transaction_date: 03/01/2019
+    type: Sale (Partial)
+- bioguide: R000605
+  date_recieved: 04/09/2019
+  first_name: Mike
+  last_name: Rounds
+  office: Rounds, Mike (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/52499168-0dec-404b-a9c6-c3f96da3f739/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: Bird Dog Hospitality Fund 2, LLC <div class="text-muted"> <em>Company:</em>
+      Bird Dog Equity Partners &nbsp;(Sioux Falls, SD) </div> <div class="text-muted"><em>Description:</em>&nbsp;Property
+      Investment</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/31/2019
+    type: Purchase

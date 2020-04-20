@@ -1,0 +1,62 @@
+- bioguide: C001047
+  date_recieved: 11/30/2015
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a218bcbb-2699-4325-ab84-98b30ee53db0/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: AMGEN INC (AMGN)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/23/2015
+    type: Purchase
+- bioguide: H001061
+  date_recieved: 11/30/2015
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ba1bbc22-bad7-4ea6-98f6-e557a1b498ad/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: CG
+    asset_type: Stock
+    comment: CARLYLE GROUP LTD PUBLICLY TRADED PARTNERSHIP
+    owner: Self
+    ticker: --
+    transaction_date: 11/13/2015
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: ETP
+    asset_type: Stock
+    comment: ENERGY TRANSFER PARTNERS PUBLICLY TRADED PARTNERSHIP
+    owner: Self
+    ticker: --
+    transaction_date: 11/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: LGCY
+    asset_type: Stock
+    comment: LEGACY RESERVES LTD PUBLICLY TRADED PARTNERSHIP
+    owner: Self
+    ticker: --
+    transaction_date: 11/13/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: VNR
+    asset_type: Stock
+    comment: VANGUARD NATURAL RESOURCES PUBLICLY TRADED PARTNERSHIP
+    owner: Self
+    ticker: --
+    transaction_date: 11/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: LINE
+    asset_type: Stock
+    comment: LINN ENERGY LLC PUBLICLY TRADED PARTNERSHIP
+    owner: Self
+    ticker: --
+    transaction_date: 11/13/2015
+    type: Sale (Full)

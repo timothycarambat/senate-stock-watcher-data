@@ -1,0 +1,39 @@
+- bioguide: I000024
+  date_recieved: 06/07/2016
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2205c9e4-70b5-460e-883b-7bde6ad8b883/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Perrigo Company plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PRGO" target="_blank">PRGO</a>
+    transaction_date: 05/23/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Alibaba Group Holding Limited
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BABA" target="_blank">BABA</a>
+    transaction_date: 05/25/2016
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 05/17/2016
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Continental Resources, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CLR" target="_blank">CLR</a>
+    transaction_date: 05/12/2016
+    type: Sale (Partial)

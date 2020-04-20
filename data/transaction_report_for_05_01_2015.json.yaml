@@ -1,0 +1,32 @@
+- bioguide: C000174
+  date_recieved: 05/01/2015
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b28b6273-8a44-48ea-a17d-9ebb630f9cc9/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: MS Contingent Autocall on Apple Inc <div class="text-muted"><em>Rate/Coupon:</em>
+      10%<br> <em>Matures:</em> 04/09/2018</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/02/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Under Armour Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/22/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 04/22/2015
+    type: Purchase

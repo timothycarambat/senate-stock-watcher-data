@@ -1,0 +1,31 @@
+- bioguide: C001035
+  date_recieved: 02/14/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9c9b6ab2-ca5f-4ebd-98e7-1186399580a3/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: LinkedIn Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LNKD" target="_blank">LNKD</a>
+    transaction_date: 02/12/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: News Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NWSA" target="_blank">NWSA</a>
+    transaction_date: 02/11/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Salesforce.com, Inc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CRM" target="_blank">CRM</a>
+    transaction_date: 02/11/2014
+    type: Purchase

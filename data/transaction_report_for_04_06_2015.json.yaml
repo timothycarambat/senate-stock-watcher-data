@@ -1,0 +1,23 @@
+- bioguide: H001061
+  date_recieved: 04/06/2015
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/56d10154-dde9-44f8-acf1-484d819c443e/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Permanent Portfolio (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PRPFX" target="_blank">PRPFX</a>
+    transaction_date: 03/18/2015
+    type: Sale (Partial)
+  - amount: $100,001 - $250,000
+    asset_description: MDU Resources Group Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MDU" target="_blank">MDU</a>
+    transaction_date: 03/20/2015
+    type: Purchase

@@ -1,0 +1,39 @@
+- bioguide: R000307
+  date_recieved: 07/04/2015
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6486d3e8-5583-4421-8e7f-37e1490a96eb/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: nflx
+    asset_type: Stock
+    comment: SEP
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/24/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: znga
+    asset_type: Stock
+    comment: SEP
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/11/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: aapl
+    asset_type: Stock
+    comment: SEP
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/09/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: aapl
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/09/2015
+    type: Purchase

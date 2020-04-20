@@ -1,0 +1,79 @@
+- bioguide: K000383
+  date_recieved: 03/13/2017
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2368ffd1-ae27-4cea-bed8-f64f86ce78ca/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Muni Bond Biddeford ME <div class="text-muted"><em>Rate/Coupon:</em>
+      3.00 %<br> <em>Matures:</em> 10/01/2028</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/07/2017
+    type: Purchase
+- bioguide: V000128
+  date_recieved: 03/13/2017
+  first_name: Chris
+  last_name: Van Hollen
+  office: Van Hollen, Chris (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/d729aa53-3864-4ec2-8087-62ba351859c7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Yum China Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=YUMC" target="_blank">YUMC</a>
+    transaction_date: 02/17/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Yum! Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=YUM" target="_blank">YUM</a>
+    transaction_date: 02/17/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 02/17/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Pepsico, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 02/17/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JNJ-Johnson &amp; Johnson
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+    transaction_date: 02/17/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 02/17/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/17/2017
+    type: Sale (Full)

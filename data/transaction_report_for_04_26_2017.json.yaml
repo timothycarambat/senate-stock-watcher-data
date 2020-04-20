@@ -1,0 +1,47 @@
+- bioguide: C001075
+  date_recieved: 04/26/2017
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/72c35c48-196f-415b-bbd5-5b9b53f2c8f3/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Federal Realty Investment Trust
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FRT" target="_blank">FRT</a>
+    transaction_date: 03/29/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Target Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TGT" target="_blank">TGT</a>
+    transaction_date: 03/29/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Southern Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SO" target="_blank">SO</a>
+    transaction_date: 03/29/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Lowe's Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LOW" target="_blank">LOW</a>
+    transaction_date: 03/29/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: American Tower Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMT" target="_blank">AMT</a>
+    transaction_date: 03/29/2017
+    type: Sale (Full)

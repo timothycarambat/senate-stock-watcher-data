@@ -1,0 +1,150 @@
+- bioguide: R000307
+  date_recieved: 06/03/2015
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/490c872c-0a5b-47ea-a5c0-c95307a71be9/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: ZNGA
+    asset_type: Stock
+    comment: SEP
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/15/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AAPL
+    asset_type: Stock
+    comment: SEP
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/15/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NFLX
+    asset_type: Stock
+    comment: SEP
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/15/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: COST
+    asset_type: Stock
+    comment: SEP
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/06/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NFLX
+    asset_type: Stock
+    comment: SEP
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/06/2015
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 06/03/2015
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/d16a03dd-c7ee-4bf8-b760-bccb5d5677c2/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Michael Kors Holdings Limited (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=KORS" target="_blank">KORS</a>
+    transaction_date: 05/27/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amgen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 05/27/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 05/27/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Cypress Semiconductor Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CY" target="_blank">CY</a>
+    transaction_date: 05/18/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Raytheon Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RTN" target="_blank">RTN</a>
+    transaction_date: 05/18/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: PACCAR Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PCAR" target="_blank">PCAR</a>
+    transaction_date: 05/07/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Prudential Financial, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PRU" target="_blank">PRU</a>
+    transaction_date: 05/07/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 05/27/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Merck &amp; Co. Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 05/27/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: TELUS Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TU" target="_blank">TU</a>
+    transaction_date: 05/27/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 05/07/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Biogen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 05/07/2015
+    type: Purchase

@@ -1,0 +1,15 @@
+- bioguide: C001035
+  date_recieved: 12/22/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3b18c706-2218-4b34-99ae-26abe41fe899/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Deutsche Global Infrastructure A (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TOLLX" target="_blank">TOLLX</a>
+    transaction_date: 12/15/2014
+    type: Sale (Full)

@@ -1,0 +1,23 @@
+- bioguide: H001061
+  date_recieved: 08/15/2019
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/40116820-a759-432f-a37e-b8a118feae2d/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 07/23/2019
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: United Parcel Service, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UPS" target="_blank">UPS</a>
+    transaction_date: 07/23/2019
+    type: Sale (Full)

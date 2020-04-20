@@ -1,0 +1,17 @@
+- bioguide: P000595
+  date_recieved: 12/23/2019
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b4f5da30-40c3-4b8c-a01b-91c5ec512773/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: BB&amp;T CORP (Exchanged) <br> Truist Financial Corporation
+      (Received)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=TFC" target="_blank">TFC</a>
+    transaction_date: 12/06/2019
+    type: Exchange

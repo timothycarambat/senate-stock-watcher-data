@@ -1,0 +1,30 @@
+- bioguide: B001135
+  date_recieved: 07/12/2017
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/7ef08199-6651-4983-b6be-6f14b79d0d57/
+  transactions: []
+- bioguide: C001035
+  date_recieved: 07/12/2017
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc79b7d5-c51e-4a7e-b8ff-38671e538939/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Snap-on Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SNA" target="_blank">SNA</a>
+    transaction_date: 06/15/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cullen/Frost Bankers, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CFR" target="_blank">CFR</a>
+    transaction_date: 06/15/2017
+    type: Purchase

@@ -1,0 +1,31 @@
+- bioguide: E000285
+  date_recieved: 09/02/2015
+  first_name: Michael  B
+  last_name: Enzi
+  office: Enzi, Michael B. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/20819b5e-4756-4fc4-bb40-3a1e79569a4d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Leander Texas Independent School Dist <div class="text-muted"><em>Rate/Coupon:</em>
+      0.0%<br> <em>Matures:</em> 08/15/2035</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 08/25/2015
+    type: Purchase
+- bioguide: I000024
+  date_recieved: 09/02/2015
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/245dac61-1d02-4b5d-8f12-fe30720ca1d5/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: QUALCOMM Incorporated (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 08/04/2015
+    type: Sale (Partial)

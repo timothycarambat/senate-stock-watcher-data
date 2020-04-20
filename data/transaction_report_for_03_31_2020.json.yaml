@@ -1,0 +1,435 @@
+- bioguide: L000594
+  date_recieved: 03/31/2020
+  first_name: Kelly
+  last_name: Loeffler
+  office: Loeffler, Kelly (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/425096a9-b206-40a7-86b8-67fa4081b252/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: 'DuPont de Nemours, Inc. <div class="text-muted">Option Type:
+      Put <br><em>Strike price:</em> $40.00 <br> <em>Expires:</em> 07/17/2020 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of DD for $40
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 02/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: 'Kellogg Company <div class="text-muted">Option Type: Put <br><em>Strike
+      price:</em> $60.00 <br> <em>Expires:</em> 09/18/2020 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of K for $60
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=K" target="_blank">K</a>
+    transaction_date: 02/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: 'Alibaba Group Holding Limited <div class="text-muted">Option
+      Type: Put <br><em>Strike price:</em> $175.00 <br> <em>Expires:</em> 07/17/2020
+      </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of BABA for $175
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BABA" target="_blank">BABA</a>
+    transaction_date: 02/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: 'Assurant, Inc. <div class="text-muted">Option Type: Put <br><em>Strike
+      price:</em> $125.00 <br> <em>Expires:</em> 09/18/2020 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of AIZ for $125
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AIZ" target="_blank">AIZ</a>
+    transaction_date: 02/20/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: 'AbbVie Inc. <div class="text-muted">Option Type: Put <br><em>Strike
+      price:</em> $80.00 <br> <em>Expires:</em> 08/01/2020 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of ABBV for $80
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 02/20/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: DocuSign, Inc.
+    asset_type: Stock
+    comment: Lines 1-19 notified to filer on or after March 1, 2020; lines 20-42 notified
+      to filer on or after March 18, 2020
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DOCU" target="_blank">DOCU</a>
+    transaction_date: 02/20/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Prudential Financial, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PRU" target="_blank">PRU</a>
+    transaction_date: 03/13/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 03/10/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 03/10/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: 'Assurant, Inc. <div class="text-muted">Option Type: Put <br><em>Strike
+      price:</em> $100.00 <br> <em>Expires:</em> 01/15/2021 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of AIZ for $100
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AIZ" target="_blank">AIZ</a>
+    transaction_date: 03/09/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: 'Emerson Electric Co. <div class="text-muted">Option Type:
+      Put <br><em>Strike price:</em> $50.00 <br> <em>Expires:</em> 01/15/2021 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of EMR for $50
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EMR" target="_blank">EMR</a>
+    transaction_date: 03/09/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: 'Crane Co. <div class="text-muted">Option Type: Put <br><em>Strike
+      price:</em> $55.00 <br> <em>Expires:</em> 09/18/2020 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of CR for $55
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CR" target="_blank">CR</a>
+    transaction_date: 03/09/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: 'The Hartford Financial Services Group, Inc. <div class="text-muted">Option
+      Type: Put <br><em>Strike price:</em> $45.00 <br> <em>Expires:</em> 09/18/2020
+      </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of HIG for $45
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HIG" target="_blank">HIG</a>
+    transaction_date: 03/09/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: 'Amgen Inc. <div class="text-muted">Option Type: Put <br><em>Strike
+      price:</em> $180.00 <br> <em>Expires:</em> 10/16/2020 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of AMGN for $180
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 03/04/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: 'American International Group, Inc. <div class="text-muted">Option
+      Type: Put <br><em>Strike price:</em> $40.00 <br> <em>Expires:</em> 08/21/2020
+      </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of AIG for $40
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AIG" target="_blank">AIG</a>
+    transaction_date: 03/04/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: 'Palo Alto Networks, Inc. <div class="text-muted">Option Type:
+      Put <br><em>Strike price:</em> $150.00 <br> <em>Expires:</em> 09/18/2020 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of PANW for $150
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PANW" target="_blank">PANW</a>
+    transaction_date: 03/04/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: 'Chevron Corporation <div class="text-muted">Option Type: Put
+      <br><em>Strike price:</em> $92.50 <br> <em>Expires:</em> 09/18/2020 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of CVX for $92.50
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 03/04/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: 'BP PLC <div class="text-muted">Option Type: Put <br><em>Strike
+      price:</em> $30.00 <br> <em>Expires:</em> 11/20/2020 </div>'
+    asset_type: Stock Option
+    comment: Obligation to purchase stock of BP for $30
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BP" target="_blank">BP</a>
+    transaction_date: 03/04/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 03/03/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 03/02/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 02/28/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Booking Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BKNG" target="_blank">BKNG</a>
+    transaction_date: 03/11/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Booking Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BKNG" target="_blank">BKNG</a>
+    transaction_date: 03/10/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Helen of Troy Limited
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HELE" target="_blank">HELE</a>
+    transaction_date: 03/09/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Booking Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BKNG" target="_blank">BKNG</a>
+    transaction_date: 03/06/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The TJX Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TJX" target="_blank">TJX</a>
+    transaction_date: 03/09/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Ross Stores, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ROST" target="_blank">ROST</a>
+    transaction_date: 03/03/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Lululemon Athletica Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LULU" target="_blank">LULU</a>
+    transaction_date: 03/03/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 03/03/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Ross Stores, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ROST" target="_blank">ROST</a>
+    transaction_date: 03/02/2020
+    type: Sale (Partial)
+  - amount: $100,001 - $250,000
+    asset_description: CME Group Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CME" target="_blank">CME</a>
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 02/26/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: AutoZone, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AZO" target="_blank">AZO</a>
+    transaction_date: 02/26/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Automatic Data Processing, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADP" target="_blank">ADP</a>
+    transaction_date: 02/26/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Arena Pharmaceuticals, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ARNA" target="_blank">ARNA</a>
+    transaction_date: 02/26/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 02/27/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: CME Group Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CME" target="_blank">CME</a>
+    transaction_date: 02/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 02/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 02/24/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Inphi Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IPHI" target="_blank">IPHI</a>
+    transaction_date: 02/24/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 02/24/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Arena Pharmaceuticals, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ARNA" target="_blank">ARNA</a>
+    transaction_date: 02/24/2020
+    type: Sale (Partial)
+- bioguide: L000594
+  date_recieved: 03/31/2020
+  first_name: Kelly
+  last_name: Loeffler
+  office: Loeffler, Kelly (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/829529d5-698a-4b58-9af0-8a189cb7a6a8/
+  transactions:
+  - amount: $5,000,001 - $25,000,000
+    asset_description: Intercontinental Exchange, Inc.
+    asset_type: Stock
+    comment: Shares sold through a 10b5-1 plan, which is an SEC compliant pre-determined
+      plan
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ICE" target="_blank">ICE</a>
+    transaction_date: 03/11/2020
+    type: Sale (Partial)
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Intercontinental Exchange, Inc.
+    asset_type: Stock
+    comment: Sale of exercised options and shares received as compensation; shares
+      sold through a 10b5-1 plan, which is an SEC compliant pre determined plan
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ICE" target="_blank">ICE</a>
+    transaction_date: 02/26/2020
+    type: Sale (Partial)
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Intercontinental Exchange, Inc.
+    asset_type: Stock
+    comment: Partial exercise of stock options
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ICE" target="_blank">ICE</a>
+    transaction_date: 02/26/2020
+    type: Purchase
+  - amount: $5,000,001 - $25,000,000
+    asset_description: Intercontinental Exchange, Inc.
+    asset_type: Stock
+    comment: Sale of exercised options (sold to cover taxes and cost of prior exercise
+      of options); shares sold through a 10b5-1 plan, which is an SEC compliant pre-determined
+      plan
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ICE" target="_blank">ICE</a>
+    transaction_date: 03/11/2020
+    type: Sale (Partial)
+  - amount: $5,000,001 - $25,000,000
+    asset_description: Intercontinental Exchange, Inc.
+    asset_type: Stock
+    comment: Exercise of stock options prior to expiration date
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ICE" target="_blank">ICE</a>
+    transaction_date: 02/18/2020
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 03/31/2020
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2d09ce3a-1dfb-4110-b9aa-fe0dbde0d490/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Waste Management, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WM" target="_blank">WM</a>
+    transaction_date: 02/13/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Digital Realty Trust, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DLR" target="_blank">DLR</a>
+    transaction_date: 02/13/2020
+    type: Purchase

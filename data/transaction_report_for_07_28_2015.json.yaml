@@ -1,0 +1,241 @@
+- bioguide: P000612
+  date_recieved: 07/28/2015
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/81a6cb3e-068f-432f-9cf4-1f49c84f3865/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: WPX Energy, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+    transaction_date: 07/27/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Discovery Communications, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 07/27/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Williams Partners L.P. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+    transaction_date: 07/24/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Aaron's, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+    transaction_date: 07/23/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Williams Partners L.P. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+    transaction_date: 07/23/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Spectra Energy Corp. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SE" target="_blank">SE</a>
+    transaction_date: 07/23/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cablevision Systems Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVC" target="_blank">CVC</a>
+    transaction_date: 07/22/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cablevision Systems Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVC" target="_blank">CVC</a>
+    transaction_date: 07/22/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Spectra Energy Corp. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SE" target="_blank">SE</a>
+    transaction_date: 07/22/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Williams Partners L.P. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPZ" target="_blank">WPZ</a>
+    transaction_date: 07/22/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: PayPal Holdings, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PYPL" target="_blank">PYPL</a>
+    transaction_date: 07/21/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: eBay Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EBAY" target="_blank">EBAY</a>
+    transaction_date: 07/21/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cablevision Systems Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVC" target="_blank">CVC</a>
+    transaction_date: 07/20/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: VCA Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WOOF" target="_blank">WOOF</a>
+    transaction_date: 07/20/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: eBay Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EBAY" target="_blank">EBAY</a>
+    transaction_date: 07/17/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: PerkinElmer Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PKI" target="_blank">PKI</a>
+    transaction_date: 07/17/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: WPX Energy, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+    transaction_date: 07/17/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PerkinElmer Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PKI" target="_blank">PKI</a>
+    transaction_date: 07/17/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cablevision Systems Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVC" target="_blank">CVC</a>
+    transaction_date: 07/16/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cablevision Systems Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVC" target="_blank">CVC</a>
+    transaction_date: 07/14/2015
+    type: Sale (Partial)
+  - amount: $250,001 - $500,000
+    asset_description: Columbus Ga Bldg Auth Lease Rev <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 01/01/22</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 07/14/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Devon Energy Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 07/13/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Aaron's, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+    transaction_date: 07/13/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Aaron's, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+    transaction_date: 07/09/2015
+    type: Sale (Partial)
+  - amount: $250,001 - $500,000
+    asset_description: Atl Ga Wtr &amp; Wastewtr Rev Rev <div class="text-muted"><em>Rate/Coupon:</em>
+      6.0%<br> <em>Matures:</em> 11/01/22</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 07/09/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Aaron's, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAN" target="_blank">AAN</a>
+    transaction_date: 07/08/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cablevision Systems Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVC" target="_blank">CVC</a>
+    transaction_date: 07/07/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Discovery Communications, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 06/29/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CBS Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+    transaction_date: 06/29/2015
+    type: Purchase

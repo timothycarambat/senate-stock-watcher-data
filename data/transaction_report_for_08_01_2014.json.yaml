@@ -1,0 +1,15 @@
+- bioguide: R000120
+  date_recieved: 08/01/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ffd3260f-deaa-4a66-b243-378892ec790c/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Kansas City Southern (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KSU" target="_blank">KSU</a>
+    transaction_date: 07/25/2014
+    type: Sale (Full)

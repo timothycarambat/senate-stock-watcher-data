@@ -1,0 +1,570 @@
+- bioguide: C001047
+  date_recieved: 11/08/2018
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5ab9ecbc-bc7c-463c-8395-ae66f226b026/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Praxair, Inc. (Exchanged) <br> Linde plc (Received)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PX" target="_blank">PX</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=LIN" target="_blank">LIN</a>
+    transaction_date: 10/31/2018
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Johnson &amp; Johnson
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+    transaction_date: 10/17/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 10/16/2018
+    type: Purchase
+- bioguide: I000024
+  date_recieved: 11/08/2018
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/75695274-99b1-48cf-bf1d-f203108ed861/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: American International Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AIG" target="_blank">AIG</a>
+    transaction_date: 11/05/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 10/31/2018
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: XPO Logistics, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XPO" target="_blank">XPO</a>
+    transaction_date: 10/25/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Intuitive Surgical, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ISRG" target="_blank">ISRG</a>
+    transaction_date: 10/25/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Intellia Therapeutics, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NTLA" target="_blank">NTLA</a>
+    transaction_date: 10/25/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Albemarle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ALB" target="_blank">ALB</a>
+    transaction_date: 10/17/2018
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: salesforce.com, inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CRM" target="_blank">CRM</a>
+    transaction_date: 10/11/2018
+    type: Sale (Full)
+- bioguide: P000612
+  date_recieved: 11/08/2018
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/32bb45d0-bd8d-4f3c-9003-69e577c4e6ae/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Energy Transfer Partners, L.P. (Exchanged) <br> Energy Transfer
+      LP (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ETP" target="_blank">ETP</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 10/19/2018
+    type: Exchange
+  - amount: $250,001 - $500,000
+    asset_description: ATLANTA GA WTR &amp; WASTEWTR REV <div class="text-muted"><em>Rate/Coupon:</em>
+      5.25%<br> <em>Matures:</em> 11/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 11/02/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Graphic Packaging Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GPK" target="_blank">GPK</a>
+    transaction_date: 11/01/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CBS Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CBS" target="_blank">CBS</a>
+    transaction_date: 11/01/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Hanesbrands Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HBI" target="_blank">HBI</a>
+    transaction_date: 11/01/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 11/01/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 11/01/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 11/01/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 10/31/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Graphic Packaging Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GPK" target="_blank">GPK</a>
+    transaction_date: 10/31/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Graphic Packaging Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GPK" target="_blank">GPK</a>
+    transaction_date: 10/31/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 10/30/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 10/30/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 10/30/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Graphic Packaging Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GPK" target="_blank">GPK</a>
+    transaction_date: 10/30/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 10/30/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 10/30/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 10/29/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 10/29/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 10/29/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 10/29/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Micron Technology, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MU" target="_blank">MU</a>
+    transaction_date: 10/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 10/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Devon Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 10/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 10/25/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 10/25/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 10/24/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Johnson &amp; Johnson
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+    transaction_date: 10/24/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caterpillar Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CAT" target="_blank">CAT</a>
+    transaction_date: 10/24/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: International Paper Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IP" target="_blank">IP</a>
+    transaction_date: 10/24/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 10/24/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Regions Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RF" target="_blank">RF</a>
+    transaction_date: 10/24/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Valero Energy Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VLP" target="_blank">VLP</a>
+    transaction_date: 10/23/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 10/23/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Hanesbrands Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HBI" target="_blank">HBI</a>
+    transaction_date: 10/23/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Regions Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RF" target="_blank">RF</a>
+    transaction_date: 10/23/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 10/23/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 10/22/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 10/19/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 10/18/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 10/17/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 10/15/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 10/12/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: General Motors Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 10/10/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Devon Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 10/10/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 10/10/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Axalta Coating Systems Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXTA" target="_blank">AXTA</a>
+    transaction_date: 10/10/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 10/10/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 10/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 10/09/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 10/08/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Corning Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GLW" target="_blank">GLW</a>
+    transaction_date: 10/05/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 10/04/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 10/03/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 10/02/2018
+    type: Sale (Partial)
+- bioguide: W000805
+  date_recieved: 11/08/2018
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7e834dd0-24aa-4f2c-a743-8743ebb07559/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Acumen Pharmaceutical, Inc. <div class="text-muted"> <em>Company:</em>
+      Acumen Pharmaceutical, Inc. &nbsp;(Livermore, CA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Drug
+      Discovery</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 10/19/2018
+    type: Purchase

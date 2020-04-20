@@ -1,0 +1,38 @@
+- bioguide: C001047
+  date_recieved: 08/03/2015
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0e08d912-97a1-4ab5-93b1-6c86d3b9f4d7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Abbott Laboratories (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ABT" target="_blank">ABT</a>
+    transaction_date: 07/21/2015
+    type: Purchase
+- bioguide: H001061
+  date_recieved: 08/03/2015
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cff4b402-4a3c-4ebd-b4f1-9725e0dc5c12/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: The Kraft Heinz Company (NASDAQ)
+    asset_type: Stock
+    comment: Recived cash and shares of KHC in exchange for shares of KRFT.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KHC" target="_blank">KHC</a>
+    transaction_date: 07/06/2015
+    type: Exchange
+  - amount: $250,001 - $500,000
+    asset_description: Kraft Foods Group, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: Merger of KRFT and KHC, results in receiving cash and shares of KHC.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KRFT" target="_blank">KRFT</a>
+    transaction_date: 07/06/2015
+    type: Exchange

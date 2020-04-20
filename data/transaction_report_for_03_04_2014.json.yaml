@@ -1,0 +1,38 @@
+- bioguide: C001035
+  date_recieved: 03/04/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/d4fd134d-705e-4d6e-bd34-1dd55524e98e/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Express Scripts Holding Company (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ESRX" target="_blank">ESRX</a>
+    transaction_date: 02/26/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Red Hat, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RHT" target="_blank">RHT</a>
+    transaction_date: 02/26/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: McKesson Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MCK" target="_blank">MCK</a>
+    transaction_date: 02/26/2014
+    type: Purchase
+- bioguide: R000307
+  date_recieved: 03/04/2014
+  first_name: 'PAT '
+  last_name: ROBERTS
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/150EDC44-0E54-48AA-9107-AEA667615811/
+  transactions: []

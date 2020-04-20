@@ -1,0 +1,87 @@
+- bioguide: T000461
+  date_recieved: 11/04/2015
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/86066604-e395-4641-a526-3efb31cd28b7/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: PFS
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 09/14/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: PFS
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 09/15/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: PFS
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 09/25/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: PFS
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 10/23/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Provident Financial Services, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 08/07/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 08/07/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Provident Financial Services, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 08/10/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Provident Financial Services, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 08/31/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Provident Financial Services, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 09/17/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Provident Financial Services, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 09/18/2015
+    type: Sale (Partial)

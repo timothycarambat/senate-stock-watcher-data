@@ -1,0 +1,31 @@
+- bioguide: W000802
+  date_recieved: 04/28/2014
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6af96223-9cce-47b1-bb59-2060a6de5385/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Visa Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 04/11/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Citigroup Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 03/20/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Schlumberger Limited (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 03/20/2014
+    type: Purchase

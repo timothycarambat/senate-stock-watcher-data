@@ -1,0 +1,22 @@
+- bioguide: B001236
+  date_recieved: 11/26/2018
+  first_name: 'JOHN '
+  last_name: BOOZMAN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/5c8025e9-c8bb-4f1e-a476-19331fe8f348/
+  transactions: []
+- bioguide: K000383
+  date_recieved: 11/26/2018
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a31f4ed9-2215-4833-9a19-1a30db5a65c5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 10/17/2018
+    type: Sale (Partial)

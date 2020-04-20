@@ -1,0 +1,43 @@
+- bioguide: B001277
+  date_recieved: 08/13/2019
+  first_name: 'RICHARD '
+  last_name: BLUMENTHAL
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/1f722e86-cc10-49b9-8dcc-62fb6251fc5f/
+  transactions: []
+- bioguide: T000461
+  date_recieved: 08/13/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/80a7c16c-49b9-4b5a-aede-1acb63995cd4/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer LP (Exchanged) <br> Energy Transfer Partners,
+      L.P. (Received)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=ETP" target="_blank">ETP</a>
+    transaction_date: 10/19/2018
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer Partners, L.P. (Exchanged) <br> Energy Transfer
+      LP (Received)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ETP" target="_blank">ETP</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 10/19/2018
+    type: Exchange
+  - amount: $15,001 - $50,000
+    asset_description: BB&amp;T Corporation <div class="text-muted"><em>Rate/Coupon:</em>
+      5.25%<br> <em>Matures:</em> 11/01/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BBT" target="_blank">BBT</a>
+    transaction_date: 10/31/2018
+    type: Sale (Full)

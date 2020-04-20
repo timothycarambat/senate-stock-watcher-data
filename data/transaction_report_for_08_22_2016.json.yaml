@@ -1,0 +1,126 @@
+- bioguide: B001236
+  date_recieved: 08/22/2016
+  first_name: 'JOHN '
+  last_name: BOOZMAN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/b9b9bfbe-8ef0-454d-934f-be83e16db2dc/
+  transactions: []
+- bioguide: W000802
+  date_recieved: 08/22/2016
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/080681c1-071e-4d56-8b59-3d01657ce768/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Citigroup Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 07/26/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 07/26/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 07/29/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Waste Management, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=WM" target="_blank">WM</a>
+    transaction_date: 07/07/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Waste Management, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=WM" target="_blank">WM</a>
+    transaction_date: 07/07/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Express Scripts Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=ESRX" target="_blank">ESRX</a>
+    transaction_date: 07/07/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hasbro Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=HAS" target="_blank">HAS</a>
+    transaction_date: 07/07/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 07/21/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Waste Management, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WM" target="_blank">WM</a>
+    transaction_date: 07/07/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 07/29/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Express Scripts Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ESRX" target="_blank">ESRX</a>
+    transaction_date: 07/07/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hasbro Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=HAS" target="_blank">HAS</a>
+    transaction_date: 07/07/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 07/21/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 07/26/2016
+    type: Sale (Partial)

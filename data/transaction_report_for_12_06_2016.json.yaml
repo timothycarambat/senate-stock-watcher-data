@@ -1,0 +1,397 @@
+- bioguide: B001277
+  date_recieved: 12/06/2016
+  first_name: 'RICHARD '
+  last_name: BLUMENTHAL
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/c3f63433-47f8-4e65-92df-2289cc8e220e/
+  transactions: []
+- bioguide: I000024
+  date_recieved: 12/06/2016
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b841b834-995b-497a-a3b6-f4ca11c9c7ee/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Cerner Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CERN" target="_blank">CERN</a>
+    transaction_date: 12/01/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Cognizant Technology Solutions Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CTSH" target="_blank">CTSH</a>
+    transaction_date: 11/15/2016
+    type: Sale (Full)
+- bioguide: P000612
+  date_recieved: 12/06/2016
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/220d9ddf-1dbe-4955-a86e-ae084f710a78/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 12/02/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 12/02/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Versum Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VSM" target="_blank">VSM</a>
+    transaction_date: 12/02/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 12/01/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 11/29/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Entegris, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENTG" target="_blank">ENTG</a>
+    transaction_date: 11/25/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 11/23/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 11/18/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 11/18/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Spectra Energy Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SE" target="_blank">SE</a>
+    transaction_date: 11/18/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 11/18/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 11/18/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Spectra Energy Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SE" target="_blank">SE</a>
+    transaction_date: 11/18/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Kraft Heinz Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KHC" target="_blank">KHC</a>
+    transaction_date: 11/18/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Extra Space Storage Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EXR" target="_blank">EXR</a>
+    transaction_date: 11/18/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Extra Space Storage Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EXR" target="_blank">EXR</a>
+    transaction_date: 11/18/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/18/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/18/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 11/17/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 11/17/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 11/16/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Versum Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VSM" target="_blank">VSM</a>
+    transaction_date: 11/15/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Cabela's Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CAB" target="_blank">CAB</a>
+    transaction_date: 11/15/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Genesis Energy LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GEL" target="_blank">GEL</a>
+    transaction_date: 11/11/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 11/11/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/11/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 11/10/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 11/10/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 11/10/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/10/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CAB - Cabela's Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 11/10/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/10/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: DCP Midstream Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DPM" target="_blank">DPM</a>
+    transaction_date: 11/09/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Baxter International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAX" target="_blank">BAX</a>
+    transaction_date: 11/08/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Westlake Chemical Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WLK" target="_blank">WLK</a>
+    transaction_date: 11/08/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Versum Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VSM" target="_blank">VSM</a>
+    transaction_date: 11/08/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P 500 ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 11/07/2016
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: SPDR S&amp;P 500 ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 11/07/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Baxter International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAX" target="_blank">BAX</a>
+    transaction_date: 11/07/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Viacom, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VIAB" target="_blank">VIAB</a>
+    transaction_date: 11/07/2016
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 11/07/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Versum Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VSM" target="_blank">VSM</a>
+    transaction_date: 11/07/2016
+    type: Purchase

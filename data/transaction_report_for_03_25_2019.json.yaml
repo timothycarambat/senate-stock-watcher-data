@@ -1,0 +1,70 @@
+- bioguide: F000062
+  date_recieved: 03/25/2019
+  first_name: 'DIANNE '
+  last_name: FEINSTEIN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/7af87c4e-454a-4a3e-8097-6d27cf59c714/
+  transactions: []
+- bioguide: W000802
+  date_recieved: 03/25/2019
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c41572bf-57fc-4769-9f70-34e195b5aaef/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 02/27/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/27/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 02/27/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: "Nestl\xE9 S.A."
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NSRGY" target="_blank">NSRGY</a>
+    transaction_date: 02/27/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: PepsiCo, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 02/27/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 02/27/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Hasbro, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=HAS" target="_blank">HAS</a>
+    transaction_date: 02/12/2019
+    type: Sale (Partial)

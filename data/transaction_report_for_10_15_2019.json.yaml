@@ -1,0 +1,25 @@
+- bioguide: C001035
+  date_recieved: 10/15/2019
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/79725ebd-f89c-4549-80f5-4c04e7e6264c/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Federal Farm Credit Bk 3133EGU94 <div class="text-muted"><em>Rate/Coupon:</em>
+      2.300%<br> <em>Matures:</em> 12/14/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/16/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Federal Farm Credit Bk 3133EKQ90 <div class="text-muted"><em>Rate/Coupon:</em>
+      2.000%<br> <em>Matures:</em> 09/23/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/18/2019
+    type: Purchase

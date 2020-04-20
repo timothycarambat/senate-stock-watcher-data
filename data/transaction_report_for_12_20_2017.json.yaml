@@ -1,0 +1,215 @@
+- bioguide: K000383
+  date_recieved: 12/20/2017
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8c37c970-7a72-4821-b02d-bbaef57875dd/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 11/28/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ConocoPhillips
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COP" target="_blank">COP</a>
+    transaction_date: 11/28/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 11/17/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Novartis AG
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVS" target="_blank">NVS</a>
+    transaction_date: 11/10/2017
+    type: Sale (Full)
+- bioguide: M001183
+  date_recieved: 12/20/2017
+  first_name: Joseph
+  last_name: Manchin, III
+  office: Manchin, Joe (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/32716812-f6b3-4ef5-a6e0-97befaf29de5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: West Virginia Growth Investment LLC <div class="text-muted">
+      <em>Company:</em> Care 24/7 &nbsp;(Knoxville, Tennessee) </div> <div class="text-muted"><em>Description:</em>&nbsp;A
+      health care service and technology company that coordinates and explains treatment
+      recommendations for patients with serious illnesses.</div>
+    asset_type: Other Securities
+    comment: Additional Investment in Care 24/7, an underlying asset of West Virginia
+      Growth Investment Fund LLC
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/29/2017
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 12/20/2017
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a8b03ce8-5780-4712-a589-7c1ecdd8774f/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Chevron Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 12/31/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Linn Energy, LLC (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LINE" target="_blank">LINE</a>
+    transaction_date: 04/29/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Provident Financial Services, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PFS" target="_blank">PFS</a>
+    transaction_date: 02/11/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: AT&amp;T, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ensco plc (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ESV" target="_blank">ESV</a>
+    transaction_date: 02/24/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: iShares MSCI Emerging Markets (NYSEArca)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EEM" target="_blank">EEM</a>
+    transaction_date: 02/27/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Utilities Select Sector SPDR ETF (NYSEArca)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XLU" target="_blank">XLU</a>
+    transaction_date: 02/27/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Health Care Select Sector SPDR ETF (NYSEArca)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XLV" target="_blank">XLV</a>
+    transaction_date: 01/30/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Utilities Select Sector SPDR ETF (NYSEArca)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XLU" target="_blank">XLU</a>
+    transaction_date: 01/30/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: SPDR S&amp;P 500 ETF (NYSEArca)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 01/30/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: iShares 1-3 Year Treasury Bond (NYSEArca)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SHY" target="_blank">SHY</a>
+    transaction_date: 01/05/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: PowerShares Emerging Markets Sov Dbt ETF (NYSEArca)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PCY" target="_blank">PCY</a>
+    transaction_date: 01/05/2015
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 12/20/2017
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ae40e5f0-02f3-44db-8a27-aa9a303e9cce/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: PFS
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 10/28/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ESV
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 11/23/2015
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 12/20/2017
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5e8c0311-e41a-44f2-8b26-155e47ec4558/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: IberiaBank Corp. (NASDAQ)
+    asset_type: Stock
+    comment: Name change - Old Florida Bank became IberiaBank Corp. due to acquisition
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IBKC" target="_blank">IBKC</a>
+    transaction_date: 05/07/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: IberiaBank Corp. (NASDAQ)
+    asset_type: Stock
+    comment: Name change - Old Florida Bank became IberiaBank Corp. due to acquisition
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IBKC" target="_blank">IBKC</a>
+    transaction_date: 05/06/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Procter &amp; Gamble Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 04/27/2015
+    type: Purchase

@@ -1,0 +1,95 @@
+- bioguide: W000802
+  date_recieved: 08/18/2017
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/57d23801-d886-410f-972c-e6f46209e9c5/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: IFF.SG - Intl Flavors &amp; Fragr (Stuttgart)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 07/13/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Citigroup Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 07/25/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: HP Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=HPQ" target="_blank">HPQ</a>
+    transaction_date: 07/25/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: John Hancock Financial Opportunities Fund
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BTO" target="_blank">BTO</a>
+    transaction_date: 07/25/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 07/13/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 07/28/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Capital One Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=COF" target="_blank">COF</a>
+    transaction_date: 07/28/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 07/28/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 07/28/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Johnson Controls International plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=JCI" target="_blank">JCI</a>
+    transaction_date: 07/28/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 07/28/2017
+    type: Purchase

@@ -1,0 +1,182 @@
+- bioguide: C000174
+  date_recieved: 01/03/2017
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5608a629-e412-4ab9-bb37-f55b003dd6ed/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Pembina Pipeline Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/16/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Veresen Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/16/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Clearbridge Energy MLP Fund
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/16/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ClearBridge American Energy MLP Fund Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/16/2016
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Lincoln National Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/16/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: MetLife Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/15/2016
+    type: Sale (Partial)
+- bioguide: P000612
+  date_recieved: 01/03/2017
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/28d9700b-a9f1-4e60-bcbc-a8e2e378ebf8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Versum Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VSM" target="_blank">VSM</a>
+    transaction_date: 12/22/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Enbridge Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENB" target="_blank">ENB</a>
+    transaction_date: 12/16/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 12/16/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 12/16/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 12/15/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ONEOK Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OKS" target="_blank">OKS</a>
+    transaction_date: 12/14/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Enterprise Products Partners L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EPD" target="_blank">EPD</a>
+    transaction_date: 12/13/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Enterprise Products Partners L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EPD" target="_blank">EPD</a>
+    transaction_date: 12/13/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Buckeye Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BPL" target="_blank">BPL</a>
+    transaction_date: 12/13/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ETP" target="_blank">ETP</a>
+    transaction_date: 12/12/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 12/12/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 12/12/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 12/09/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 12/08/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 12/07/2016
+    type: Purchase

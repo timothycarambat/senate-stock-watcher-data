@@ -1,0 +1,15 @@
+- bioguide: C001098
+  date_recieved: 05/17/2016
+  first_name: Rafael E
+  last_name: Cruz
+  office: Cruz, Ted (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/34e0aa3f-b58f-48ca-a412-b143434a82fb/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: ONEOK Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OKE" target="_blank">OKE</a>
+    transaction_date: 04/17/2016
+    type: Sale (Partial)

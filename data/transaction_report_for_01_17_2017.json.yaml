@@ -1,0 +1,15 @@
+- bioguide: P000595
+  date_recieved: 01/17/2017
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/94c8e45b-640f-46dc-8cd9-d96edc20e67a/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Simon Property Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SPG" target="_blank">SPG</a>
+    transaction_date: 12/30/2016
+    type: Purchase

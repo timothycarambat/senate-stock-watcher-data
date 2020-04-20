@@ -1,0 +1,23 @@
+- bioguide: C001035
+  date_recieved: 09/10/2019
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6784a9a9-d791-451f-816e-e317349aace7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Covetrus, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVET" target="_blank">CVET</a>
+    transaction_date: 08/15/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Akamai Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AKAM" target="_blank">AKAM</a>
+    transaction_date: 08/20/2019
+    type: Purchase

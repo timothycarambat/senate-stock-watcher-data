@@ -1,0 +1,102 @@
+- bioguide: C000174
+  date_recieved: 05/01/2014
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6cfed5f8-e48c-4421-8ce1-18fd087da47e/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: UBS Contingent Autocall Potash 8.05% 1/27/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/28/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPM Contingent Autocall Walgreens 10% 4/28/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/25/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Marvell Tech Group
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/02/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Atmel Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ATML" target="_blank">ATML</a>
+    transaction_date: 04/02/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: UBS Contingent Autocall Potash 8.05% 1/27/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/28/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: JPM Contingent Autocall Walgreens 10% 4/28/2017
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/25/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: HSBC Contingent Autocall Broadcom 8.6% 1/8/15
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/08/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Barclays Contingent Autocall Vodafone 11.05% 4/10/17
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/04/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Baker Hughes Incorporated (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BHI" target="_blank">BHI</a>
+    transaction_date: 04/03/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Transocean Ltd
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/03/2014
+    type: Purchase
+- bioguide: R000120
+  date_recieved: 05/01/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4a7fff78-549e-4c76-95a0-66da2b7b46c4/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Coca-Cola Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 04/22/2014
+    type: Sale (Full)

@@ -1,0 +1,286 @@
+- bioguide: C000127
+  date_recieved: 06/27/2014
+  first_name: Maria
+  last_name: Cantwell
+  office: Cantwell, Maria (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/81bfd841-b416-4380-8f44-48d9fc730073/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: RealNetworks Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=RNWK" target="_blank">RNWK</a>
+    transaction_date: 06/06/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: RealNetworks Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=RNWK" target="_blank">RNWK</a>
+    transaction_date: 06/06/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: RealNetworks Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=RNWK" target="_blank">RNWK</a>
+    transaction_date: 06/06/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: RealNetworks Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=RNWK" target="_blank">RNWK</a>
+    transaction_date: 06/06/2014
+    type: Sale (Partial)
+- bioguide: C001035
+  date_recieved: 06/27/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/97d58777-edb5-4319-b360-74709332d937/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Legg Mason Batterymarch Intl Eq C (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LMGEX" target="_blank">LMGEX</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Weyerhaeuser Co. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WY" target="_blank">WY</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Waste Connections Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WCN" target="_blank">WCN</a>
+    transaction_date: 06/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Wal-Mart Stores Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: United Parcel Service, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UPS" target="_blank">UPS</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Triangle Capital Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TCAP" target="_blank">TCAP</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Stericycle, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SRCL" target="_blank">SRCL</a>
+    transaction_date: 06/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Sinclair Broadcast Group, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBGI" target="_blank">SBGI</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Roper Industries Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ROP" target="_blank">ROP</a>
+    transaction_date: 06/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Rockwood Holdings, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ROC" target="_blank">ROC</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Praxair Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PX" target="_blank">PX</a>
+    transaction_date: 06/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PNM Resources, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PNM" target="_blank">PNM</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Perrigo Company Public Limited Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PRGO" target="_blank">PRGO</a>
+    transaction_date: 06/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PartnerRe Ltd. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PRE" target="_blank">PRE</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Occidental Petroleum Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=OXY" target="_blank">OXY</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Microchip Technology Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MCHP" target="_blank">MCHP</a>
+    transaction_date: 06/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Medical Properties Trust Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MPW" target="_blank">MPW</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Las Vegas Sands Corp. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LVS" target="_blank">LVS</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: HollyFrontier Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HFC" target="_blank">HFC</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Google Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOGL" target="_blank">GOOGL</a>
+    transaction_date: 06/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Arthur J Gallagher &amp; Co. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AJG" target="_blank">AJG</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Fidelity National Financial, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FNF" target="_blank">FNF</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Crane Co. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CR" target="_blank">CR</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Citigroup Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Capstead Mortgage Corp. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CMO" target="_blank">CMO</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Bristol-Myers Squibb Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Applied Industrial Technologies, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AIT" target="_blank">AIT</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AGCO Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AGCO" target="_blank">AGCO</a>
+    transaction_date: 06/19/2014
+    type: Sale (Full)

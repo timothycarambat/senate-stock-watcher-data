@@ -1,0 +1,57 @@
+- bioguide: W000802
+  date_recieved: 04/17/2017
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0c3d0d20-2de7-463c-bf63-94a4277a1f2c/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Raymond James Financial <div class="text-muted"><em>Rate/Coupon:</em>
+      6.9<br> <em>Matures:</em> 03/15/2042</div>
+    asset_type: Corporate Bond
+    comment: Redemption
+    owner: Joint
+    ticker: --
+    transaction_date: 03/15/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Linear Technology Corporation
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=LLTC" target="_blank">LLTC</a>
+    transaction_date: 03/14/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Analog Devices, Inc.
+    asset_type: Stock
+    comment: Shares received in exchange for Linear Technology shares as a result
+      of merger
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=ADI" target="_blank">ADI</a>
+    transaction_date: 03/14/2017
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Microchip Technology Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MCHP" target="_blank">MCHP</a>
+    transaction_date: 03/06/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Conagra Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CAG" target="_blank">CAG</a>
+    transaction_date: 03/06/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 03/06/2017
+    type: Sale (Partial)

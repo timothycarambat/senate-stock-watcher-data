@@ -1,0 +1,120 @@
+- bioguide: C000174
+  date_recieved: 03/04/2019
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7b87f21b-3a74-4ef9-8069-17be2c728a12/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Cameco Corp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/25/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BAE Systems PLC Spon ADR
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/25/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Newell Brands Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/25/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Altria Group Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/25/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 20 Trm
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/25/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Citizens Financial
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/25/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 19 Trm
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/25/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Goldman Sachs Access Treasury 0-1
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/25/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ishares S&amp;P GSCI Commodity Index Tr
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/20/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Wisdom Tree US Small Cap Dividend Growth
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/20/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ishares Ibonds Dec 19 Trm
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/20/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: First Tr New Opportunity MLP &amp; Energy Fund
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/20/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Goldman Sachs Access Treasury 0-1
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/20/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: MS Fixed to Floating Rate Note <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 02/15/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/15/2019
+    type: Sale (Full)

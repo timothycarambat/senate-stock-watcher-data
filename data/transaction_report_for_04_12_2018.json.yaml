@@ -1,0 +1,34 @@
+- bioguide: P000595
+  date_recieved: 04/12/2018
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8e46586d-e3a0-494b-baa5-4931183a6adc/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: MARYLAND ST FOR ISSUES DATED PRIOR TO 08/05/11 SEE 574192 GO
+      ST LOCAL FACS LN BDS 2018 A <div class="text-muted"><em>Rate/Coupon:</em> 3.125%<br>
+      <em>Matures:</em> 03/15/2033</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/21/2018
+    type: Purchase
+- bioguide: W000805
+  date_recieved: 04/12/2018
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9fa88d3e-3deb-4aca-940b-b34d6ffba01d/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: BetterCloud <div class="text-muted"> <em>Company:</em> BetterCloud
+      &nbsp;(New York, NY) </div> <div class="text-muted"><em>Description:</em>&nbsp;Cloud
+      Storage Company</div>
+    asset_type: Other Securities
+    comment: Underlying asset of New Amsterdam BC Investors, LLC
+    owner: Self
+    ticker: --
+    transaction_date: 03/07/2018
+    type: Purchase

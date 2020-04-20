@@ -1,0 +1,207 @@
+- bioguide: R000120
+  date_recieved: 03/18/2019
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c68d808d-acc5-4e4b-8d16-6f14a7c255b6/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Xilinx, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XLNX" target="_blank">XLNX</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Thermo Fisher Scientific Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TMO" target="_blank">TMO</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Stryker Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SYK" target="_blank">SYK</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: PepsiCo, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Intuitive Surgical, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ISRG" target="_blank">ISRG</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: IQVIA Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IQV" target="_blank">IQV</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hologic, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=HOLX" target="_blank">HOLX</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Analog Devices, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ADI" target="_blank">ADI</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Xilinx, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XLNX" target="_blank">XLNX</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Thermo Fisher Scientific Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TMO" target="_blank">TMO</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Stryker Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SYK" target="_blank">SYK</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: IQVIA Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IQV" target="_blank">IQV</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Analog Devices, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ADI" target="_blank">ADI</a>
+    transaction_date: 02/28/2019
+    type: Sale (Full)

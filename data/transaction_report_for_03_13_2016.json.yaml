@@ -1,0 +1,15 @@
+- bioguide: E000285
+  date_recieved: 03/13/2016
+  first_name: Michael  B
+  last_name: Enzi
+  office: Enzi, Michael B. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8ddd82da-2003-4fc6-8df1-b2d59367bcdf/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: KeyCorp.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KEY" target="_blank">KEY</a>
+    transaction_date: 02/10/2016
+    type: Sale (Full)

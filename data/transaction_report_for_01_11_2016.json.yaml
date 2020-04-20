@@ -1,0 +1,38 @@
+- bioguide: B001135
+  date_recieved: 01/11/2016
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/6f1b12f0-c681-45d8-a83c-ed324bfda7f4/
+  transactions: []
+- bioguide: I000024
+  date_recieved: 01/11/2016
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/07b1bcc7-c651-442f-b7d2-00d9c17cf146/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: FANG
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/14/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: CLR
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/14/2015
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: CPN
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/14/2015
+    type: Sale (Full)

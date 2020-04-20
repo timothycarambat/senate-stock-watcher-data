@@ -1,0 +1,31 @@
+- bioguide: I000024
+  date_recieved: 03/23/2016
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/68f796e9-f894-4fd4-b097-563e6d9997de/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Cognizant Technology Solutions Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CTSH" target="_blank">CTSH</a>
+    transaction_date: 03/11/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Southwestern Energy Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SWN" target="_blank">SWN</a>
+    transaction_date: 03/04/2016
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Synchrony Financial
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SYF" target="_blank">SYF</a>
+    transaction_date: 02/24/2016
+    type: Purchase

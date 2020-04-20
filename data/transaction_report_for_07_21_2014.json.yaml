@@ -1,0 +1,15 @@
+- bioguide: C001035
+  date_recieved: 07/21/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3f9babd-d5e6-4206-b34e-44dc19503784/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Cohen &amp; Steers Dividend Value A (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DVFAX" target="_blank">DVFAX</a>
+    transaction_date: 06/30/2014
+    type: Purchase

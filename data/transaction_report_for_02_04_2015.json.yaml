@@ -1,0 +1,71 @@
+- bioguide: R000307
+  date_recieved: 02/04/2015
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/591ce7b1-e710-4f58-842a-f226650f6ab6/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Zynga, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: Sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ZNGA" target="_blank">ZNGA</a>
+    transaction_date: 01/16/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Baidu, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIDU" target="_blank">BIDU</a>
+    transaction_date: 01/28/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/28/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 01/27/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Container Store Group, Inc. (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TCS" target="_blank">TCS</a>
+    transaction_date: 01/16/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 01/16/2015
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Container Store Group, Inc. (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TCS" target="_blank">TCS</a>
+    transaction_date: 01/02/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Twitter, Inc. (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TWTR" target="_blank">TWTR</a>
+    transaction_date: 01/02/2015
+    type: Purchase

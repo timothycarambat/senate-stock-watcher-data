@@ -1,0 +1,16 @@
+- bioguide: P000595
+  date_recieved: 12/18/2019
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3ade0c4c-6fe4-46cc-b318-c88b913aaab1/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: SIMON PPTY GROUP LP B/E 02.450% 091329 DTD091319 <div class="text-muted"><em>Rate/Coupon:</em>
+      02.450%<br> <em>Matures:</em> 09/13/29</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 11/19/2019
+    type: Purchase

@@ -1,0 +1,325 @@
+- bioguide: T000461
+  date_recieved: 06/16/2016
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7357cb58-7a3d-433c-916d-9322da48a0df/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: iShares Edge MSCI USA Momentum Factor
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MTUM" target="_blank">MTUM</a>
+    transaction_date: 05/02/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: iShares 1-3 Year Treasury Bond
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SHY" target="_blank">SHY</a>
+    transaction_date: 05/02/2016
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 06/09/2016
+    type: Sale (Partial)
+- bioguide: W000802
+  date_recieved: 06/16/2016
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4d457194-11d5-4964-bf80-c5f95d047b23/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Under Armour, Inc.
+    asset_type: Stock
+    comment: Inadvertently omitted on original report
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UA" target="_blank">UA</a>
+    transaction_date: 11/20/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Wal-Mart Stores Inc.
+    asset_type: Stock
+    comment: inadvertently omitted on original report
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 11/20/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cerner Corporation
+    asset_type: Stock
+    comment: Inadvertently omitted on original report
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CERN" target="_blank">CERN</a>
+    transaction_date: 11/23/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: MSFT
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 12/09/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: JNJ
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 12/09/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BMY
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 12/09/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: GILD
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 12/09/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BIIB
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 11/25/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: NFLX
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 11/25/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PEP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 11/25/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CY
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: --
+    transaction_date: 12/14/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: TJX
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 11/25/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: GPRO
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 11/25/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BIIB
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 11/25/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: QCOM
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/14/2015
+    type: Sale (Full)
+- bioguide: W000802
+  date_recieved: 06/16/2016
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9579d098-4992-4d7a-b7da-75f6b195ed9d/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: V.F. Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VFC" target="_blank">VFC</a>
+    transaction_date: 05/17/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 05/18/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 05/18/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Comcast Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CMCSA" target="_blank">CMCSA</a>
+    transaction_date: 05/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 05/24/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 05/24/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Public Storage
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PSA" target="_blank">PSA</a>
+    transaction_date: 06/07/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Accenture plc
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ACN" target="_blank">ACN</a>
+    transaction_date: 06/07/2016
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 06/07/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 05/18/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 06/07/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: V.F. Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VFC" target="_blank">VFC</a>
+    transaction_date: 05/17/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Newell Brands Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NWL" target="_blank">NWL</a>
+    transaction_date: 05/18/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Diageo plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DEO" target="_blank">DEO</a>
+    transaction_date: 05/18/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cerner Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CERN" target="_blank">CERN</a>
+    transaction_date: 05/18/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Regeneron Pharmaceuticals, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=REGN" target="_blank">REGN</a>
+    transaction_date: 05/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Comcast Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CMCSA" target="_blank">CMCSA</a>
+    transaction_date: 05/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 05/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Twitter, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TWTR" target="_blank">TWTR</a>
+    transaction_date: 05/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 06/07/2016
+    type: Purchase

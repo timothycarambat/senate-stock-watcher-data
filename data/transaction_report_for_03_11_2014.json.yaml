@@ -1,0 +1,39 @@
+- bioguide: H001061
+  date_recieved: 03/11/2014
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/556ca47a-cf91-4f62-bab5-9105616259f5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Westbrand Inc Bank Holding Co (Stock)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 02/24/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: International Business Machines Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 02/19/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: V.F. Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VFC" target="_blank">VFC</a>
+    transaction_date: 02/19/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Cognizant Technology Solutions Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CTSH" target="_blank">CTSH</a>
+    transaction_date: 02/19/2014
+    type: Purchase

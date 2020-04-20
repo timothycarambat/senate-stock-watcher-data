@@ -1,0 +1,24 @@
+- bioguide: B001236
+  date_recieved: 03/19/2020
+  first_name: 'JOHN '
+  last_name: BOOZMAN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/9cb7a5dd-bf30-48d2-8e73-58e980b9c203/
+  transactions: []
+- bioguide: J000293
+  date_recieved: 03/19/2020
+  first_name: Ron
+  last_name: Johnson
+  office: Johnson, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3877f56e-ceb3-4e34-9659-cf52ba9efc5d/
+  transactions:
+  - amount: $5,000,001 - $25,000,000
+    asset_description: Pacur, LLC <div class="text-muted"> <em>Company:</em> Pacur,
+      LLC &nbsp;(Oshkosh, WI) </div> <div class="text-muted"><em>Description:</em>&nbsp;Manufacturing
+      - Plastic Extrusion</div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/02/2020
+    type: Sale (Full)

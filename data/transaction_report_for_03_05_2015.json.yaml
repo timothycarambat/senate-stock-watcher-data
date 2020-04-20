@@ -1,0 +1,39 @@
+- bioguide: R000307
+  date_recieved: 03/05/2015
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b51eca09-bc7d-447a-8cdc-e6066b910541/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Devon Energy Corporation (NYSE)
+    asset_type: Stock
+    comment: Sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 02/05/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Michaels Companies, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MIK" target="_blank">MIK</a>
+    transaction_date: 02/10/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: General Motors Company (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 02/05/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 02/05/2015
+    type: Purchase

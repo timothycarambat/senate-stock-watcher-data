@@ -1,0 +1,67 @@
+- bioguide: C000174
+  date_recieved: 07/01/2015
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3d55f653-61dd-434a-a389-bff086c33c09/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: JPM Contingent Autocall on Apple <div class="text-muted"><em>Rate/Coupon:</em>
+      8.25%<br> <em>Matures:</em> 06/15/2018</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/12/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: MS Contingent Autocall Marathon Petroleum <div class="text-muted"><em>Rate/Coupon:</em>
+      10.15%<br> <em>Matures:</em> 06/29/2018</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/26/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: MS Contingent Autocall Marathon Petroleum <div class="text-muted"><em>Rate/Coupon:</em>
+      9.5%<br> <em>Matures:</em> 03/23/2018</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/25/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Convergys Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVG" target="_blank">CVG</a>
+    transaction_date: 06/24/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Atmel Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ATML" target="_blank">ATML</a>
+    transaction_date: 06/24/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: HSBC Contingent Autocall Transocean <div class="text-muted"><em>Rate/Coupon:</em>
+      10%<br> <em>Matures:</em> 06/25/2015</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/25/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: E. I. du Pont de Nemours and Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 06/12/2015
+    type: Purchase

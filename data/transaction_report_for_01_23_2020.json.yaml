@@ -1,0 +1,39 @@
+- bioguide: I000024
+  date_recieved: 01/23/2020
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2804d5d8-9616-4854-80bc-62d298b46986/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 01/13/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Bright Horizons Family Solutions Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BFAM" target="_blank">BFAM</a>
+    transaction_date: 01/13/2020
+    type: Sale (Full)
+- bioguide: P000612
+  date_recieved: 01/23/2020
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cac640d3-ddc1-4874-bf2b-352f3bec35ac/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: CBS (Exchanged) <br> ViacomCBS Inc. (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=VIAC" target="_blank">VIAC</a>
+    transaction_date: 12/09/2019
+    type: Exchange

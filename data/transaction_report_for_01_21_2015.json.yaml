@@ -1,0 +1,30 @@
+- bioguide: B001135
+  date_recieved: 01/21/2015
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/E3A557F6-DCA0-4A7F-B65B-37DE8AE25403/
+  transactions: []
+- bioguide: H001061
+  date_recieved: 01/21/2015
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/1d31d4e4-ff04-488c-8fb4-b5136d4d078b/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Northern Oil and Gas, Inc. (AMEX)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NOG" target="_blank">NOG</a>
+    transaction_date: 01/16/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Northern Oil and Gas, Inc. (AMEX)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NOG" target="_blank">NOG</a>
+    transaction_date: 01/16/2015
+    type: Purchase

@@ -1,0 +1,86 @@
+- bioguide: H001061
+  date_recieved: 01/09/2020
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4a942198-2478-4da7-b598-c98a9fe676da/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Vanguard Intermediate-Term Bond Index Fund ETF Sha
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BIV" target="_blank">BIV</a>
+    transaction_date: 12/31/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Vanguard GNMA Fund Admiral Shares
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VFIJX" target="_blank">VFIJX</a>
+    transaction_date: 12/31/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 12/31/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Marathon Petroleum Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MPC" target="_blank">MPC</a>
+    transaction_date: 12/31/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Templeton Global Bond Fund Advisor Class
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TGBAX" target="_blank">TGBAX</a>
+    transaction_date: 12/23/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Resideo Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=REZI" target="_blank">REZI</a>
+    transaction_date: 12/23/2019
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: The Kraft Heinz Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KHC" target="_blank">KHC</a>
+    transaction_date: 12/23/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Garrett Motion Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GTX" target="_blank">GTX</a>
+    transaction_date: 12/23/2019
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 01/09/2020
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9b46abe5-1ef6-418d-811e-fbd5f56a1f49/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: PPL Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PPL" target="_blank">PPL</a>
+    transaction_date: 12/10/2019
+    type: Purchase

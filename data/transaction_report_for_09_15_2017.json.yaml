@@ -1,0 +1,15 @@
+- bioguide: D000622
+  date_recieved: 09/15/2017
+  first_name: Tammy
+  last_name: Duckworth
+  office: Duckworth, Tammy (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/55437b5c-4e37-4e20-a94c-22ae42d0dece/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Dell Technologies Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVMT" target="_blank">DVMT</a>
+    transaction_date: 08/23/2017
+    type: Sale (Full)

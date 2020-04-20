@@ -1,0 +1,22 @@
+- bioguide: C001056
+  date_recieved: 09/21/2015
+  first_name: John
+  last_name: Cornyn
+  office: Cornyn, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/95d27bf4-c3fc-4251-9f43-72b9a2112351/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 08/21/2015
+    type: Purchase
+- bioguide: W000805
+  date_recieved: 09/21/2015
+  first_name: MARK R
+  last_name: WARNER
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/07EFCC33-8702-496C-BC29-5B78EB7ADDB1/
+  transactions: []

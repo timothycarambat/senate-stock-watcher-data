@@ -1,0 +1,402 @@
+- bioguide: P000612
+  date_recieved: 07/06/2018
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e842308f-a07d-4885-be7e-b2a516dafe69/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 07/05/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: General Motors Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 07/05/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: General Motors Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 07/05/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Mylan N.V.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MYL" target="_blank">MYL</a>
+    transaction_date: 07/02/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Suncor Energy Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SU" target="_blank">SU</a>
+    transaction_date: 06/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Time Warner Inc. (Exchanged) <br> AT&amp;T Inc. (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TWX" target="_blank">TWX</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 06/15/2018
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 06/14/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Mylan N.V.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MYL" target="_blank">MYL</a>
+    transaction_date: 07/02/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 06/13/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 06/13/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: America's Car-Mart, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CRMT" target="_blank">CRMT</a>
+    transaction_date: 06/26/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Bollore
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BOIVF" target="_blank">BOIVF</a>
+    transaction_date: 06/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 06/28/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bollore
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BOIVF" target="_blank">BOIVF</a>
+    transaction_date: 06/27/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 06/27/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: SPDR S&amp;P 500 ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 06/27/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bollore
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BOIVF" target="_blank">BOIVF</a>
+    transaction_date: 06/26/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/25/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Regions Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RF" target="_blank">RF</a>
+    transaction_date: 06/25/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/25/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/22/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Regions Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RF" target="_blank">RF</a>
+    transaction_date: 06/22/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOX" target="_blank">FOX</a>
+    transaction_date: 06/21/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 06/21/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Kinder Morgan, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KMI" target="_blank">KMI</a>
+    transaction_date: 06/21/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ONEOK, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OKE" target="_blank">OKE</a>
+    transaction_date: 06/21/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 06/21/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AMERCO
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=UHAL" target="_blank">UHAL</a>
+    transaction_date: 06/21/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cheniere Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LNG" target="_blank">LNG</a>
+    transaction_date: 06/21/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cheniere Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LNG" target="_blank">LNG</a>
+    transaction_date: 06/21/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Regions Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RF" target="_blank">RF</a>
+    transaction_date: 06/21/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Regions Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RF" target="_blank">RF</a>
+    transaction_date: 06/21/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 06/20/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 06/20/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 06/19/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 06/19/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: America's Car-Mart, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CRMT" target="_blank">CRMT</a>
+    transaction_date: 06/14/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 06/14/2018
+    type: Sale (Partial)
+  - amount: $100,001 - $250,000
+    asset_description: GWINNETT CNTY GA SCH DIST GO <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 02/01/25</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 06/13/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 06/13/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: ONEOK PARTNERS (Exchanged) <br> ONEOK, Inc. (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=OKE" target="_blank">OKE</a>
+    transaction_date: 07/03/2017
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 06/11/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: America's Car-Mart, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CRMT" target="_blank">CRMT</a>
+    transaction_date: 06/11/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 06/08/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: USG Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=USG" target="_blank">USG</a>
+    transaction_date: 06/06/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: USG Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=USG" target="_blank">USG</a>
+    transaction_date: 06/04/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: America's Car-Mart, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CRMT" target="_blank">CRMT</a>
+    transaction_date: 06/01/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 06/04/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 06/04/2018
+    type: Purchase

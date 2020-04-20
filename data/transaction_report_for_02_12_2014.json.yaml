@@ -1,0 +1,23 @@
+- bioguide: R000120
+  date_recieved: 02/12/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/d642124a-5dfb-4bea-befa-0fcb41d43d86/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Zimmer Holdings, Inc.
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 02/03/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Zimmer Holdings Inc.
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 02/03/2014
+    type: Purchase

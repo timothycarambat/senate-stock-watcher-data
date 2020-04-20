@@ -1,0 +1,63 @@
+- bioguide: C001047
+  date_recieved: 03/08/2018
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/1b2188b2-5f0b-4fd1-ac5b-0f381757af89/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Roche Holding AG
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RHHBY" target="_blank">RHHBY</a>
+    transaction_date: 02/28/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: State Street Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=STT" target="_blank">STT</a>
+    transaction_date: 02/27/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Mondelez International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MDLZ" target="_blank">MDLZ</a>
+    transaction_date: 02/27/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Intercontinental Exchange, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ICE" target="_blank">ICE</a>
+    transaction_date: 02/27/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Occidental Petroleum Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=OXY" target="_blank">OXY</a>
+    transaction_date: 02/27/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cerner Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CERN" target="_blank">CERN</a>
+    transaction_date: 02/27/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Anheuser-Busch InBev SA/NV
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BUD" target="_blank">BUD</a>
+    transaction_date: 02/21/2018
+    type: Purchase

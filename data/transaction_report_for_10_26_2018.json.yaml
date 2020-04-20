@@ -1,0 +1,86 @@
+- bioguide: C001075
+  date_recieved: 10/26/2018
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6afda1fe-9dec-4298-a0dd-4e53e898eec8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 10/25/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 10/25/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 10/25/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Abbott Laboratories
+    asset_type: Stock
+    comment: Remainder of stock was sold later in the year and under the threshold.
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ABT" target="_blank">ABT</a>
+    transaction_date: 10/24/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Medtronic plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MDT" target="_blank">MDT</a>
+    transaction_date: 10/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Target Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TGT" target="_blank">TGT</a>
+    transaction_date: 10/17/2017
+    type: Sale (Full)
+- bioguide: D000622
+  date_recieved: 10/26/2018
+  first_name: Ladda Tammy
+  last_name: Duckworth
+  office: Duckworth, Tammy (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f4e5c2ca-6b28-45bc-8252-e6102d7a771b/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Walgreens Boots Alliance, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WBA" target="_blank">WBA</a>
+    transaction_date: 08/07/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Mondelez International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MDLZ" target="_blank">MDLZ</a>
+    transaction_date: 08/07/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 08/07/2018
+    type: Sale (Full)

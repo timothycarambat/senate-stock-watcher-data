@@ -1,0 +1,23 @@
+- bioguide: C000174
+  date_recieved: 10/04/2018
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bb4fab28-8b2b-4fd7-a7f0-3127150d61b8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Hewlett Packard Enterprises
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/10/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Analog Devices
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/10/2018
+    type: Sale (Full)

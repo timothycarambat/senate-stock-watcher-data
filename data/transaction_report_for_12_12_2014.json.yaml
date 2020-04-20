@@ -1,0 +1,30 @@
+- bioguide: K000383
+  date_recieved: 12/12/2014
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c57b3fd9-3bbd-4f31-8904-9a517aaf43d9/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Me Muni Bond Bk Rev 3% 09/01/2026
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/14/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Rayonier Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RYN" target="_blank">RYN</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+- bioguide: W000805
+  date_recieved: 12/12/2014
+  first_name: MARK R
+  last_name: WARNER
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/1FA31695-2481-47BC-A8B8-2B39D4D0B97E/
+  transactions: []

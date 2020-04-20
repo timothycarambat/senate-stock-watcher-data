@@ -1,0 +1,23 @@
+- bioguide: B001288
+  date_recieved: 05/09/2014
+  first_name: Cory A
+  last_name: Booker
+  office: Booker, Cory (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/29d797a6-e3ff-4d76-9ee9-2e3840adb15b/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: American Tower Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMT" target="_blank">AMT</a>
+    transaction_date: 04/08/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 04/08/2014
+    type: Sale (Full)

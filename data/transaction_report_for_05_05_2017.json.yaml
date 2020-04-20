@@ -1,0 +1,153 @@
+- bioguide: H001061
+  date_recieved: 05/05/2017
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/99e5e5c2-c650-4e77-b625-aaa79a9df6dd/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: SPG-SPG-Simon Property Group, Inc.
+    asset_type: Stock
+    comment: Changed transaction date from 1/4/17 (Settlement date) to 12/29/16 (Trade
+      date).
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SPG" target="_blank">SPG</a>
+    transaction_date: 12/29/2016
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: NKE-NKE-NKE-NIKE, Inc.
+    asset_type: Stock
+    comment: Changed transaction date from 1/4/17 (Settlement date) to 12/29/16 (Trade
+      date).
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NKE" target="_blank">NKE</a>
+    transaction_date: 12/29/2016
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: CSX Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CSX" target="_blank">CSX</a>
+    transaction_date: 12/28/2016
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Ford Motor Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 12/28/2016
+    type: Sale (Full)
+- bioguide: P000612
+  date_recieved: 05/05/2017
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6040a997-7d31-4030-9ed7-6a7a7e9de6ad/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 05/02/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: General Motors Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 04/28/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Westlake Chemical Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WLK" target="_blank">WLK</a>
+    transaction_date: 04/27/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Versum Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VSM" target="_blank">VSM</a>
+    transaction_date: 04/27/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Baxter International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAX" target="_blank">BAX</a>
+    transaction_date: 04/26/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOX" target="_blank">FOX</a>
+    transaction_date: 04/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: C. R. Bard, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BCR" target="_blank">BCR</a>
+    transaction_date: 04/24/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Whole Foods Market, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WFM" target="_blank">WFM</a>
+    transaction_date: 04/24/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 04/12/2017
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: MURRAY CNTY GA SCH DIST GO <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/20</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 04/11/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 04/11/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 04/11/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 04/04/2017
+    type: Purchase

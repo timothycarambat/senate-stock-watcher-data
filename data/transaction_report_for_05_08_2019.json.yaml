@@ -1,0 +1,395 @@
+- bioguide: H001061
+  date_recieved: 05/08/2019
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9b76f720-181f-496f-aed1-9f22805876e8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Weight Watchers International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
+    transaction_date: 12/21/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Weight Watchers International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
+    transaction_date: 12/21/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Weight Watchers International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
+    transaction_date: 01/19/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Weight Watchers International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
+    transaction_date: 11/07/2018
+    type: Purchase
+- bioguide: H001061
+  date_recieved: 05/08/2019
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/654577b9-4028-4cfa-bb47-c961a41f2b1b/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Weight Watchers International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
+    transaction_date: 12/21/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Weight Watchers International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
+    transaction_date: 12/21/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Weight Watchers International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
+    transaction_date: 01/19/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Weight Watchers International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
+    transaction_date: 11/07/2018
+    type: Purchase
+- bioguide: S001217
+  date_recieved: 05/08/2019
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/493baf8c-4c4a-449f-a5e6-d20fe910bf3b/
+  transactions:
+  - amount: $500,001 - $1,000,000
+    asset_description: Washington State Healthcare Facilities Auth Revenue Bond -
+      Multicare Health Sys <div class="text-muted"><em>Rate/Coupon:</em> 6.0%<br>
+      <em>Matures:</em> 08/15/2039</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/30/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: Illinois Financial Auth - Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      7.75%<br> <em>Matures:</em> 08/15/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/30/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Washington State Healthcare Facilities Auth Revenue Bond -
+      Providence Health &amp; Services <div class="text-muted"><em>Rate/Coupon:</em>
+      5.25%<br> <em>Matures:</em> 10/01/2039</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/30/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Carroll County Kentucky Pollution Control Revenue Bond <div
+      class="text-muted"><em>Rate/Coupon:</em> 1.05%<br> <em>Matures:</em> 09/01/2042</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/29/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Georgia State General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 07/01/2019</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/26/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: South Carolina Jobs - Economic Dev Auth Hospital Revenue Bond
+      <div class="text-muted"><em>Rate/Coupon:</em> 5.75%<br> <em>Matures:</em> 08/01/2039</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/30/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Washington State Health Care Facilities Auth Revenue Bond -
+      Multicare Health Sys <div class="text-muted"><em>Rate/Coupon:</em> 6.0%<br>
+      <em>Matures:</em> 08/15/2039</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/30/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Washington State Health Care Facilities Auth Revenue Bond -
+      Providence Health &amp; Services <div class="text-muted"><em>Rate/Coupon:</em>
+      5.25%<br> <em>Matures:</em> 10/01/2039</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/30/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: Carroll County Kentucky Pollution Control Revenue Bond <div
+      class="text-muted"><em>Rate/Coupon:</em> 1.05%<br> <em>Matures:</em> 09/01/2042</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/29/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Georgia State General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 07/01/2019</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/26/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Georgia State General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 07/01/2019</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/26/2019
+    type: Purchase
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Chester County Pennsylvania General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 07/15/2029</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/25/2019
+    type: Purchase
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Chester County Pennsylvania General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 07/15/2029</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/25/2019
+    type: Purchase
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Long Island Power Authority Elec Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      6.0%<br> <em>Matures:</em> 05/01/2033</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/16/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: King County Washington General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 06/01/2029</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/15/2019
+    type: Purchase
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Long Island Power Authority Elec Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      6.0%<br> <em>Matures:</em> 05/01/2033</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/16/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: King County Washington General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 06/01/2029</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/15/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Wisconsin State Health &amp; Educational Facilities Revenue
+      Bond <div class="text-muted"><em>Rate/Coupon:</em> 4.0%<br> <em>Matures:</em>
+      11/15/2043</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/15/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: City of Detroit Michigan Sewage Disp Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      7.0%<br> <em>Matures:</em> 07/01/2027</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/11/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Niles Ohio City School District Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      4.35%<br> <em>Matures:</em> 12/01/2024</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/10/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: University Medical Center Corporation - Tucson Arizona Revenue
+      Bond <div class="text-muted"><em>Rate/Coupon:</em> 6.5%<br> <em>Matures:</em>
+      07/01/2039</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/10/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: City of Detroit Michigan Sewage Disp Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      7.0%<br> <em>Matures:</em> 07/01/2027</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/11/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: University Medical Center Corporation - Tucson Arizona Revenue
+      Bond <div class="text-muted"><em>Rate/Coupon:</em> 6.5%<br> <em>Matures:</em>
+      07/01/2039</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/10/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Wisconsin State General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 05/01/2021</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/09/2019
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 05/08/2019
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9e6258de-a888-41d7-a489-493da362704a/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 04/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Progressive Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PGR" target="_blank">PGR</a>
+    transaction_date: 04/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: TE Connectivity Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TEL" target="_blank">TEL</a>
+    transaction_date: 04/18/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: McDonald's Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MCD" target="_blank">MCD</a>
+    transaction_date: 04/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 04/18/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Siemens Aktiengesellschaft
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SIEGY" target="_blank">SIEGY</a>
+    transaction_date: 04/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 04/18/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Square, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=SQ" target="_blank">SQ</a>
+    transaction_date: 04/18/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Cognex Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CGNX" target="_blank">CGNX</a>
+    transaction_date: 04/18/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 04/18/2019
+    type: Purchase

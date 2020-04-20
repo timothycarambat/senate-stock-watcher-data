@@ -1,0 +1,38 @@
+- bioguide: R000120
+  date_recieved: 07/18/2018
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/933ba436-9551-4e92-ac77-dc357267292d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 07/05/2018
+    type: Sale (Partial)
+- bioguide: T000461
+  date_recieved: 07/18/2018
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b84a1f1a-2d61-4784-b25b-91cb4ab93224/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 06/25/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 06/06/2018
+    type: Sale (Partial)

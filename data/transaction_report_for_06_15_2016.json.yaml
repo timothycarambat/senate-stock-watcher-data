@@ -1,0 +1,37 @@
+- bioguide: A000360
+  date_recieved: 06/15/2016
+  first_name: Lamar
+  last_name: Alexander
+  office: Alexander, Lamar (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/61380aec-bd2b-4331-bc7c-bf00e7438280/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: Custom Foods of America Inc. <div class="text-muted"> <em>Company:</em>
+      Custom Foods of America Inc. &nbsp;(Knoxville, Tennessee) </div> <div class="text-muted"><em>Description:</em>&nbsp;Wholesale
+      Food</div>
+    asset_type: Non-Public Stock
+    comment: Sold to Leslee B  Alexander Family Trust
+    owner: Self
+    ticker: --
+    transaction_date: 12/15/2015
+    type: Sale (Partial)
+  - amount: $1,000,001 - $5,000,000
+    asset_description: 3600 Management LLC <div class="text-muted"> <em>Company:</em>
+      3600 Management LLC &nbsp;(Knoxville, Tennessee) </div> <div class="text-muted"><em>Description:</em>&nbsp;Commercial
+      Rental</div>
+    asset_type: Other Securities
+    comment: Sold to Lamar Alexander Family Trust
+    owner: Self
+    ticker: --
+    transaction_date: 12/15/2015
+    type: Sale (Full)
+  - amount: $250,001 - $500,000
+    asset_description: Custom Foods of America Inc. <div class="text-muted"> <em>Company:</em>
+      Custom Foods of America Inc. &nbsp;(Knoxville, Tennessee) </div> <div class="text-muted"><em>Description:</em>&nbsp;Wholesale
+      food</div>
+    asset_type: Non-Public Stock
+    comment: Sold to Lamar Alexander Family Trust
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/15/2015
+    type: Sale (Partial)

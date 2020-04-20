@@ -1,0 +1,24 @@
+- bioguide: T000461
+  date_recieved: 04/10/2018
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ccac59b4-ae2d-47b6-ae63-69a4f1f5f968/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: FIRST NIAGARA FINANCIAL GROUP INC <div class="text-muted"><em>Rate/Coupon:</em>
+      6.75%<br> <em>Matures:</em> 03/19/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/09/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Revere Bank
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=REVB" target="_blank">REVB</a>
+    transaction_date: 03/22/2018
+    type: Sale (Full)

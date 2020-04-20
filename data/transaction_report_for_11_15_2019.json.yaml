@@ -1,0 +1,51 @@
+- bioguide: T000461
+  date_recieved: 11/15/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3dd9dbd6-91d8-4e1e-ad52-9193a3ae0d30/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: BB&amp;T Corporation <div class="text-muted"><em>Rate/Coupon:</em>
+      5.25%<br> <em>Matures:</em> 11/01/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BBT" target="_blank">BBT</a>
+    transaction_date: 10/31/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Energy Transfer Partners, L.P. (Exchanged) <br> Energy Transfer
+      LP (Received)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ETP" target="_blank">ETP</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 10/19/2018
+    type: Exchange
+- bioguide: T000461
+  date_recieved: 11/15/2019
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8c05e0b3-a896-40b5-9ab9-9579d238cee5/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: SANTANDER UK GROUP HOLDINGS <div class="text-muted"><em>Rate/Coupon:</em>
+      3.125<br> <em>Matures:</em> 01/08/2021</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 08/01/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: BB&amp;T Corporation <div class="text-muted"><em>Rate/Coupon:</em>
+      5.25<br> <em>Matures:</em> 11/01/2019</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BBT" target="_blank">BBT</a>
+    transaction_date: 08/01/2018
+    type: Purchase

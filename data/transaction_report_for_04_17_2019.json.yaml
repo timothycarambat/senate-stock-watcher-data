@@ -1,0 +1,482 @@
+- bioguide: C001047
+  date_recieved: 04/17/2019
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/46cecbcc-7c1c-4cbb-aa4f-fa1d2cd63627/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Visa Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Taiwan Semiconductor Manufacturing Company Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSM" target="_blank">TSM</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SoftBank Group Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SFTBY" target="_blank">SFTBY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Sempra Energy
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SRE" target="_blank">SRE</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Royal Dutch Shell plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RDS-B" target="_blank">RDS-B</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Reckitt Benckiser Group plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RBGLY" target="_blank">RBGLY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Philip Morris International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PM" target="_blank">PM</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Pernod Ricard SA
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PDRDY" target="_blank">PDRDY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Broadcom Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AVGO" target="_blank">AVGO</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: "L'Or\xE9al S.A."
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LRLCY" target="_blank">LRLCY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Novo Nordisk A/S
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVO" target="_blank">NVO</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Murata Manufacturing Co., Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MRAAY" target="_blank">MRAAY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: "Nestl\xE9 S.A."
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NSRGY" target="_blank">NSRGY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Naspers Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NPSNY" target="_blank">NPSNY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Moody's Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MCO" target="_blank">MCO</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Mondelez International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MDLZ" target="_blank">MDLZ</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Las Vegas Sands Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LVS" target="_blank">LVS</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Keyence Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KYCCF" target="_blank">KYCCF</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Intercontinental Exchange, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ICE" target="_blank">ICE</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Safran SA
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SAFRY" target="_blank">SAFRY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hilton Worldwide Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HLT" target="_blank">HLT</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: GoDaddy Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GDDY" target="_blank">GDDY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: "EssilorLuxottica Soci\xE9t\xE9 anonyme"
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ESLOY" target="_blank">ESLOY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Enbridge Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ENB" target="_blank">ENB</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Diageo plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DEO" target="_blank">DEO</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Deere &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DE" target="_blank">DE</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Crown Castle International Corp. (REIT)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CCI" target="_blank">CCI</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Carlsberg A/S
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CABGY" target="_blank">CABGY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: CSX Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CSX" target="_blank">CSX</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: CME Group Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CME" target="_blank">CME</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Bank of New York Mellon Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BK" target="_blank">BK</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ASML Holding N.V.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ASML" target="_blank">ASML</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AstraZeneca PLC
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AZN" target="_blank">AZN</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Asahi Kasei Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AHKSY" target="_blank">AHKSY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: American Tower Corporation (REIT)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMT" target="_blank">AMT</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Airbus SE
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EADSY" target="_blank">EADSY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Activision Blizzard, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ATVI" target="_blank">ATVI</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AIA Group Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAGIY" target="_blank">AAGIY</a>
+    transaction_date: 03/11/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Coca-Cola Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 03/04/2019
+    type: Purchase
+- bioguide: S001217
+  date_recieved: 04/17/2019
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/04d279c4-2a06-42c9-94ab-903e116a76be/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Metropolitan Washington DC Airports Authority Revenue Bond
+      <div class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 10/01/2019</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Metropolitan Washington DC Airports Authority Revenue Bond
+      <div class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 10/01/2019</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: Charlotte NC Airport Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.25%<br> <em>Matures:</em> 07/01/2019</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Metropolitan Washington DC Airports Authority Revenue Bond
+      <div class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 10/01/2019</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/22/2019
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Charlotte NC Airport Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.25%<br> <em>Matures:</em> 07/01/2019</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/22/2019
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 04/17/2019
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/94008f80-fd16-4656-afb6-ba4ae1d47319/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 03/15/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Biogen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 03/22/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 03/15/2019
+    type: Sale (Full)

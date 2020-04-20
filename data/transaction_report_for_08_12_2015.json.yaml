@@ -1,0 +1,628 @@
+- bioguide: W000802
+  date_recieved: 08/12/2015
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/94becbbc-bd82-4e43-98a3-ac8004a59e55/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: JP Morgan Chase &amp; Co 6.75% FXD to 2/1/24 <div class="text-muted"><em>Rate/Coupon:</em>
+      6.75<br> <em>Matures:</em> 01/01/2024</div>
+    asset_type: Corporate Bond
+    comment: 'In 4a #115 incorrectly listed as JPJQL'
+    owner: Joint
+    ticker: --
+    transaction_date: 03/13/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: KLX Inc. (NASDAQ)
+    asset_type: Stock
+    comment: Overlooked in PTR report
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KLXI" target="_blank">KLXI</a>
+    transaction_date: 06/18/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: KLX Inc. (NASDAQ)
+    asset_type: Stock
+    comment: Overlooked in PTR report
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KLXI" target="_blank">KLXI</a>
+    transaction_date: 03/13/2014
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 08/12/2015
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9cc0fe86-0656-415d-936a-dd4259c51b54/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Michael Kors Holdings Limited (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=KORS" target="_blank">KORS</a>
+    transaction_date: 05/27/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amgen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 05/27/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 05/27/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Cypress Semiconductor Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CY" target="_blank">CY</a>
+    transaction_date: 05/18/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Raytheon Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RTN" target="_blank">RTN</a>
+    transaction_date: 05/18/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: PACCAR Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PCAR" target="_blank">PCAR</a>
+    transaction_date: 05/07/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Prudential Financial, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PRU" target="_blank">PRU</a>
+    transaction_date: 05/07/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 05/27/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Merck &amp; Co. Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 05/27/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: TELUS Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TU" target="_blank">TU</a>
+    transaction_date: 05/27/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 05/07/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Biogen Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BIIB" target="_blank">BIIB</a>
+    transaction_date: 05/07/2015
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 08/12/2015
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/37a1741d-cb79-4dc9-9b9f-f6453ee560e8/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: JP MORGAN CHASE (OTC Markets)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JPJQL" target="_blank">JPJQL</a>
+    transaction_date: 03/13/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: General Electric Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 03/13/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 03/13/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Coca-Cola Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 03/13/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: V.F. Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VFC" target="_blank">VFC</a>
+    transaction_date: 03/13/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Oracle Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 02/19/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Varian Medical Systems, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=VAR" target="_blank">VAR</a>
+    transaction_date: 02/19/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Time Warner Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=TWX" target="_blank">TWX</a>
+    transaction_date: 02/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co. (NYSE) <div class="text-muted"><em>Rate/Coupon:</em>
+      6.75<br> <em>Matures:</em> 2/1/24</div>
+    asset_type: Corporate Bond
+    comment: changed from JPJQL
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 02/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: V.F. Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VFC" target="_blank">VFC</a>
+    transaction_date: 03/13/2014
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: B/E Aerospace Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BEAV" target="_blank">BEAV</a>
+    transaction_date: 03/13/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corp. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 02/25/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Palo Alto Networks, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=PANW" target="_blank">PANW</a>
+    transaction_date: 02/25/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Qlik Technologies, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=QLIK" target="_blank">QLIK</a>
+    transaction_date: 02/25/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Visa Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 02/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Est (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=EL" target="_blank">EL</a>
+    transaction_date: 02/19/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ACE Limited (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ACE" target="_blank">ACE</a>
+    transaction_date: 02/19/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Clorox Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CLX" target="_blank">CLX</a>
+    transaction_date: 02/19/2014
+    type: Sale (Full)
+- bioguide: W000802
+  date_recieved: 08/12/2015
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/354c88d3-2e47-42e9-839f-3388d26c6ee1/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Costamare Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CMRE" target="_blank">CMRE</a>
+    transaction_date: 04/29/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Google Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOGL" target="_blank">GOOGL</a>
+    transaction_date: 04/29/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CVS Caremark Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 04/29/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: General Mills, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GIS" target="_blank">GIS</a>
+    transaction_date: 04/29/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: CVS Caremark Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 04/17/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: State Street Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=STT" target="_blank">STT</a>
+    transaction_date: 04/17/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Express Scripts Holding Company (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=ESRX" target="_blank">ESRX</a>
+    transaction_date: 04/17/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Walt Disney Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 04/17/2014
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: eBay Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=EBAY" target="_blank">EBAY</a>
+    transaction_date: 04/29/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 04/29/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Michael Kors Holdings Limited (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=KORS" target="_blank">KORS</a>
+    transaction_date: 04/29/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Express Scripts Holding Company (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=ESRX" target="_blank">ESRX</a>
+    transaction_date: 04/29/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: United Technologies Corp. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=UTX" target="_blank">UTX</a>
+    transaction_date: 04/29/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Vanguard Consumer Staples ETF
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=VDC" target="_blank">VDC</a>
+    transaction_date: 05/09/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Eaton Corporation plc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=ETN" target="_blank">ETN</a>
+    transaction_date: 05/09/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Honda Motor Co., Ltd. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=HMC" target="_blank">HMC</a>
+    transaction_date: 05/09/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Xilinx Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XLNX" target="_blank">XLNX</a>
+    transaction_date: 05/09/2014
+    type: Sale (Full)
+- bioguide: W000802
+  date_recieved: 08/12/2015
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5d2c9aff-b7fb-4128-974e-db65dd14faf5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: PowerShares QQQ Trust, Series 1 (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=QQQ" target="_blank">QQQ</a>
+    transaction_date: 10/02/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 10/14/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 10/02/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Capital One Financial Corporation (NYSE)
+    asset_type: Stock
+    comment: same transaction using settlement date was deleted in 11/18/14 report
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=COF" target="_blank">COF</a>
+    transaction_date: 10/15/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Bristol-Myers Squibb Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 10/14/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cypress Semiconductor Corporation (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CY" target="_blank">CY</a>
+    transaction_date: 10/14/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: TripAdvisor Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TRIP" target="_blank">TRIP</a>
+    transaction_date: 10/07/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Unilever plc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UL" target="_blank">UL</a>
+    transaction_date: 10/07/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Michael Kors Holdings Limited (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KORS" target="_blank">KORS</a>
+    transaction_date: 10/02/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Yum! Brands, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=YUM" target="_blank">YUM</a>
+    transaction_date: 10/02/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Macy's, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=M" target="_blank">M</a>
+    transaction_date: 10/02/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Agilent Technologies Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=A" target="_blank">A</a>
+    transaction_date: 10/02/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Unilever plc (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UL" target="_blank">UL</a>
+    transaction_date: 10/02/2014
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 08/12/2015
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5b1fd684-378a-435c-926e-fb1c63b21b05/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Pepsico, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 11/13/2014
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: AT&amp;T, Inc. (NYSE)
+    asset_type: ''
+    comment: Rate/Coupon:5.8
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 11/13/2014
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: GOLDMAN SACHS GROUP 6.2%
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 11/13/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Prudential Financial, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PRU" target="_blank">PRU</a>
+    transaction_date: 11/13/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Macy's, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=M" target="_blank">M</a>
+    transaction_date: 11/13/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Danaher Corp. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Co. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Danaher Corp. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DHR" target="_blank">DHR</a>
+    transaction_date: 11/10/2014
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Alibaba Group Holding Limited (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BABA" target="_blank">BABA</a>
+    transaction_date: 11/10/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Co. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 11/10/2014
+    type: Sale (Full)

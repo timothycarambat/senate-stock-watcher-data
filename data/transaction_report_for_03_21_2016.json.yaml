@@ -1,0 +1,40 @@
+- bioguide: K000383
+  date_recieved: 03/21/2016
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8113f11a-dcc1-43cf-b7d1-3bb5d1f49cbe/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: MAINE ST HSG AUTH M <div class="text-muted"><em>Rate/Coupon:</em>
+      3.45%<br> <em>Matures:</em> 11/15/2017</div>
+    asset_type: Municipal Security
+    comment: '"CALLED" REDEMPTION'
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/22/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: MAINE STATE HSG AUTH REV <div class="text-muted"><em>Rate/Coupon:</em>
+      1.95%<br> <em>Matures:</em> 11/15/2023</div>
+    asset_type: Municipal Security
+    comment: 'SETTLE: 3/21/16'
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/11/2016
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 03/21/2016
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/574d62bd-eab2-416f-8249-3bc33b68f681/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: PUT Standard &amp; Poors Dep Rec at 180
+    asset_type: Stock
+    comment: 15 of the 30 sold. Other 15 expired on 2/29/16
+    owner: Joint
+    ticker: --
+    transaction_date: 02/11/2016
+    type: Sale (Partial)

@@ -1,0 +1,151 @@
+- bioguide: R000307
+  date_recieved: 03/24/2015
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9e736ac9-65e1-44d7-a543-8e4893e0e0a7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Devon Energy Corporation (NYSE)
+    asset_type: Stock
+    comment: Jt
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 03/16/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation (NYSE)
+    asset_type: Stock
+    comment: Sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 03/16/2015
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Netflix, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 03/04/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Alibaba Group Holding Limited (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BABA" target="_blank">BABA</a>
+    transaction_date: 03/04/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Baidu, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIDU" target="_blank">BIDU</a>
+    transaction_date: 03/02/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 03/17/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 03/17/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 03/17/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Eaton Vance Tax-Managed Diversi (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ETY" target="_blank">ETY</a>
+    transaction_date: 03/13/2015
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Eaton Vance Tax-Managed Diversi (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ETY" target="_blank">ETY</a>
+    transaction_date: 03/13/2015
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Eaton Vance Tax-Managed Diversi (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ETY" target="_blank">ETY</a>
+    transaction_date: 03/13/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Alibaba Group Holding Limited (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BABA" target="_blank">BABA</a>
+    transaction_date: 03/11/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc. (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 03/11/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 03/11/2015
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com Inc. (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 03/09/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 03/06/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation (NASDAQ)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 03/06/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Eaton Vance Tax-Managed Diversi (NYSE)
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ETY" target="_blank">ETY</a>
+    transaction_date: 03/06/2015
+    type: Purchase

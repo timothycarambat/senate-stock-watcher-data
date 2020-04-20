@@ -1,0 +1,18 @@
+- bioguide: C001047
+  date_recieved: 03/28/2019
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ba7619a6-3af0-42b2-9740-a1ae1f9f2083/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Access National Corporation (Exchanged) <br> Union Bankshares
+      Corporation (Received)
+    asset_type: Stock
+    comment: Merger - stock of Access National Corporation exchanged for Union Bankshares
+      Corporation
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ANCX" target="_blank">ANCX</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=UBSH" target="_blank">UBSH</a>
+    transaction_date: 02/01/2019
+    type: Exchange

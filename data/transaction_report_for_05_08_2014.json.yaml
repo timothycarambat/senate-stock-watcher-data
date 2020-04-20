@@ -1,0 +1,79 @@
+- bioguide: H001061
+  date_recieved: 05/08/2014
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e16f013b-4e88-4777-8001-ac02faf65957/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Heinz HJ Company
+    asset_type: ''
+    comment: Berkshire acquired Heinz and paid cash to Heinz shareholders on acquisition.
+    owner: Self
+    ticker: --
+    transaction_date: 06/10/2013
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Copano Energy, LLC
+    asset_type: ''
+    comment: KMP acquired Copano and received .4563 KMP units for each Copano unit.
+    owner: Self
+    ticker: --
+    transaction_date: 05/01/2013
+    type: Exchange
+  - amount: $15,001 - $50,000
+    asset_description: Kinder Morgan Energy Partners, L.P. (NYSE)
+    asset_type: ''
+    comment: KMP acquired Copano Energy, LLC. Received .4563 KMP units for each Copano
+      unit.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KMP" target="_blank">KMP</a>
+    transaction_date: 05/01/2013
+    type: Exchange
+  - amount: $100,001 - $250,000
+    asset_description: The Carlyle Group LP (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CG" target="_blank">CG</a>
+    transaction_date: 04/29/2013
+    type: Purchase
+- bioguide: H001061
+  date_recieved: 05/08/2014
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/da7d4e7e-8858-4dc1-ba7e-800c7ce82e7f/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: The Boeing Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 04/28/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: AbbVie Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 04/28/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Anheuser-Busch InBev SA/NV (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BUD" target="_blank">BUD</a>
+    transaction_date: 04/28/2014
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Ford Motor Co. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 04/28/2014
+    type: Purchase

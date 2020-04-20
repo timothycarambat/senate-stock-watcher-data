@@ -1,0 +1,178 @@
+- bioguide: A000360
+  date_recieved: 01/20/2016
+  first_name: Lamar
+  last_name: Alexander
+  office: Alexander, Lamar (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0b0bd265-2339-4099-830f-8b4dbc860e26/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: METROPOLITAN NASHVILLE ARPT AU ARPT <div class="text-muted"><em>Rate/Coupon:</em>
+      5.00%<br> <em>Matures:</em> 07/01/2040</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/07/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: LAKELAND TENN GO CAP OUTLAY NTS <div class="text-muted"><em>Rate/Coupon:</em>
+      5.00%<br> <em>Matures:</em> 03/01/2020</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/07/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: ROBERTSON CNTY TENN GO REF BDS <div class="text-muted"><em>Rate/Coupon:</em>
+      3.00%<br> <em>Matures:</em> 04/01/2025</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 01/05/2016
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: ROBERTSON CNTY TENN GO SCH BDS <div class="text-muted"><em>Rate/Coupon:</em>
+      5.00%<br> <em>Matures:</em> 05/01/2022</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/22/2015
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 01/20/2016
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/47c0963d-3778-4581-83ad-79a29b4fe6d3/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Lam Research Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LRCX" target="_blank">LRCX</a>
+    transaction_date: 12/22/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Macy's, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=M" target="_blank">M</a>
+    transaction_date: 12/28/2015
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Lockheed Martin Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LMT" target="_blank">LMT</a>
+    transaction_date: 01/06/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 01/06/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 01/05/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: GameStop Corp.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GME" target="_blank">GME</a>
+    transaction_date: 01/05/2016
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 01/05/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 01/06/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lam Research Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LRCX" target="_blank">LRCX</a>
+    transaction_date: 12/22/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 01/05/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Wal-Mart Stores Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 01/05/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 01/06/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Under Armour, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UA" target="_blank">UA</a>
+    transaction_date: 01/06/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 01/05/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Merck &amp;amp; Co. Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 01/14/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Linear Technology Corporation
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=LLTC" target="_blank">LLTC</a>
+    transaction_date: 01/05/2016
+    type: Purchase

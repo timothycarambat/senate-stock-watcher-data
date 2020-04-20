@@ -1,0 +1,23 @@
+- bioguide: C001047
+  date_recieved: 07/22/2016
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/31ef88ae-376c-48cc-8189-4038ce47b405/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 06/24/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 06/13/2016
+    type: Purchase

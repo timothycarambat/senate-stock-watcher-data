@@ -1,0 +1,37 @@
+- bioguide: C001035
+  date_recieved: 01/29/2014
+  first_name: SUSAN M
+  last_name: COLLINS
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/1E0B4A32-38D3-44F7-9834-8724E273CEB0/
+  transactions: []
+- bioguide: C001035
+  date_recieved: 01/29/2014
+  first_name: SUSAN M
+  last_name: COLLINS
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/16D65434-11F3-4CCA-9A01-D929D8307E05/
+  transactions: []
+- bioguide: R000120
+  date_recieved: 01/29/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/76c09e15-7887-45fd-94cb-0cc5060d7864/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: CVS Caremark Corporation
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 01/21/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CVS Caremark Corporation
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/21/2014
+    type: Purchase

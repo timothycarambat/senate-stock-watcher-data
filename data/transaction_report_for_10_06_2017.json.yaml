@@ -1,0 +1,416 @@
+- bioguide: C001047
+  date_recieved: 10/06/2017
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8ecb444e-a54c-47a1-8db4-f4b05ac70b9d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Access National Corporation
+    asset_type: Stock
+    comment: Middleburg Financial Corp merged with Access National Bank in a stock
+      for stock exchange
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ANCX" target="_blank">ANCX</a>
+    transaction_date: 04/04/2017
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: MBRG - Middleberg Financial corp
+    asset_type: Stock
+    comment: Middleburg Financial Corp merged with Access National Bank in a stock
+      for stock exchange
+    owner: Self
+    ticker: --
+    transaction_date: 04/04/2017
+    type: Exchange
+- bioguide: C001047
+  date_recieved: 10/06/2017
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2697b867-b20d-47be-98d3-a8d19339b36d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Kellogg Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=K" target="_blank">K</a>
+    transaction_date: 09/27/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hilton Worldwide Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HLT" target="_blank">HLT</a>
+    transaction_date: 09/12/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: WEC Energy Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WEC" target="_blank">WEC</a>
+    transaction_date: 09/05/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Visa Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Vtech Holdings Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VTKLY" target="_blank">VTKLY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Taiwan Semiconductor Manufacturing Company Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSM" target="_blank">TSM</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SoftBank Group Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SFTBY" target="_blank">SFTBY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Singapore Telecommunications Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SGAPY" target="_blank">SGAPY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Shiseido Company, Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SSDOY" target="_blank">SSDOY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Royal Dutch Shell plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RDS-B" target="_blank">RDS-B</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SMC Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SMECF" target="_blank">SMECF</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Royal Caribbean Cruises Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RCL" target="_blank">RCL</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Reckitt Benckiser Group plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RBGLY" target="_blank">RBGLY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pernod Ricard SA
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PDRDY" target="_blank">PDRDY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Broadcom Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AVGO" target="_blank">AVGO</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: "L'Or\xE9al S.A."
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LRLCY" target="_blank">LRLCY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Occidental Petroleum Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=OXY" target="_blank">OXY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Novo Nordisk A/S
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVO" target="_blank">NVO</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Murata Manufacturing Co., Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MRAAY" target="_blank">MRAAY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: "Nestl\xE9 S.A."
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NSRGY" target="_blank">NSRGY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Naspers Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NPSND" target="_blank">NPSND</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Moody's Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MCO" target="_blank">MCO</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Las Vegas Sands Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LVS" target="_blank">LVS</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Keyence Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KYCCF" target="_blank">KYCCF</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Incyte Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=INCY" target="_blank">INCY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SAFRY - Safran SA
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Roche Holding AG
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RHHBY" target="_blank">RHHBY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Hexcel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HXL" target="_blank">HXL</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Jack Henry &amp; Associates, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JKHY" target="_blank">JKHY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Fanuc Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FANUY" target="_blank">FANUY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Enbridge Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ENB" target="_blank">ENB</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Eaton Corporation plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ETN" target="_blank">ETN</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Crown Castle International Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CCI" target="_blank">CCI</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cerner Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CERN" target="_blank">CERN</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Carlsberg A/S
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CABGY" target="_blank">CABGY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CME Group Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CME" target="_blank">CME</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BNP Paribas SA
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BNPQY" target="_blank">BNPQY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ASML Holding N.V.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ASML" target="_blank">ASML</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AstraZeneca PLC
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AZN" target="_blank">AZN</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: EADSY - Airbus SE
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Asahi Kasei Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AHKSY" target="_blank">AHKSY</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AAPL-Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Tower Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMT" target="_blank">AMT</a>
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AAGIY - AIA Group Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: HLT-Hilton Worldwide Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/12/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: WEC-WEC Energy Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/05/2017
+    type: Purchase

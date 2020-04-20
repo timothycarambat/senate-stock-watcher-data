@@ -1,0 +1,15 @@
+- bioguide: W000437
+  date_recieved: 05/14/2019
+  first_name: Roger F
+  last_name: Wicker
+  office: Wicker, Roger (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9da1d8c3-ac6f-4409-a0f9-1c6442bbeab8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Gabelli Dividend &amp; Income Trust
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GDV" target="_blank">GDV</a>
+    transaction_date: 08/24/2018
+    type: Sale (Partial)

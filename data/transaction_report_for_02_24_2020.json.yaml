@@ -1,0 +1,15 @@
+- bioguide: H001061
+  date_recieved: 02/24/2020
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e01a74ce-8d08-42e0-961e-6b275519c2db/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: BlackRock Health Sciences Trust II
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BMEZ" target="_blank">BMEZ</a>
+    transaction_date: 01/29/2020
+    type: Purchase

@@ -1,0 +1,39 @@
+- bioguide: R000120
+  date_recieved: 02/01/2017
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/de190fdc-f710-411e-bbbe-41aaf566fb1a/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 01/18/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: NXP Semiconductors N.V.
+    asset_type: Stock
+    comment: Sale was less than $1000.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NXPI" target="_blank">NXPI</a>
+    transaction_date: 01/18/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: Sale was less than $1000.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 01/18/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: NXP Semiconductors N.V.
+    asset_type: Stock
+    comment: Sale was less than $1000.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NXPI" target="_blank">NXPI</a>
+    transaction_date: 01/18/2017
+    type: Sale (Partial)

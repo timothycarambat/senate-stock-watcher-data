@@ -1,0 +1,15 @@
+- bioguide: K000383
+  date_recieved: 11/13/2017
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/32bf0111-becd-47e8-bc3d-74caf0bd364a/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 10/19/2017
+    type: Sale (Partial)

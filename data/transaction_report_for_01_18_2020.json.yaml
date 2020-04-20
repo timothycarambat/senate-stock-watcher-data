@@ -1,0 +1,25 @@
+- bioguide: P000595
+  date_recieved: 01/18/2020
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/20466568-8119-4ec3-9c04-ce7f217934db/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: ALEXANDRIA REAL ESTATE E 02.750% 121529 DTD091219 <div class="text-muted"><em>Rate/Coupon:</em>
+      02.750%<br> <em>Matures:</em> 12/15/29</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/19/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: DOW CHEMICAL CO/THE B/E 03.000% 121529 DTD121819 <div class="text-muted"><em>Rate/Coupon:</em>
+      03.000%<br> <em>Matures:</em> 12/15/29</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/19/2019
+    type: Purchase

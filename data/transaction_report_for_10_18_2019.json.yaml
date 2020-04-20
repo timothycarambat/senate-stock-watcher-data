@@ -1,0 +1,23 @@
+- bioguide: I000024
+  date_recieved: 10/18/2019
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/dfa68b2c-684c-4777-9055-f65edb04acba/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: UnitedHealth Group Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=UNH" target="_blank">UNH</a>
+    transaction_date: 09/30/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: SPDR S&amp;P Biotech ETF
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XBI" target="_blank">XBI</a>
+    transaction_date: 09/30/2019
+    type: Sale (Full)

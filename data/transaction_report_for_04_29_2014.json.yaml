@@ -1,0 +1,134 @@
+- bioguide: C000174
+  date_recieved: 04/29/2014
+  first_name: THOMAS R
+  last_name: CARPER
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/D322BE57-9E16-482D-9998-11D04BB37132/
+  transactions: []
+- bioguide: C001035
+  date_recieved: 04/29/2014
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/07448275-6b41-47f5-a3ce-73c8f316a166/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 04/22/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ConocoPhillips (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COP" target="_blank">COP</a>
+    transaction_date: 04/22/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Goldman Sachs Group, Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GS" target="_blank">GS</a>
+    transaction_date: 04/23/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: American Express Company (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AXP" target="_blank">AXP</a>
+    transaction_date: 04/23/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Charles Schwab Corporation (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SCHW" target="_blank">SCHW</a>
+    transaction_date: 04/21/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ConocoPhillips (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COP" target="_blank">COP</a>
+    transaction_date: 04/17/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Twenty-First Century Fox, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 04/10/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Lowe's Companies Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LOW" target="_blank">LOW</a>
+    transaction_date: 04/10/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Liberty Global plc (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LBTYK" target="_blank">LBTYK</a>
+    transaction_date: 04/10/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Liberty Global plc (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LBTYA" target="_blank">LBTYA</a>
+    transaction_date: 04/10/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Google Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 04/10/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Delta Air Lines Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DAL" target="_blank">DAL</a>
+    transaction_date: 04/10/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 04/14/2014
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Arthur J Gallagher &amp; Co. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AJG" target="_blank">AJG</a>
+    transaction_date: 04/15/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Delta Air Lines Inc. (NYSE)
+    asset_type: ''
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DAL" target="_blank">DAL</a>
+    transaction_date: 04/11/2014
+    type: Purchase

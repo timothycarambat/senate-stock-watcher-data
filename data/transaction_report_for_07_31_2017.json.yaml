@@ -1,0 +1,103 @@
+- bioguide: R000307
+  date_recieved: 07/31/2017
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cbd4b72c-ac3f-44c0-91de-c6f75631b29f/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Baidu, Inc.
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIDU" target="_blank">BIDU</a>
+    transaction_date: 07/31/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 07/31/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 07/28/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 07/28/2017
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Baidu, Inc.
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIDU" target="_blank">BIDU</a>
+    transaction_date: 07/28/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 07/18/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The TJX Companies, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TJX" target="_blank">TJX</a>
+    transaction_date: 07/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SBUX-Starbucks Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/20/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 07/20/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SBUX-Starbucks Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/14/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 07/14/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Zynga Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ZNGA.SW" target="_blank">ZNGA.SW</a>
+    transaction_date: 07/14/2017
+    type: Sale (Full)

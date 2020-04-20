@@ -1,0 +1,759 @@
+- bioguide: T000476
+  date_recieved: 02/26/2015
+  first_name: Thomas R
+  last_name: Tillis
+  office: Tillis, Thom (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bbdeaa6d-dcb6-41fa-a5d5-cb5e5d10af6b/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: j2 Global, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JCOM" target="_blank">JCOM</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: West Pharmaceutical Services, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WST" target="_blank">WST</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Western Alliance Bancorporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WAL" target="_blank">WAL</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: WageWorks, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WAGE" target="_blank">WAGE</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Vitamin Shoppe, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VSI" target="_blank">VSI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Monotype Imaging Holdings Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TYPE" target="_blank">TYPE</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Texas Roadhouse, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TXRH" target="_blank">TXRH</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tumi Holdings, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TUMI" target="_blank">TUMI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Toro Company (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TTC" target="_blank">TTC</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tangoe, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TNGO" target="_blank">TNGO</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Treehouse Foods, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=THS" target="_blank">THS</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Gentherm Incorporated (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=THRM" target="_blank">THRM</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Bio-Techne Corp. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TECH" target="_blank">TECH</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Texas Capital BancShares Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TCBI" target="_blank">TCBI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Sensient Technologies Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SXT" target="_blank">SXT</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SolarWinds, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SWI" target="_blank">SWI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: South State Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SSB" target="_blank">SSB</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SciQuest, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SQI" target="_blank">SQI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SPS Commerce, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPSC" target="_blank">SPSC</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Semtech Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SMTC" target="_blank">SMTC</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Selective Insurance Group Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SIGI" target="_blank">SIGI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Steven Madden, Ltd. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SHOO" target="_blank">SHOO</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Stone Energy Corp. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SGY" target="_blank">SGY</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Roadrunner Transportation Systems, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RRTS" target="_blank">RRTS</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: RBC Bearings Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ROLL" target="_blank">ROLL</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ritchie Bros. Auctioneers Incorporated (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RBA" target="_blank">RBA</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Raven Industries Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RAVN" target="_blank">RAVN</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Qlik Technologies, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=QLIK" target="_blank">QLIK</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Proto Labs, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PRLB" target="_blank">PRLB</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Primoris Services Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PRIM" target="_blank">PRIM</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: PRA Group, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PRAA" target="_blank">PRAA</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProAssurance Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PRA" target="_blank">PRA</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Power Integrations Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=POWI" target="_blank">POWI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Plantronics, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PLT" target="_blank">PLT</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Popeyes Louisiana Kitchen, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PLKI" target="_blank">PLKI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Pebblebrook Hotel Trust (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PEB" target="_blank">PEB</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Prestige Brands Holdings, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PBH" target="_blank">PBH</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Omnicell, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OMCL" target="_blank">OMCL</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Corporate Office Properties Trust (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OFC" target="_blank">OFC</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NeuStar, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NSR" target="_blank">NSR</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NICE Systems Ltd. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NICE" target="_blank">NICE</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Monro Muffler Brake Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MNRO" target="_blank">MNRO</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Mistras Group, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MG" target="_blank">MG</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Mattress Firm Holding Corp. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MFRM" target="_blank">MFRM</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: MDC Partners Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MDCA" target="_blank">MDCA</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Masimo Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MASI" target="_blank">MASI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Landstar System Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LSTR" target="_blank">LSTR</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: LifeLock, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LOCK" target="_blank">LOCK</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Lumber Liquidators Holdings, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LL" target="_blank">LL</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Quaker Chemical Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KWR" target="_blank">KWR</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: J&amp;J Snack Foods Corp. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JJSF" target="_blank">JJSF</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: IPC Healthcare, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IPCM" target="_blank">IPCM</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ICU Medical, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ICUI" target="_blank">ICUI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Iconix Brand Group, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ICON" target="_blank">ICON</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hub Group Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HUBG" target="_blank">HUBG</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Integra LifeSciences Holdings Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IART" target="_blank">IART</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Helix Energy Solutions Group, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HLX" target="_blank">HLX</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: HFF, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HF" target="_blank">HF</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: HEICO Corporation (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HEI" target="_blank">HEI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Healthcare Services Group Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HCSG" target="_blank">HCSG</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Globus Medical, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GMED" target="_blank">GMED</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Financial Engines, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FNGN" target="_blank">FNGN</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: First Midwest Bancorp Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FMBI" target="_blank">FMBI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Forum Energy Technologies, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FET" target="_blank">FET</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Evercore Partners Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EVR" target="_blank">EVR</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Bottomline Technologies (de), Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EPAY" target="_blank">EPAY</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Eagle Bancorp, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EGBN" target="_blank">EGBN</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Dril-Quip, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DRQ" target="_blank">DRQ</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Diodes Incorporated (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIOD" target="_blank">DIOD</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Del Frisco's Restaurant Group, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DFRG" target="_blank">DFRG</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cyberonics Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CYBX" target="_blank">CYBX</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: CommVault Systems, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVLT" target="_blank">CVLT</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Control4 Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CTRL" target="_blank">CTRL</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Constant Contact, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CTCT" target="_blank">CTCT</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Carrizo Oil &amp; Gas Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CRZO" target="_blank">CRZO</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cantel Medical Corp. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CMN" target="_blank">CMN</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: CLARCOR Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CLC" target="_blank">CLC</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Chefs' Warehouse, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CHEF" target="_blank">CHEF</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cognex Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CGNX" target="_blank">CGNX</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Casey's General Stores, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CASY" target="_blank">CASY</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BioMed Realty Trust Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BMR" target="_blank">BMR</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Bio-Rad Laboratories, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BIO" target="_blank">BIO</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Berry Plastics Group, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BERY" target="_blank">BERY</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Beacon Roofing Supply, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BECN" target="_blank">BECN</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Balchem Corp. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BCPC" target="_blank">BCPC</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Astronics Corporation (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ATRO" target="_blank">ATRO</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AmSurg Corp. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMSG" target="_blank">AMSG</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ALLETE, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ALE" target="_blank">ALE</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Akorn, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AKRX" target="_blank">AKRX</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AmTrust Financial Services, Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AFSI" target="_blank">AFSI</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Advisory Board Company (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ABCO" target="_blank">ABCO</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: American Assets Trust, Inc. (NYSE)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAT" target="_blank">AAT</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AAON Inc. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAON" target="_blank">AAON</a>
+    transaction_date: 02/13/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NICE Systems Ltd. (NASDAQ)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NICE" target="_blank">NICE</a>
+    transaction_date: 02/05/2015
+    type: Sale (Full)

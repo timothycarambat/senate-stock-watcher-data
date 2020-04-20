@@ -1,0 +1,214 @@
+- bioguide: A000360
+  date_recieved: 10/02/2018
+  first_name: Lamar
+  last_name: Alexander
+  office: Alexander, Lamar (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/288c9d97-88cf-42f7-8736-661d3a564ef7/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Maury County TN GO BDS <div class="text-muted"><em>Rate/Coupon:</em>
+      5%<br> <em>Matures:</em> 04/01/2023</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/31/2018
+    type: Sale (Full)
+- bioguide: B001277
+  date_recieved: 10/02/2018
+  first_name: 'RICHARD '
+  last_name: BLUMENTHAL
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/70abcb59-ae68-44bc-a8db-7ccc5673c5af/
+  transactions: []
+- bioguide: P000612
+  date_recieved: 10/02/2018
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/38b95ec7-d871-407d-957e-724e5cefead0/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Graphic Packaging Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GPK" target="_blank">GPK</a>
+    transaction_date: 10/01/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Magellan Midstream Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MMP" target="_blank">MMP</a>
+    transaction_date: 09/24/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Magellan Midstream Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MMP" target="_blank">MMP</a>
+    transaction_date: 09/24/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Shell Midstream Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SHLX" target="_blank">SHLX</a>
+    transaction_date: 09/20/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Shell Midstream Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SHLX" target="_blank">SHLX</a>
+    transaction_date: 09/20/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Shell Midstream Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SHLX" target="_blank">SHLX</a>
+    transaction_date: 09/20/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: TransCanada Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRP" target="_blank">TRP</a>
+    transaction_date: 09/18/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Enterprise Products Partners L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EPD" target="_blank">EPD</a>
+    transaction_date: 09/18/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 09/17/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 09/17/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Western Gas Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WES" target="_blank">WES</a>
+    transaction_date: 09/14/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Andeavor Logistics LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ANDX" target="_blank">ANDX</a>
+    transaction_date: 09/14/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Western Gas Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WES" target="_blank">WES</a>
+    transaction_date: 09/14/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Axalta Coating Systems Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXTA" target="_blank">AXTA</a>
+    transaction_date: 09/13/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: First Data Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDC" target="_blank">FDC</a>
+    transaction_date: 09/13/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Discovery, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DISCA" target="_blank">DISCA</a>
+    transaction_date: 09/13/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Micron Technology, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MU" target="_blank">MU</a>
+    transaction_date: 09/11/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: EQT Midstream Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EQM" target="_blank">EQM</a>
+    transaction_date: 09/10/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: EQT Midstream Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EQM" target="_blank">EQM</a>
+    transaction_date: 09/10/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ONEOK, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OKE" target="_blank">OKE</a>
+    transaction_date: 09/10/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ONEOK, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OKE" target="_blank">OKE</a>
+    transaction_date: 09/10/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/05/2018
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Axalta Coating Systems Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXTA" target="_blank">AXTA</a>
+    transaction_date: 09/05/2018
+    type: Purchase

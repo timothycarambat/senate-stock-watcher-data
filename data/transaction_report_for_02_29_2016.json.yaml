@@ -1,0 +1,30 @@
+- bioguide: B001135
+  date_recieved: 02/29/2016
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/4467f209-e1c4-4241-babf-c7fd057865a1/
+  transactions: []
+- bioguide: R000120
+  date_recieved: 02/29/2016
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/49a203db-a9ea-4a15-9a86-ec96dfaeb096/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 02/11/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Celgene Corporation
+    asset_type: Stock
+    comment: Purchase was less than $1001.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
+    transaction_date: 02/11/2016
+    type: Purchase

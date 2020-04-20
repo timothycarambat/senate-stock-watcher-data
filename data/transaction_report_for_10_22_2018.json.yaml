@@ -1,0 +1,23 @@
+- bioguide: W000802
+  date_recieved: 10/22/2018
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3e8e22b4-31a1-4015-8a2d-2131d45f68ff/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 09/07/2018
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ON Semiconductor Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ON" target="_blank">ON</a>
+    transaction_date: 09/28/2018
+    type: Sale (Full)

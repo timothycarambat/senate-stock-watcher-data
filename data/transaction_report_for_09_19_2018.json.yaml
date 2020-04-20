@@ -1,0 +1,46 @@
+- bioguide: B001236
+  date_recieved: 09/19/2018
+  first_name: 'JOHN '
+  last_name: BOOZMAN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/0ae483c8-5984-4df3-b793-86c6902d8969/
+  transactions: []
+- bioguide: S001203
+  date_recieved: 09/19/2018
+  first_name: Tina
+  last_name: Smith
+  office: Smith, Tina (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2235b033-9cb7-43af-8e69-d55ce1a23561/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Insulet Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PODD" target="_blank">PODD</a>
+    transaction_date: 08/30/2018
+    type: Sale (Partial)
+  - amount: $100,001 - $250,000
+    asset_description: Cutera, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CUTR" target="_blank">CUTR</a>
+    transaction_date: 08/30/2018
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cutera, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CUTR" target="_blank">CUTR</a>
+    transaction_date: 08/30/2018
+    type: Sale (Full)
+  - amount: $250,001 - $500,000
+    asset_description: Insulet Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PODD" target="_blank">PODD</a>
+    transaction_date: 08/30/2018
+    type: Sale (Full)

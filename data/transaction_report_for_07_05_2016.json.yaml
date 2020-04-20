@@ -1,0 +1,47 @@
+- bioguide: R000307
+  date_recieved: 07/05/2016
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b558e183-7af6-45da-99a6-a0a5e8dc2d28/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: The Home Depot, Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HD" target="_blank">HD</a>
+    transaction_date: 06/29/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 06/29/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 06/10/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: HD Supply Holdings, Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HDS" target="_blank">HDS</a>
+    transaction_date: 06/10/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: Sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 06/10/2016
+    type: Purchase

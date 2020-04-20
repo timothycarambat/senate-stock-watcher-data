@@ -1,0 +1,23 @@
+- bioguide: R000307
+  date_recieved: 05/08/2017
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/1975ed1c-b99e-4719-8a8f-f81f2b63d7ac/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 04/07/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: TWTR-Twitter, Inc.
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: --
+    transaction_date: 04/03/2017
+    type: Sale (Full)

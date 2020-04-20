@@ -1,0 +1,17 @@
+- bioguide: B001267
+  date_recieved: 02/07/2017
+  first_name: Michael F
+  last_name: Bennet
+  office: Bennet, Michael (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/d72b5a11-2578-4923-b5db-120464bc4261/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: Continuum Real Estate Investors 2016, LLC <div class="text-muted">
+      <em>Company:</em> Continuum Real Estate Investors 2016, LLC &nbsp;(Denver ,
+      CO) </div> <div class="text-muted"><em>Description:</em>&nbsp;Private Equity</div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/25/2017
+    type: Purchase

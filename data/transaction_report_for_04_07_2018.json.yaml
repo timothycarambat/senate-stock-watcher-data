@@ -1,0 +1,23 @@
+- bioguide: C001047
+  date_recieved: 04/07/2018
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0ab7eda5-7112-4fda-919b-b44b37efd191/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Fanuc Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FANUY" target="_blank">FANUY</a>
+    transaction_date: 03/28/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 03/28/2018
+    type: Sale (Partial)

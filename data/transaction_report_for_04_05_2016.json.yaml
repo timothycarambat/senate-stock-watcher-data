@@ -1,0 +1,30 @@
+- bioguide: B001135
+  date_recieved: 04/05/2016
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/50f506dd-3433-405f-a8e6-1a924f4da87d/
+  transactions: []
+- bioguide: C000174
+  date_recieved: 04/05/2016
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/89bb8577-2e2e-44be-99d3-db1a49960b2c/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Spectra Energy Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SE" target="_blank">SE</a>
+    transaction_date: 03/31/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: New Jersey Resources
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 03/31/2016
+    type: Sale (Full)

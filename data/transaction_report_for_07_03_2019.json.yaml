@@ -1,0 +1,252 @@
+- bioguide: C000174
+  date_recieved: 07/03/2019
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ad0f386b-5ace-4449-8d52-ca558f10bdc9/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: BCS SU Note <div class="text-muted"><em>Rate/Coupon:</em> 2.0%<br>
+      <em>Matures:</em> 06/30/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/30/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BlackRock Science and Technology Trust II
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BSTZ" target="_blank">BSTZ</a>
+    transaction_date: 06/26/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BlackRock Science and Technology Trust II
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BSTZ" target="_blank">BSTZ</a>
+    transaction_date: 06/26/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 06/21/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/21/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+      3.0%<br> <em>Matures:</em> 06/21/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/21/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: JPM Contingent Autocall on NVDA <div class="text-muted"><em>Rate/Coupon:</em>
+      12.1%<br> <em>Matures:</em> 06/18/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/14/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: JPM Contingent Autocall on NVDA <div class="text-muted"><em>Rate/Coupon:</em>
+      12.1%<br> <em>Matures:</em> 06/18/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/14/2019
+    type: Purchase
+- bioguide: P000612
+  date_recieved: 07/03/2019
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b533f3c3-3a6f-4e5f-b955-3ab5a9ecf625/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 06/28/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 06/28/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 06/27/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: BWX Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BWXT" target="_blank">BWXT</a>
+    transaction_date: 06/27/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: WPX Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+    transaction_date: 06/27/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 06/26/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pembina Pipeline Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PBA" target="_blank">PBA</a>
+    transaction_date: 06/25/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Caesars Entertainment Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CZR" target="_blank">CZR</a>
+    transaction_date: 06/25/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: ONEOK, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OKE" target="_blank">OKE</a>
+    transaction_date: 06/25/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cheniere Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LNG" target="_blank">LNG</a>
+    transaction_date: 06/24/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lions Gate Entertainment Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LGF-B" target="_blank">LGF-B</a>
+    transaction_date: 06/24/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 06/24/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 06/24/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Corteva, Inc.
+    asset_type: Stock
+    comment: This asset was acquired through the reverse stock split from DowDuPont
+      on June 3.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CTVA" target="_blank">CTVA</a>
+    transaction_date: 06/17/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Corteva, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CTVA" target="_blank">CTVA</a>
+    transaction_date: 06/17/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: News Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NWSA" target="_blank">NWSA</a>
+    transaction_date: 06/14/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Corning Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GLW" target="_blank">GLW</a>
+    transaction_date: 06/14/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Corning Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GLW" target="_blank">GLW</a>
+    transaction_date: 06/14/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: BWX Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BWXT" target="_blank">BWXT</a>
+    transaction_date: 06/11/2019
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Corning Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GLW" target="_blank">GLW</a>
+    transaction_date: 06/07/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Corning Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GLW" target="_blank">GLW</a>
+    transaction_date: 06/06/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Corning Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GLW" target="_blank">GLW</a>
+    transaction_date: 06/06/2019
+    type: Purchase

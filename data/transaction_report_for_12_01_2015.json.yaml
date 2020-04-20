@@ -1,0 +1,57 @@
+- bioguide: C000174
+  date_recieved: 12/01/2015
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4fa4bc96-c2ae-4dfd-8af1-872ecc64a0ba/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Xerox Corp <div class="text-muted"><em>Rate/Coupon:</em> 3.5%<br>
+      <em>Matures:</em> 08/20/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/04/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Senior Housing Properties Tr <div class="text-muted"><em>Rate/Coupon:</em>
+      4.3%<br> <em>Matures:</em> 01/15/2016</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/04/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Conagra Foods Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/18/2015
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tyson Foods Inc Cl A
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/18/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: New Jersey Resources Cp
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/04/2015
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Northwest Natural Gas Co
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/04/2015
+    type: Sale (Full)

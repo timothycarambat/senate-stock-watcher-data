@@ -1,0 +1,54 @@
+- bioguide: B001236
+  date_recieved: 10/11/2018
+  first_name: 'JOHN '
+  last_name: BOOZMAN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/6dcf9d5b-80eb-4ed8-b5f7-4b2f52a14200/
+  transactions: []
+- bioguide: I000024
+  date_recieved: 10/11/2018
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cadee6b4-fce1-4f81-829f-34776edf2bbe/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: General Electric Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
+    transaction_date: 10/10/2018
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOGL" target="_blank">GOOGL</a>
+    transaction_date: 10/09/2018
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Lear Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LEA" target="_blank">LEA</a>
+    transaction_date: 10/08/2018
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Aptiv PLC
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=APTV" target="_blank">APTV</a>
+    transaction_date: 10/08/2018
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: XPO Logistics, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=XPO" target="_blank">XPO</a>
+    transaction_date: 09/28/2018
+    type: Sale (Full)

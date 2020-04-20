@@ -1,0 +1,271 @@
+- bioguide: P000612
+  date_recieved: 03/31/2017
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cc11c936-268c-480d-aea9-c552517017b7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: PerkinElmer, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PKI" target="_blank">PKI</a>
+    transaction_date: 03/24/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: TransCanada Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRP" target="_blank">TRP</a>
+    transaction_date: 03/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: TransCanada Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRP" target="_blank">TRP</a>
+    transaction_date: 03/24/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Tesoro Logistics LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TLLP" target="_blank">TLLP</a>
+    transaction_date: 03/24/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Enbridge Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENB" target="_blank">ENB</a>
+    transaction_date: 03/23/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Kinder Morgan, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KMI" target="_blank">KMI</a>
+    transaction_date: 03/23/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Enterprise Products Partners L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EPD" target="_blank">EPD</a>
+    transaction_date: 03/23/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Kinder Morgan, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KMI" target="_blank">KMI</a>
+    transaction_date: 03/23/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Kinder Morgan, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KMI" target="_blank">KMI</a>
+    transaction_date: 03/23/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Westlake Chemical Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WLK" target="_blank">WLK</a>
+    transaction_date: 03/23/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Versum Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VSM" target="_blank">VSM</a>
+    transaction_date: 03/23/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 03/22/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Graphic Packaging Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GPK" target="_blank">GPK</a>
+    transaction_date: 03/22/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Schlumberger Limited
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SLB" target="_blank">SLB</a>
+    transaction_date: 03/22/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 03/22/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 03/22/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 03/22/2017
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 03/22/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Prudential Financial, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PRU" target="_blank">PRU</a>
+    transaction_date: 03/22/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Westlake Chemical Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WLK" target="_blank">WLK</a>
+    transaction_date: 03/16/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Westlake Chemical Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WLK" target="_blank">WLK</a>
+    transaction_date: 03/15/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Wal-Mart Stores, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 03/14/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: VCA Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WOOF" target="_blank">WOOF</a>
+    transaction_date: 03/14/2017
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Wal-Mart Stores, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 03/13/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Westlake Chemical Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WLK" target="_blank">WLK</a>
+    transaction_date: 03/13/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Whole Foods Market, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WFM" target="_blank">WFM</a>
+    transaction_date: 03/10/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Mosaic Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MOS" target="_blank">MOS</a>
+    transaction_date: 03/10/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Westlake Chemical Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WLK" target="_blank">WLK</a>
+    transaction_date: 03/10/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Whole Foods Market, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WFM" target="_blank">WFM</a>
+    transaction_date: 03/08/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 03/03/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Baxter International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAX" target="_blank">BAX</a>
+    transaction_date: 03/02/2017
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 03/02/2017
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: VCA Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WOOF" target="_blank">WOOF</a>
+    transaction_date: 03/01/2017
+    type: Sale (Partial)

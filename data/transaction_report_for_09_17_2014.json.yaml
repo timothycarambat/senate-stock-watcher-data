@@ -1,0 +1,30 @@
+- bioguide: B001135
+  date_recieved: 09/17/2014
+  first_name: RICHARD M
+  last_name: BURR
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/EB09706F-2098-40DB-B666-B014B21553AA/
+  transactions: []
+- bioguide: R000120
+  date_recieved: 09/17/2014
+  first_name: John F
+  last_name: Reed
+  office: Reed, John F. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bda7bfcd-3d65-482c-8cf2-aff54ec482b0/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 09/09/2014
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc. (NASDAQ)
+    asset_type: ''
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 09/09/2014
+    type: Purchase

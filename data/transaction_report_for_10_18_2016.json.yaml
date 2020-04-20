@@ -1,0 +1,39 @@
+- bioguide: P000595
+  date_recieved: 10/18/2016
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/61c867d8-5ef1-44e9-b5fb-278cac26ed61/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Verizon Communications Inc. <div class="text-muted"><em>Rate/Coupon:</em>
+      2.625%<br> <em>Matures:</em> 08/15/26</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 09/30/2016
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 10/18/2016
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/fb88de4b-0d94-4270-9181-79e0d7ee6d5c/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: PowerShares High Yld Eq Div Achiev ETF
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PEY" target="_blank">PEY</a>
+    transaction_date: 09/13/2016
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: DB 3x German Bund Futures ETN
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BUNT" target="_blank">BUNT</a>
+    transaction_date: 09/20/2016
+    type: Purchase

@@ -1,0 +1,38 @@
+- bioguide: R000307
+  date_recieved: 04/28/2016
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9a3b11df-5923-486f-a6af-ecc34eb390cd/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 04/28/2016
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Zynga, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ZNGA" target="_blank">ZNGA</a>
+    transaction_date: 04/20/2016
+    type: Sale (Partial)
+- bioguide: R000307
+  date_recieved: 04/28/2016
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/215cfeb4-8893-4c0c-a034-2bbcfc4296b5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: General Motors Company
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 06/16/2015
+    type: Sale (Full)

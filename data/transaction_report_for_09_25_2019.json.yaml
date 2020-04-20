@@ -1,0 +1,23 @@
+- bioguide: H001061
+  date_recieved: 09/25/2019
+  first_name: John
+  last_name: Hoeven
+  office: Hoeven, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/eefc9098-5599-4d95-9044-f7d0173034ce/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 09/24/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Kontoor Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KTB" target="_blank">KTB</a>
+    transaction_date: 09/24/2019
+    type: Purchase
