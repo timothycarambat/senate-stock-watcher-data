@@ -6,10 +6,18 @@
 
 The data that is collected is originally sourced from [The Ethical Financial Disclosure Office](https://efdsearch.senate.gov/search/home/) of the US Senate. We retain this data in a much more readable and concise format.
 
+All files are available as `YAML` as well.
+`data/transaction_report_for_MM_DD_YYY.json` => `data/transaction_report_for_MM_DD_YYY.json.yaml`
+
+All files with the exception of the following have the `bioguide` id available:
+- `aggregate/all_ticker_transactions.*`
+- `aggregate/all_transactions.*`
+
+
 ### Structure
 **data/** - Contains the daily summaries as they are reported with a file naming convention of `transaction_report_for_MM_DD_YYY.json`. The structure is as follows:
 ```
-[ 
+[
 //list of objects. Each object is a senator who filed that day - they can appear more than once if they filed twice that day.
   {
     "first_name": "John D",
@@ -41,5 +49,3 @@ The data that is collected is originally sourced from [The Ethical Financial Dis
 
 ### Comments:
 This repo will be updated on continually as more reports are filed. Senators that scan in their PDF will show as a trader for that day but have `transactions: []` in their record. These gaps are being backfilled and automatically updated in collaboration with [https://github.com/jeremiak/us-senate-financial-disclosure-data/](https://github.com/jeremiak/us-senate-financial-disclosure-data/)
-
-
