@@ -1,3 +1,970 @@
+- amount: $100,001 - $250,000
+  asset_description: CP Kent Place Member LLC <div class="text-muted"> <em>Company:</em>
+    CP Kent Place Member LLC &nbsp;(Denver, CO) </div> <div class="text-muted"><em>Description:</em>&nbsp;Holding
+    Company</div>
+  asset_type: Other Securities
+  comment: Underlying asset - Commercial Real Estate
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e4f7fd47-09da-42c8-ab8e-064ddd5e185f/
+  senator: Michael F Bennet
+  ticker: --
+  transaction_date: 03/30/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: UBS Contingent Autocall on SLB <div class="text-muted"><em>Rate/Coupon:</em>
+    9%<br> <em>Matures:</em> 04/23/2020</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 04/23/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: UBS Contingent Autocall on SLB <div class="text-muted"><em>Rate/Coupon:</em>
+    9%<br> <em>Matures:</em> 04/23/2020</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 04/23/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: PayPal Holdings, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: PYPL
+  transaction_date: 04/14/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: CVS Health Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: CVS
+  transaction_date: 04/14/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Skyworks Solutions, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: SWKS
+  transaction_date: 04/14/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Invesco NASDAQ Internet ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: PNQI
+  transaction_date: 04/14/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Sprott Physical Gold and Silver Trust
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: CEF
+  transaction_date: 04/14/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: The Walt Disney Company
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: DIS
+  transaction_date: 04/14/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Goldman Sachs ActiveBeta Emerging Markets Equity E
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: GEM
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: ALPS Medical Breakthroughs ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: SBIO
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: iShares Core S&amp;P 500 ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: IVV
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: KraneShares CSI China Internet ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: KWEB
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: VictoryShares US 500 Volatility Wtd ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: CFA
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Pacer Benchmark Data &amp; Infrastructure Real Estate
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: SRVR
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Sprott Physical Gold and Silver Trust
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: CEF
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: SPDR Gold Shares
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: GLD
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: First Trust NASDAQ Cybersecurity ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: CIBR
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Catalyst/Millburn Hedge Strategy Fund Class I
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: MBXIX
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: First Trust NASDAQ-100-Technology Sector Index Fun
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: QTEC
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: iShares U.S. Regional Banks ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: IAT
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: First Trust Dow Jones Internet Index Fund
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: FDN
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Lord Abbett Ultra Short Bond Fund Class F
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: LUBFX
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: AQR Long-Short Equity Fund Class I
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: QLEIX
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Oakmark International Fund Class Advisor
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: OAYIX
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: First Trust New Opportunities MLP &amp; Energy Fund
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: FPL
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Goldman Sachs Access Treasury 0-1 Year ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: GBIL
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Global X Robotics &amp; Artificial Intelligence ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: BOTZ
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Global X FinTech ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: FINX
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: iShares Russell 2000 Value ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: IWN
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Darden Restaurants, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: DRI
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: QUALCOMM Incorporated
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: QCOM
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: ResMed Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: RMD
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Starbucks Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: SBUX
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Ares Capital Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: ARCC
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: CVS Health Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: CVS
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Quest Diagnostics Incorporated
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: DGX
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: iShares Russell 1000 Value ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: IWD
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Alexandria Real Estate Equities, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: ARE
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Lazard Global Total Return and Income Fund, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: LGI
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Packaging Corporation of America
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: PKG
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: MetLife, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: MET
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: iShares MSCI Emerging Markets ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: EEM
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Raytheon Company
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: RTN
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Gladstone Capital Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: GLAD
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Skyworks Solutions, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: SWKS
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Sprott Physical Gold and Silver Trust
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: CEF
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: SPDR Gold Shares
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: GLD
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Catalyst/Millburn Hedge Strategy Fund Class I
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: MBXIX
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Citizens Financial Group, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: CFG
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Tencent Holdings Limited
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: TCEHY
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Marathon Petroleum Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: MPC
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: AQR Long-Short Equity Fund Class I
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: QLEIX
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Hartford Multifactor Developed Markets (ex-US) ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: RODM
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Pacer Trendpilot 100 ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: PTNQ
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Knight-Swift Transportation Holdings Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: KNX
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Chubb Limited
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: CB
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Goldman Sachs Access Treasury 0-1 Year ETF
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: GBIL
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Iron Mountain Incorporated
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: IRM
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: HP Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: HPQ
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: L3Harris Technologies, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: LHX
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Apollo Global Management, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: APO
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Conagra Brands, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: CAG
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Corning Incorporated
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: GLW
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Fifth Third Bancorp
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: FITB
+  transaction_date: 04/02/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Microsoft Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: MSFT
+  transaction_date: 04/02/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Novo Nordisk A/S
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: NVO
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: PepsiCo, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: PEP
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Tyson Foods, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a1c431fc-093e-4ace-8f0a-4f2ae481556d/
+  senator: Thomas R Carper
+  ticker: TSN
+  transaction_date: 04/02/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: Netflix, Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: NFLX
+  transaction_date: 04/09/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Apple Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: AAPL
+  transaction_date: 04/08/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: The Walt Disney Company
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: DIS
+  transaction_date: 04/07/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: The TJX Companies, Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: TJX
+  transaction_date: 04/07/2020
+  type: Purchase
+- amount: $100,001 - $250,000
+  asset_description: Netflix, Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: NFLX
+  transaction_date: 04/06/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: The TJX Companies, Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: TJX
+  transaction_date: 04/28/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: The Boeing Company
+  asset_type: Stock
+  comment: '555'
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: --
+  transaction_date: 04/29/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Microsoft Corporation
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: MSFT
+  transaction_date: 04/30/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Mastercard Incorporated
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: MA
+  transaction_date: 04/29/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Beyond Meat, Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: BYND
+  transaction_date: 04/29/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Target Corporation
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: --
+  transaction_date: 04/28/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Microsoft Corporation
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: MSFT
+  transaction_date: 04/27/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Apple Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: AAPL
+  transaction_date: 04/27/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: NVIDIA Corporation
+  asset_type: Stock
+  comment: sep
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: NVDA
+  transaction_date: 04/24/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: Netflix, Inc.
+  asset_type: Stock
+  comment: sep
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: NFLX
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Apple Inc.
+  asset_type: Stock
+  comment: sep
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: AAPL
+  transaction_date: 04/08/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: Amazon.com, Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: AMZN
+  transaction_date: 04/24/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Amazon.com, Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: AMZN
+  transaction_date: 04/24/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Netflix, Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: NFLX
+  transaction_date: 04/17/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Netflix, Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: NFLX
+  transaction_date: 04/16/2020
+  type: Purchase
+- amount: $100,001 - $250,000
+  asset_description: Netflix, Inc.
+  asset_type: Stock
+  comment: R
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f29730b1-6b84-427b-88e7-443fac481b6d/
+  senator: Pat Roberts
+  ticker: NFLX
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: UNTD TECHNOLOGIES CORP COMMON STOCK (UTC) (Exchanged) <br> RAYTHEON
+    TECHNOLOGIES STOCK (RTX) (Received)
+  asset_type: Stock
+  comment: --
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/39da51c8-cf62-43bc-847f-6cf679e0e831/
+  senator: Gary C Peters
+  ticker: --
+  transaction_date: 04/03/2020
+  type: Exchange
+- amount: $1,001 - $15,000
+  asset_description: Westbrand, Inc. <div class="text-muted"> <em>Company:</em> Westbrand,
+    Inc. &nbsp;(Minot, ND) </div> <div class="text-muted"><em>Description:</em>&nbsp;Bank
+    holding company of First Western Bank</div>
+  asset_type: Non-Public Stock
+  comment: --
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/d68fe6d0-0db6-41c7-b1ed-0a65561c22cf/
+  senator: John Hoeven
+  ticker: --
+  transaction_date: 04/29/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: JPMorgan Chase &amp; Co.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/17fc6d2d-4992-420c-a064-32cec375ed31/
+  senator: Shelley M Capito
+  ticker: JPM
+  transaction_date: 03/03/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Microsoft Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/17fc6d2d-4992-420c-a064-32cec375ed31/
+  senator: Shelley M Capito
+  ticker: MSFT
+  transaction_date: 03/03/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Johnson &amp; Johnson
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/17fc6d2d-4992-420c-a064-32cec375ed31/
+  senator: Shelley M Capito
+  ticker: JNJ
+  transaction_date: 03/03/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Abbott Laboratories
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/17fc6d2d-4992-420c-a064-32cec375ed31/
+  senator: Shelley M Capito
+  ticker: ABT
+  transaction_date: 03/03/2020
+  type: Purchase
 - amount: $500,001 - $1,000,000
   asset_description: Broward County Florida Airport Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
     5.0%<br> <em>Matures:</em> 10/01/2037</div>

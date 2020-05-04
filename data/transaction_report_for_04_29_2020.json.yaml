@@ -1,0 +1,39 @@
+- bioguide: C001047
+  date_recieved: 04/29/2020
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/17fc6d2d-4992-420c-a064-32cec375ed31/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 03/03/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 03/03/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Johnson &amp; Johnson
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+    transaction_date: 03/03/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Abbott Laboratories
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ABT" target="_blank">ABT</a>
+    transaction_date: 03/03/2020
+    type: Purchase
