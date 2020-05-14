@@ -1,3 +1,1717 @@
+- bioguide: C001047
+  date_recieved: 05/14/2020
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/586556d6-f408-4f10-a3a5-e45ea07e23c7/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: United Technologies Corp. (Exchanged) <br> Raytheon Company
+      (Received)
+    asset_type: Stock
+    comment: Exchange of securities of United Technologies Corp - Raytheon Technologies
+      Corp. stock received
+    owner: Spouse
+    ticker: --                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=RTN" target="_blank">RTN</a>
+    transaction_date: 04/07/2020
+    type: Exchange
+- bioguide: W000805
+  date_recieved: 05/11/2020
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/69e82326-32d6-493a-8a31-3f741479ba76/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: Revival LOC, LLC <div class="text-muted"> <em>Company:</em>
+      Revival LOC, LLC &nbsp;(Springfield, NJ) </div> <div class="text-muted"><em>Description:</em>&nbsp;Line
+      of Credit - Manufacturer</div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 04/22/2020
+    type: Purchase
+- bioguide: I000024
+  date_recieved: 05/08/2020
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/daea9cc7-b900-481c-978c-a78b266b3ba1/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Visa Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 04/13/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 04/13/2020
+    type: Sale (Partial)
+- bioguide: P000612
+  date_recieved: 05/08/2020
+  first_name: David A
+  last_name: Perdue , Jr
+  office: Perdue, David (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Dow Inc.
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct. This full sale was less than $1,000
+      but disclosing anyway for full transparency.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DOW" target="_blank">DOW</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: iShares MSCI Emerging Markets ETF <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+      Traded Fund</div>
+    asset_type: Other Securities
+    comment: Not required to be disclosed but disclosing anyway for full transparency.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EEM" target="_blank">EEM</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: iShares International Select Dividend ETF <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+      Traded Fund</div>
+    asset_type: Other Securities
+    comment: Not required to be disclosed but disclosing anyway for full transparency.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IDV" target="_blank">IDV</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 04/03/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Live Nation Entertainment, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LYV" target="_blank">LYV</a>
+    transaction_date: 04/06/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Live Nation Entertainment, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LYV" target="_blank">LYV</a>
+    transaction_date: 04/03/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Micron Technology, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MU" target="_blank">MU</a>
+    transaction_date: 04/01/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Micron Technology, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MU" target="_blank">MU</a>
+    transaction_date: 04/01/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: iShares Russell 2000 ETF <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+      Traded Fund</div>
+    asset_type: Other Securities
+    comment: Transaction not required to be disclosed but disclosing anyway for full
+      transparency.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=IWM" target="_blank">IWM</a>
+    transaction_date: 04/16/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Micron Technology, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MU" target="_blank">MU</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 04/06/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 04/03/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Lions Gate Entertainment Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LGF-B" target="_blank">LGF-B</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Graphic Packaging Holding Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GPK" target="_blank">GPK</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $100,001 - $250,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Devon Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DVN" target="_blank">DVN</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Delta Air Lines, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DAL" target="_blank">DAL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Albemarle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ALB" target="_blank">ALB</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Hanesbrands Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HBI" target="_blank">HBI</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Urban Outfitters, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URBN" target="_blank">URBN</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Axalta Coating Systems Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AXTA" target="_blank">AXTA</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 04/03/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: ViacomCBS Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VIAC" target="_blank">VIAC</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Regions Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RF" target="_blank">RF</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: WPX Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WPX" target="_blank">WPX</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Pfizer Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Live Nation Entertainment, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LYV" target="_blank">LYV</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: General Motors Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GM" target="_blank">GM</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Corning Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GLW" target="_blank">GLW</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: SPDR S&amp;P 500 ETF Trust <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+      Traded Fund</div>
+    asset_type: Other Securities
+    comment: Transaction not required to be disclosed but disclosing anyway for full
+      transparency.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 04/16/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Vanguard FTSE Developed Markets Index Fund ETF Sha <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+      Traded Fund</div>
+    asset_type: Other Securities
+    comment: Transaction not required to be disclosed but disclosing anyway for full
+      transparency.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VEA" target="_blank">VEA</a>
+    transaction_date: 04/16/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Vanguard S&amp;P 500 ETF <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+      Traded Fund</div>
+    asset_type: Other Securities
+    comment: Transaction not required to be disclosed but disclosing anyway for full
+      transparency.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VOO" target="_blank">VOO</a>
+    transaction_date: 04/16/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Funds Capital Income Builder Class F-2
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CAIFX" target="_blank">CAIFX</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Franklin Income Fund Advisor Class
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FRIAX" target="_blank">FRIAX</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $250,001 - $500,000
+    asset_description: Alerian MLP ETF <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+      Traded Fund</div>
+    asset_type: Other Securities
+    comment: Transaction not required to be disclosed but disclosing anyway for transparency.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMLP" target="_blank">AMLP</a>
+    transaction_date: 04/16/2020
+    type: Purchase
+  - amount: $1,000,001 - $5,000,000
+    asset_description: SPDR S&amp;P 500 ETF Trust <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+      Traded Fund</div>
+    asset_type: Other Securities
+    comment: Transaction not required to be disclosed but disclosing anyway for transparency.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 04/15/2020
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: SPDR S&amp;P 500 ETF Trust <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+      Traded Fund</div>
+    asset_type: Other Securities
+    comment: Transaction not required to be disclosed but disclosing anyway for transparency
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SPY" target="_blank">SPY</a>
+    transaction_date: 04/15/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pembina Pipeline Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PBA" target="_blank">PBA</a>
+    transaction_date: 04/07/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Enbridge Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENB" target="_blank">ENB</a>
+    transaction_date: 04/06/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: TC Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRP" target="_blank">TRP</a>
+    transaction_date: 04/06/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Oracle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 04/03/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Crestwood Equity Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CEQP" target="_blank">CEQP</a>
+    transaction_date: 04/07/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Oracle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 04/09/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: EQM Midstream Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EQM" target="_blank">EQM</a>
+    transaction_date: 04/13/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: PepsiCo, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PEP" target="_blank">PEP</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: News Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NWSA" target="_blank">NWSA</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Oracle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: NIKE, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NKE" target="_blank">NKE</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Oracle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: The Blackstone Group Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BX" target="_blank">BX</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: American Tower Corporation (REIT)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMT" target="_blank">AMT</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Mastercard Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MA" target="_blank">MA</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Anthem, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ANTM" target="_blank">ANTM</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Bank of New York Mellon Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BK" target="_blank">BK</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: PayPal Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PYPL" target="_blank">PYPL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: AbbVie Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Extra Space Storage Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EXR" target="_blank">EXR</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Baxter International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAX" target="_blank">BAX</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Stryker Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SYK" target="_blank">SYK</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ConocoPhillips
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=COP" target="_blank">COP</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Fox Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOX" target="_blank">FOX</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Cognizant Technology Solutions Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CTSH" target="_blank">CTSH</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Arcosa, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ACA" target="_blank">ACA</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Johnson &amp; Johnson
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Mondelez International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MDLZ" target="_blank">MDLZ</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Bollore
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BOIVF" target="_blank">BOIVF</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: U.S. Bancorp
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=USB" target="_blank">USB</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Ralph Lauren Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RL" target="_blank">RL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: State Street Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=STT" target="_blank">STT</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: AMERCO
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=UHAL" target="_blank">UHAL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: The Coca-Cola Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: EQM Midstream Partners, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EQM" target="_blank">EQM</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Oracle Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ORCL" target="_blank">ORCL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: PayPal Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PYPL" target="_blank">PYPL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOGL" target="_blank">GOOGL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: NIKE, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NKE" target="_blank">NKE</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Mondelez International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MDLZ" target="_blank">MDLZ</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Altria Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MO" target="_blank">MO</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Kinder Morgan, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KMI" target="_blank">KMI</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: HCA Healthcare, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HCA" target="_blank">HCA</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Visa Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Prudential Financial, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PRU" target="_blank">PRU</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Emerson Electric Co.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EMR" target="_blank">EMR</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Honeywell International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HON" target="_blank">HON</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Extra Space Storage Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EXR" target="_blank">EXR</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Dow Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DOW" target="_blank">DOW</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 04/14/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Booz Allen Hamilton Holding Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BAH" target="_blank">BAH</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Micron Technology, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MU" target="_blank">MU</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Macy's, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=M" target="_blank">M</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Suncor Energy Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SU" target="_blank">SU</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: First Hawaiian, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FHB" target="_blank">FHB</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Booking Holdings Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BKNG" target="_blank">BKNG</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Fox Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=FOXA" target="_blank">FOXA</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Huntsman Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HUN" target="_blank">HUN</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: News Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NWS" target="_blank">NWS</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Unilever Group
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=UN" target="_blank">UN</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: MSC Industrial Direct Co., Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSM" target="_blank">MSM</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Sysco Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SYY" target="_blank">SYY</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: GrafTech International Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EAF" target="_blank">EAF</a>
+    transaction_date: 04/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Plains GP Holdings, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PAGP" target="_blank">PAGP</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Phillips 66 Partners LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PSXP" target="_blank">PSXP</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Sunoco LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SUN" target="_blank">SUN</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: TC PipeLines, LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TCP" target="_blank">TCP</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Kinder Morgan, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KMI" target="_blank">KMI</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Enterprise Products Partners L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=EPD" target="_blank">EPD</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Cheniere Energy, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LNG" target="_blank">LNG</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: TC Energy Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRP" target="_blank">TRP</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Magellan Midstream Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MMP" target="_blank">MMP</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ONEOK, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=OKE" target="_blank">OKE</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Plains All American Pipeline, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PAA" target="_blank">PAA</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Enbridge Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ENB" target="_blank">ENB</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Pembina Pipeline Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PBA" target="_blank">PBA</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Shell Midstream Partners, L.P.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SHLX" target="_blank">SHLX</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Williams Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WMB" target="_blank">WMB</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Targa Resources Corp.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TRGP" target="_blank">TRGP</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: MPLX LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MPLX" target="_blank">MPLX</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Energy Transfer LP
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=ET" target="_blank">ET</a>
+    transaction_date: 04/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ConocoPhillips
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=COP" target="_blank">COP</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Coca-Cola Company
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: Full sale from Wells Fargo account.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Citigroup Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=C" target="_blank">C</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: C.S-CITI 1/1000TH S PERPTL
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: --
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Home Depot, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=HD" target="_blank">HD</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: General Mills, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=GIS" target="_blank">GIS</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Caterpillar Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CAT" target="_blank">CAT</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BP p.l.c.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BP" target="_blank">BP</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AT&amp;T Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=T" target="_blank">T</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Aflac Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=AFL" target="_blank">AFL</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Blackstone Group Inc.
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BX" target="_blank">BX</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Johnson &amp; Johnson
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Truist Financial Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TFC" target="_blank">TFC</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Sysco Corporation
+    asset_type: Stock
+    comment: Full sale of Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SYY" target="_blank">SYY</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Southern Company JR SUB NT 2015A
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SOJA" target="_blank">SOJA</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: United Rentals, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=URI" target="_blank">URI</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Verizon Communications Inc.
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=VZ" target="_blank">VZ</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Southern Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=SO" target="_blank">SO</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Merck &amp; Co., Inc.
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MRK" target="_blank">MRK</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Eli Lilly and Company
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=LLY" target="_blank">LLY</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: PayPal Holdings, Inc.
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PYPL" target="_blank">PYPL</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Philip Morris International Inc.
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PM" target="_blank">PM</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NIKE, Inc.
+    asset_type: Stock
+    comment: Full sale from Wells Fargo Acct
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NKE" target="_blank">NKE</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Norfolk Southern Corporation
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=NSC" target="_blank">NSC</a>
+    transaction_date: 04/16/2020
+    type: Sale (Full)
+- bioguide: C001035
+  date_recieved: 05/07/2020
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ef8819eb-45c8-4ab3-addb-50fc3a7f9ddf/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Federal Farm Credit Bk 3133EGU94 <div class="text-muted"><em>Rate/Coupon:</em>
+      2.300%<br> <em>Matures:</em> 12/14/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/19/2019
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Federal Farm Credit Bk 3133EKQ90 <div class="text-muted"><em>Rate/Coupon:</em>
+      2.000%<br> <em>Matures:</em> 09/23/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/18/2019
+    type: Purchase
+- bioguide: C000174
+  date_recieved: 05/06/2020
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e0862315-29f3-42d0-9ca7-9d660dbb1c0d/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: UBS Contingent Autocall Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+      8.1%<br> <em>Matures:</em> 12/30/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/27/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: UBS Contingent Autocall Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+      8.1%<br> <em>Matures:</em> 12/30/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/27/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Under Armour, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UAA" target="_blank">UAA</a>
+    transaction_date: 12/17/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Under Armour, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UA" target="_blank">UA</a>
+    transaction_date: 12/17/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BP p.l.c.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BP" target="_blank">BP</a>
+    transaction_date: 12/17/2019
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Invesco Pacific Growth A
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/16/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: MS Contingent Autocall Intel <div class="text-muted"><em>Rate/Coupon:</em>
+      8.2%<br> <em>Matures:</em> 12/9/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/06/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: MS Contingent Autocall Intel <div class="text-muted"><em>Rate/Coupon:</em>
+      8.2%<br> <em>Matures:</em> 12/9/2022</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/06/2019
+    type: Purchase
+- bioguide: W000437
+  date_recieved: 05/05/2020
+  first_name: Roger F
+  last_name: Wicker
+  office: Wicker, Roger (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9fd36476-cd7e-4635-88f2-4806e574e3e7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Boulder Growth &amp; Income Fund, Inc.
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIF" target="_blank">BIF</a>
+    transaction_date: 05/17/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Gabelli Dividend &amp; Income Trust
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GDV" target="_blank">GDV</a>
+    transaction_date: 05/17/2019
+    type: Sale (Full)
 - bioguide: B001267
   date_recieved: 05/04/2020
   first_name: Michael F

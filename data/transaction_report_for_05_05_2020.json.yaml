@@ -1,0 +1,23 @@
+- bioguide: W000437
+  date_recieved: 05/05/2020
+  first_name: Roger F
+  last_name: Wicker
+  office: Wicker, Roger (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9fd36476-cd7e-4635-88f2-4806e574e3e7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Boulder Growth &amp; Income Fund, Inc.
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BIF" target="_blank">BIF</a>
+    transaction_date: 05/17/2019
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Gabelli Dividend &amp; Income Trust
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GDV" target="_blank">GDV</a>
+    transaction_date: 05/17/2019
+    type: Sale (Full)

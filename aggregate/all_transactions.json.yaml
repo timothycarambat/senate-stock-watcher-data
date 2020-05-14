@@ -1,3 +1,2076 @@
+- amount: $15,001 - $50,000
+  asset_description: United Technologies Corp. (Exchanged) <br> Raytheon Company (Received)
+  asset_type: Stock
+  comment: Exchange of securities of United Technologies Corp - Raytheon Technologies
+    Corp. stock received
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/586556d6-f408-4f10-a3a5-e45ea07e23c7/
+  senator: Shelley M Capito
+  ticker: RTN
+  transaction_date: 04/07/2020
+  type: Exchange
+- amount: $250,001 - $500,000
+  asset_description: Revival LOC, LLC <div class="text-muted"> <em>Company:</em> Revival
+    LOC, LLC &nbsp;(Springfield, NJ) </div> <div class="text-muted"><em>Description:</em>&nbsp;Line
+    of Credit - Manufacturer</div>
+  asset_type: Other Securities
+  comment: --
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/69e82326-32d6-493a-8a31-3f741479ba76/
+  senator: Mark R Warner
+  ticker: --
+  transaction_date: 04/22/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: Visa Inc.
+  asset_type: Stock
+  comment: --
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/daea9cc7-b900-481c-978c-a78b266b3ba1/
+  senator: James M Inhofe
+  ticker: V
+  transaction_date: 04/13/2020
+  type: Sale (Partial)
+- amount: $50,001 - $100,000
+  asset_description: Microsoft Corporation
+  asset_type: Stock
+  comment: --
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/daea9cc7-b900-481c-978c-a78b266b3ba1/
+  senator: James M Inhofe
+  ticker: MSFT
+  transaction_date: 04/13/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Dow Inc.
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct. This full sale was less than $1,000 but
+    disclosing anyway for full transparency.
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DOW
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: iShares MSCI Emerging Markets ETF <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+    Traded Fund</div>
+  asset_type: Other Securities
+  comment: Not required to be disclosed but disclosing anyway for full transparency.
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: EEM
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: iShares International Select Dividend ETF <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+    Traded Fund</div>
+  asset_type: Other Securities
+  comment: Not required to be disclosed but disclosing anyway for full transparency.
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: IDV
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: DuPont de Nemours, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DD
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: Berkshire Hathaway Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BRK-B
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: Bank of America Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BAC
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Apple Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: AAPL
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Pfizer Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PFE
+  transaction_date: 04/03/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Live Nation Entertainment, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: LYV
+  transaction_date: 04/06/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Live Nation Entertainment, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: LYV
+  transaction_date: 04/03/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Micron Technology, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MU
+  transaction_date: 04/01/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Micron Technology, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MU
+  transaction_date: 04/01/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: iShares Russell 2000 ETF <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+    Traded Fund</div>
+  asset_type: Other Securities
+  comment: Transaction not required to be disclosed but disclosing anyway for full
+    transparency.
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: IWM
+  transaction_date: 04/16/2020
+  type: Purchase
+- amount: $100,001 - $250,000
+  asset_description: The Walt Disney Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DIS
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $50,001 - $100,000
+  asset_description: Micron Technology, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MU
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $50,001 - $100,000
+  asset_description: Merck &amp; Co., Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MRK
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Merck &amp; Co., Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MRK
+  transaction_date: 04/06/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Merck &amp; Co., Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MRK
+  transaction_date: 04/03/2020
+  type: Sale (Partial)
+- amount: $50,001 - $100,000
+  asset_description: Lions Gate Entertainment Corp.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: LGF-B
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: Graphic Packaging Holding Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: GPK
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $100,001 - $250,000
+  asset_description: FedEx Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: FDX
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Devon Energy Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DVN
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Delta Air Lines, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DAL
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: Albemarle Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ALB
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: Hanesbrands Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: HBI
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: Urban Outfitters, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: URBN
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: Axalta Coating Systems Ltd.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: AXTA
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: FireEye, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: FEYE
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Starbucks Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SBUX
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Starbucks Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SBUX
+  transaction_date: 04/03/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: ViacomCBS Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: VIAC
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: Regions Financial Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: RF
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: WPX Energy, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: WPX
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: Pfizer Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PFE
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Live Nation Entertainment, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: LYV
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: General Motors Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: GM
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: Corning Incorporated
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: GLW
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: SPDR S&amp;P 500 ETF Trust <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+    Traded Fund</div>
+  asset_type: Other Securities
+  comment: Transaction not required to be disclosed but disclosing anyway for full
+    transparency.
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SPY
+  transaction_date: 04/16/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: Vanguard FTSE Developed Markets Index Fund ETF Sha <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+    Traded Fund</div>
+  asset_type: Other Securities
+  comment: Transaction not required to be disclosed but disclosing anyway for full
+    transparency.
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: VEA
+  transaction_date: 04/16/2020
+  type: Purchase
+- amount: $100,001 - $250,000
+  asset_description: Vanguard S&amp;P 500 ETF <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+    Traded Fund</div>
+  asset_type: Other Securities
+  comment: Transaction not required to be disclosed but disclosing anyway for full
+    transparency.
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: VOO
+  transaction_date: 04/16/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: American Funds Capital Income Builder Class F-2
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: CAIFX
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Franklin Income Fund Advisor Class
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: FRIAX
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $250,001 - $500,000
+  asset_description: Alerian MLP ETF <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+    Traded Fund</div>
+  asset_type: Other Securities
+  comment: Transaction not required to be disclosed but disclosing anyway for transparency.
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: AMLP
+  transaction_date: 04/16/2020
+  type: Purchase
+- amount: $1,000,001 - $5,000,000
+  asset_description: SPDR S&amp;P 500 ETF Trust <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+    Traded Fund</div>
+  asset_type: Other Securities
+  comment: Transaction not required to be disclosed but disclosing anyway for transparency.
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SPY
+  transaction_date: 04/15/2020
+  type: Purchase
+- amount: $500,001 - $1,000,000
+  asset_description: SPDR S&amp;P 500 ETF Trust <div class="text-muted"><em>Description:</em>&nbsp;Exchange
+    Traded Fund</div>
+  asset_type: Other Securities
+  comment: Transaction not required to be disclosed but disclosing anyway for transparency
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SPY
+  transaction_date: 04/15/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Pembina Pipeline Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PBA
+  transaction_date: 04/07/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Enbridge Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ENB
+  transaction_date: 04/06/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: TC Energy Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: TRP
+  transaction_date: 04/06/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Oracle Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ORCL
+  transaction_date: 04/03/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: Crestwood Equity Partners LP
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: CEQP
+  transaction_date: 04/07/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Oracle Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ORCL
+  transaction_date: 04/09/2020
+  type: Sale (Partial)
+- amount: $1,001 - $15,000
+  asset_description: EQM Midstream Partners, LP
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: EQM
+  transaction_date: 04/13/2020
+  type: Sale (Partial)
+- amount: $50,001 - $100,000
+  asset_description: PepsiCo, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PEP
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: News Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: NWSA
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Oracle Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ORCL
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Chevron Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: CVX
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: NIKE, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: NKE
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Wells Fargo &amp; Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: WFC
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: JPMorgan Chase &amp; Co.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: JPM
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Bristol-Myers Squibb Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BMY
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Oracle Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ORCL
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: The Blackstone Group Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BX
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Berkshire Hathaway Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BRK-B
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $50,001 - $100,000
+  asset_description: Costco Wholesale Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: COST
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $50,001 - $100,000
+  asset_description: American Tower Corporation (REIT)
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: AMT
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Merck &amp; Co., Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MRK
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: Mastercard Incorporated
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MA
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Anthem, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ANTM
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: The Bank of New York Mellon Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BK
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: PayPal Holdings, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PYPL
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: AbbVie Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ABBV
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: Amazon.com, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: AMZN
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Cisco Systems, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: CSCO
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Extra Space Storage Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: EXR
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Baxter International Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BAX
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Exxon Mobil Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: XOM
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Stryker Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SYK
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: ConocoPhillips
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: COP
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Fox Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: FOX
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Cognizant Technology Solutions Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: CTSH
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Arcosa, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ACA
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: Apple Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: AAPL
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: Johnson &amp; Johnson
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: JNJ
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: The Walt Disney Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DIS
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Cisco Systems, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: CSCO
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Mondelez International, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MDLZ
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $50,001 - $100,000
+  asset_description: Bollore
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BOIVF
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Verizon Communications Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: VZ
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: U.S. Bancorp
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: USB
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Ralph Lauren Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: RL
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Wells Fargo &amp; Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: WFC
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Microsoft Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MSFT
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: State Street Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: STT
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: AMERCO
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: UHAL
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: The Coca-Cola Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: KO
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: EQM Midstream Partners, LP
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: EQM
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Bristol-Myers Squibb Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BMY
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Bank of America Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BAC
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Oracle Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ORCL
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Verizon Communications Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: VZ
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: PayPal Holdings, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PYPL
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Alphabet Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: GOOGL
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: NIKE, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: NKE
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Mondelez International, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MDLZ
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Altria Group, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MO
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: JPMorgan Chase &amp; Co.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: JPM
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Kinder Morgan, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: KMI
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Netflix, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: NFLX
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: HCA Healthcare, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: HCA
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Visa Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: V
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Prudential Financial, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PRU
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Emerson Electric Co.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: EMR
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Honeywell International Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: HON
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Extra Space Storage Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: EXR
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Cisco Systems, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: CSCO
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Costco Wholesale Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: COST
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Dow Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DOW
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Apple Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: AAPL
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $50,001 - $100,000
+  asset_description: Amazon.com, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: AMZN
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: The Walt Disney Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DIS
+  transaction_date: 04/14/2020
+  type: Sale (Partial)
+- amount: $15,001 - $50,000
+  asset_description: Booz Allen Hamilton Holding Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BAH
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Micron Technology, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MU
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Macy's, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: M
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Suncor Energy Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SU
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Chevron Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: CVX
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Alphabet Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: GOOG
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: First Hawaiian, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: FHB
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Booking Holdings Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BKNG
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: The Walt Disney Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DIS
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Fox Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: FOXA
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Huntsman Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: HUN
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: News Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: NWS
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: The Unilever Group
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: UN
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: MSC Industrial Direct Co., Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MSM
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Sysco Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SYY
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: The Procter &amp; Gamble Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PG
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: GrafTech International Ltd.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: EAF
+  transaction_date: 04/14/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Plains GP Holdings, L.P.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PAGP
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Phillips 66 Partners LP
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PSXP
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Sunoco LP
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SUN
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: TC PipeLines, LP
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: TCP
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Kinder Morgan, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: KMI
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: Enterprise Products Partners L.P.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: EPD
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Cheniere Energy, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: LNG
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: TC Energy Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: TRP
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Magellan Midstream Partners, L.P.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MMP
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: ONEOK, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: OKE
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Plains All American Pipeline, L.P.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PAA
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Enbridge Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ENB
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Pembina Pipeline Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PBA
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Shell Midstream Partners, L.P.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SHLX
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: The Williams Companies, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: WMB
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Targa Resources Corp.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: TRGP
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: MPLX LP
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MPLX
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Energy Transfer LP
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: ET
+  transaction_date: 04/15/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: The Walt Disney Company
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DIS
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: ConocoPhillips
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: COP
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: The Coca-Cola Company
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: KO
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: DuPont de Nemours, Inc.
+  asset_type: Stock
+  comment: Full sale from Wells Fargo account.
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: DD
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Citigroup Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: C
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: C.S-CITI 1/1000TH S PERPTL
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: --
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: The Home Depot, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: HD
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: General Mills, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: GIS
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Bristol-Myers Squibb Company
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BMY
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Caterpillar Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: CAT
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: BP p.l.c.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BP
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Apple Inc.
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: AAPL
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: AT&amp;T Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: T
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Aflac Incorporated
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: AFL
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: The Blackstone Group Inc.
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BX
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: The Boeing Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: BA
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Johnson &amp; Johnson
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: JNJ
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Truist Financial Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: TFC
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Sysco Corporation
+  asset_type: Stock
+  comment: Full sale of Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SYY
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: The Southern Company JR SUB NT 2015A
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SOJA
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: United Rentals, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: URI
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Wells Fargo &amp; Company
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: WFC
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Verizon Communications Inc.
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: VZ
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: The Southern Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: SO
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Merck &amp; Co., Inc.
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MRK
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: The Procter &amp; Gamble Company
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PG
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: JPMorgan Chase &amp; Co.
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: JPM
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Intel Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: INTC
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Eli Lilly and Company
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: LLY
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $50,001 - $100,000
+  asset_description: Microsoft Corporation
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: MSFT
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: PayPal Holdings, Inc.
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PYPL
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Philip Morris International Inc.
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: PM
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: NIKE, Inc.
+  asset_type: Stock
+  comment: Full sale from Wells Fargo Acct
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: NKE
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Norfolk Southern Corporation
+  asset_type: Stock
+  comment: --
+  owner: Joint
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bc6c5872-1fdd-4e99-857e-08b4ec2c85c8/
+  senator: David A Perdue , Jr
+  ticker: NSC
+  transaction_date: 04/16/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Federal Farm Credit Bk 3133EGU94 <div class="text-muted"><em>Rate/Coupon:</em>
+    2.300%<br> <em>Matures:</em> 12/14/2022</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ef8819eb-45c8-4ab3-addb-50fc3a7f9ddf/
+  senator: Susan M Collins
+  ticker: --
+  transaction_date: 09/19/2019
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Federal Farm Credit Bk 3133EKQ90 <div class="text-muted"><em>Rate/Coupon:</em>
+    2.000%<br> <em>Matures:</em> 09/23/2022</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ef8819eb-45c8-4ab3-addb-50fc3a7f9ddf/
+  senator: Susan M Collins
+  ticker: --
+  transaction_date: 09/18/2019
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: UBS Contingent Autocall Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+    8.1%<br> <em>Matures:</em> 12/30/2022</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e0862315-29f3-42d0-9ca7-9d660dbb1c0d/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 12/27/2019
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: UBS Contingent Autocall Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+    8.1%<br> <em>Matures:</em> 12/30/2022</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e0862315-29f3-42d0-9ca7-9d660dbb1c0d/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 12/27/2019
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Under Armour, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e0862315-29f3-42d0-9ca7-9d660dbb1c0d/
+  senator: Thomas R Carper
+  ticker: UAA
+  transaction_date: 12/17/2019
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Under Armour, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e0862315-29f3-42d0-9ca7-9d660dbb1c0d/
+  senator: Thomas R Carper
+  ticker: UA
+  transaction_date: 12/17/2019
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: BP p.l.c.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e0862315-29f3-42d0-9ca7-9d660dbb1c0d/
+  senator: Thomas R Carper
+  ticker: BP
+  transaction_date: 12/17/2019
+  type: Sale (Full)
+- amount: $1,001 - $15,000
+  asset_description: Invesco Pacific Growth A
+  asset_type: Other Securities
+  comment: --
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e0862315-29f3-42d0-9ca7-9d660dbb1c0d/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 12/16/2019
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: MS Contingent Autocall Intel <div class="text-muted"><em>Rate/Coupon:</em>
+    8.2%<br> <em>Matures:</em> 12/9/2022</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e0862315-29f3-42d0-9ca7-9d660dbb1c0d/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 12/06/2019
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: MS Contingent Autocall Intel <div class="text-muted"><em>Rate/Coupon:</em>
+    8.2%<br> <em>Matures:</em> 12/9/2022</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e0862315-29f3-42d0-9ca7-9d660dbb1c0d/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 12/06/2019
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: Boulder Growth &amp; Income Fund, Inc.
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9fd36476-cd7e-4635-88f2-4806e574e3e7/
+  senator: Roger F Wicker
+  ticker: BIF
+  transaction_date: 05/17/2019
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: The Gabelli Dividend &amp; Income Trust
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9fd36476-cd7e-4635-88f2-4806e574e3e7/
+  senator: Roger F Wicker
+  ticker: GDV
+  transaction_date: 05/17/2019
+  type: Sale (Full)
 - amount: $100,001 - $250,000
   asset_description: CP Kent Place Member LLC <div class="text-muted"> <em>Company:</em>
     CP Kent Place Member LLC &nbsp;(Denver, CO) </div> <div class="text-muted"><em>Description:</em>&nbsp;Holding
