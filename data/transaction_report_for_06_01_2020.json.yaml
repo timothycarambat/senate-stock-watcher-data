@@ -1,0 +1,23 @@
+- bioguide: C000174
+  date_recieved: 06/01/2020
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/338d0e16-a616-4e08-9302-dc37b941aa64/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: ACAP Strategic Fund
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XCAPX" target="_blank">XCAPX</a>
+    transaction_date: 05/28/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: PGIM Jennison Global Opportunities Fund-Class A
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PRJAX" target="_blank">PRJAX</a>
+    transaction_date: 05/21/2020
+    type: Sale (Full)

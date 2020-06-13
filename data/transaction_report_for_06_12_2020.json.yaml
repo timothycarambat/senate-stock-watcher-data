@@ -1,0 +1,169 @@
+- bioguide: S001217
+  date_recieved: 06/12/2020
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Metropolitan Nashville Airport Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 07/01/2036</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 06/02/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: City of Chicago Chicago O'Hare Intl Airport Revenue Bond <div
+      class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 01/01/2026</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 06/02/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Broward County Florida Airport Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 06/01/2020
+    type: Sale (Full)
+  - amount: $500,001 - $1,000,000
+    asset_description: City of Chicago Chicago O'Hare Intl Airport Revenue Bond <div
+      class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 01/01/2026</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/02/2020
+    type: Sale (Full)
+  - amount: $500,001 - $1,000,000
+    asset_description: Greater Orlando Aviation Authority Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2038</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/02/2020
+    type: Sale (Full)
+  - amount: $500,001 - $1,000,000
+    asset_description: Metropolitan Nashville Airport Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 07/01/2036</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/02/2020
+    type: Sale (Full)
+  - amount: $500,001 - $1,000,000
+    asset_description: Broward County Florida Airport Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/01/2020
+    type: Sale (Full)
+  - amount: $250,001 - $500,000
+    asset_description: City of Chicago Chicago O'Hare Intl Airport Revenue Bond <div
+      class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 01/01/2026</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/02/2020
+    type: Sale (Full)
+  - amount: $500,001 - $1,000,000
+    asset_description: Greater Orlando Aviation Authority Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2038</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/02/2020
+    type: Sale (Full)
+  - amount: $500,001 - $1,000,000
+    asset_description: Metropolitan Nashville Airport Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 07/01/2036</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/02/2020
+    type: Sale (Full)
+  - amount: $500,001 - $1,000,000
+    asset_description: Broward County Florida Airport Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/01/2020
+    type: Sale (Full)
+  - amount: $100,001 - $250,000
+    asset_description: Greater Orlando Aviation Authority Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2038</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/02/2020
+    type: Sale (Full)
+  - amount: $250,001 - $500,000
+    asset_description: Metropolitan Nashville Airport Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 07/01/2037</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/02/2020
+    type: Sale (Full)
+  - amount: $250,001 - $500,000
+    asset_description: Broward County Florida Airport Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2034</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/01/2020
+    type: Sale (Full)
+  - amount: $500,001 - $1,000,000
+    asset_description: New York City Transitional Finance Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 02/01/2041</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/13/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: New York City Transitional Finance Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 02/01/2041</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 05/13/2020
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: New York City Transitional Finance Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 02/01/2041</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/13/2020
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: New York City Transitional Finance Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 02/01/2041</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 05/13/2020
+    type: Purchase

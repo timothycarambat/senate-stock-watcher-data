@@ -1,3 +1,542 @@
+- amount: $100,001 - $250,000
+  asset_description: Metropolitan Nashville Airport Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 07/01/2036</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/02/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: City of Chicago Chicago O'Hare Intl Airport Revenue Bond <div
+    class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 01/01/2026</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/02/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: Broward County Florida Airport Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 10/01/2034</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/01/2020
+  type: Sale (Full)
+- amount: $500,001 - $1,000,000
+  asset_description: City of Chicago Chicago O'Hare Intl Airport Revenue Bond <div
+    class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 01/01/2026</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/02/2020
+  type: Sale (Full)
+- amount: $500,001 - $1,000,000
+  asset_description: Greater Orlando Aviation Authority Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 10/01/2038</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/02/2020
+  type: Sale (Full)
+- amount: $500,001 - $1,000,000
+  asset_description: Metropolitan Nashville Airport Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 07/01/2036</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/02/2020
+  type: Sale (Full)
+- amount: $500,001 - $1,000,000
+  asset_description: Broward County Florida Airport Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 10/01/2034</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/01/2020
+  type: Sale (Full)
+- amount: $250,001 - $500,000
+  asset_description: City of Chicago Chicago O'Hare Intl Airport Revenue Bond <div
+    class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 01/01/2026</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/02/2020
+  type: Sale (Full)
+- amount: $500,001 - $1,000,000
+  asset_description: Greater Orlando Aviation Authority Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 10/01/2038</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/02/2020
+  type: Sale (Full)
+- amount: $500,001 - $1,000,000
+  asset_description: Metropolitan Nashville Airport Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 07/01/2036</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/02/2020
+  type: Sale (Full)
+- amount: $500,001 - $1,000,000
+  asset_description: Broward County Florida Airport Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 10/01/2034</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/01/2020
+  type: Sale (Full)
+- amount: $100,001 - $250,000
+  asset_description: Greater Orlando Aviation Authority Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 10/01/2038</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/02/2020
+  type: Sale (Full)
+- amount: $250,001 - $500,000
+  asset_description: Metropolitan Nashville Airport Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 07/01/2037</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/02/2020
+  type: Sale (Full)
+- amount: $250,001 - $500,000
+  asset_description: Broward County Florida Airport Sys Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 10/01/2034</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 06/01/2020
+  type: Sale (Full)
+- amount: $500,001 - $1,000,000
+  asset_description: New York City Transitional Finance Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 02/01/2041</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 05/13/2020
+  type: Purchase
+- amount: $100,001 - $250,000
+  asset_description: New York City Transitional Finance Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 02/01/2041</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 05/13/2020
+  type: Purchase
+- amount: $500,001 - $1,000,000
+  asset_description: New York City Transitional Finance Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 02/01/2041</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 05/13/2020
+  type: Purchase
+- amount: $250,001 - $500,000
+  asset_description: New York City Transitional Finance Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+    5.0%<br> <em>Matures:</em> 02/01/2041</div>
+  asset_type: Municipal Security
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e3a4defa-79b2-4dd2-8ab5-9b17124c6e2f/
+  senator: Rick Scott
+  ticker: --
+  transaction_date: 05/13/2020
+  type: Purchase
+- amount: $250,001 - $500,000
+  asset_description: BetterCloud <div class="text-muted"> <em>Company:</em> BetterCloud
+    &nbsp;(New York, NY) </div> <div class="text-muted"><em>Description:</em>&nbsp;Cloud
+    Storage</div>
+  asset_type: Other Securities
+  comment: Underlying asset of New Amsterdam BC Investors, LLC
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4eedb755-716b-4b3d-9b5c-26bcca095138/
+  senator: Mark R Warner
+  ticker: --
+  transaction_date: 05/04/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: TripAdvisor, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: TRIP
+  transaction_date: 05/27/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: Marriott International, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: MAR
+  transaction_date: 05/27/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Marriott Vacations Worldwide Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: VAC
+  transaction_date: 05/27/2020
+  type: Purchase
+- amount: $100,001 - $250,000
+  asset_description: NVIDIA Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: NVDA
+  transaction_date: 05/26/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Marriott Vacations Worldwide Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: VAC
+  transaction_date: 05/26/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Alphabet Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: GOOG
+  transaction_date: 05/21/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: PayPal Holdings, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: PYPL
+  transaction_date: 05/20/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: Facebook, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: FB
+  transaction_date: 05/20/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Uber Technologies, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: UBER
+  transaction_date: 05/11/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Uber Technologies, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: UBER
+  transaction_date: 05/08/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Amazon.com, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: AMZN
+  transaction_date: 05/01/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Restaurant Brands International Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: QSR
+  transaction_date: 05/05/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: McDonald's Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: MCD
+  transaction_date: 05/05/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: Domino's Pizza, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: DPZ
+  transaction_date: 05/05/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Beyond Meat, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: BYND
+  transaction_date: 05/05/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Constellation Brands, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: STZ
+  transaction_date: 05/07/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: Match Group, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: MTCH
+  transaction_date: 05/07/2020
+  type: Purchase
+- amount: $50,001 - $100,000
+  asset_description: Ball Corporation
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: BLL
+  transaction_date: 05/07/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Berry Global Group, Inc.
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: BERY
+  transaction_date: 05/07/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: General Electric Company
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/42688977-19a1-49ce-8286-d3ad06e68187/
+  senator: Ron L Wyden
+  ticker: GE
+  transaction_date: 05/07/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: ACAP Strategic Fund
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/338d0e16-a616-4e08-9302-dc37b941aa64/
+  senator: Thomas R Carper
+  ticker: XCAPX
+  transaction_date: 05/28/2020
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: PGIM Jennison Global Opportunities Fund-Class A
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/338d0e16-a616-4e08-9302-dc37b941aa64/
+  senator: Thomas R Carper
+  ticker: PRJAX
+  transaction_date: 05/21/2020
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Surgical Information Sciences <div class="text-muted"> <em>Company:</em>
+    Surgical Information Sciences &nbsp;(Alpharetta, CA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Health
+    Management Systems</div>
+  asset_type: Other Securities
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/d6d82ed2-cdde-4953-9ac8-97566630a7a4/
+  senator: Tina Smith
+  ticker: --
+  transaction_date: 05/01/2020
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: BlackRock Science and Technology Trust II
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/389ee4d6-3c3f-4383-9311-315a74454c90/
+  senator: Thomas R Carper
+  ticker: BSTZ
+  transaction_date: 06/26/2019
+  type: Purchase
+- amount: $1,001 - $15,000
+  asset_description: BlackRock Science and Technology Trust II
+  asset_type: Stock
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/389ee4d6-3c3f-4383-9311-315a74454c90/
+  senator: Thomas R Carper
+  ticker: BSTZ
+  transaction_date: 06/26/2019
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+    3.0%<br> <em>Matures:</em> 06/21/2020</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/389ee4d6-3c3f-4383-9311-315a74454c90/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 06/21/2019
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
+    3.0%<br> <em>Matures:</em> 06/21/2020</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/389ee4d6-3c3f-4383-9311-315a74454c90/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 06/21/2019
+  type: Sale (Full)
+- amount: $15,001 - $50,000
+  asset_description: JPM Contingent Autocall on NVDA <div class="text-muted"><em>Rate/Coupon:</em>
+    12.1%<br> <em>Matures:</em> 06/18/2020</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/389ee4d6-3c3f-4383-9311-315a74454c90/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 06/14/2019
+  type: Purchase
+- amount: $15,001 - $50,000
+  asset_description: JPM Contingent Autocall on NVDA <div class="text-muted"><em>Rate/Coupon:</em>
+    12.1%<br> <em>Matures:</em> 06/18/2020</div>
+  asset_type: Corporate Bond
+  comment: --
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/389ee4d6-3c3f-4383-9311-315a74454c90/
+  senator: Thomas R Carper
+  ticker: --
+  transaction_date: 06/14/2019
+  type: Purchase
+- amount: $1,000,001 - $5,000,000
+  asset_description: Intercontinental Exchange, Inc.
+  asset_type: Stock
+  comment: Equity pursuant to the company he founded with predetermined dates (exercise
+    of stock options) pursuant to SEC Rule 10b5-1 plan filed with such company
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c4c59219-79bf-4035-8f99-7b6a0aa03f05/
+  senator: Kelly Loeffler
+  ticker: ICE
+  transaction_date: 05/20/2020
+  type: Purchase
+- amount: $5,000,001 - $25,000,000
+  asset_description: Intercontinental Exchange, Inc.
+  asset_type: Stock
+  comment: Equity pursuant to the company he founded with predetermined sale dates
+    pursuant to SEC Rule 10b5-1 plan filed with such company
+  owner: Spouse
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c4c59219-79bf-4035-8f99-7b6a0aa03f05/
+  senator: Kelly Loeffler
+  ticker: ICE
+  transaction_date: 05/20/2020
+  type: Sale (Partial)
+- amount: $1,000,001 - $5,000,000
+  asset_description: Intercontinental Exchange, Inc.
+  asset_type: Stock
+  comment: Equity compensation by former employer with predetermined sale dates pursuant
+    to SEC Rule 10b5-1 plan filed with such company
+  owner: Self
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c4c59219-79bf-4035-8f99-7b6a0aa03f05/
+  senator: Kelly Loeffler
+  ticker: ICE
+  transaction_date: 05/20/2020
+  type: Sale (Partial)
 - amount: $15,001 - $50,000
   asset_description: United Technologies Corp. (Exchanged) <br> Raytheon Company (Received)
   asset_type: Stock

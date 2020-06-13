@@ -19,6 +19,9 @@ def bioid(senator):
 
     for member in existing_members:
         print(member['name'])
+        if 'official_full' not in member['name'].keys():
+            member['name']['official_full'] = f"{member['name']['first']} {member['name']['last']}"
+
         if first_name in member['name']['official_full'].lower() and last_name in member['name']['official_full'].lower():
             return member['id']['bioguide']
 
@@ -52,7 +55,7 @@ def add_details_to_daily_reports():
         for senator in file_data:
             senator['bioguide'] = bioid(senator)
             if senator['bioguide'] == None:
-                print('FILED TO FIND ID FOR SENATOR')
+                print('FAILED TO FIND ID FOR SENATOR')
                 print(senator['first_name'])
                 print(senator['last_name'])
                 print(file)
@@ -69,7 +72,7 @@ def add_details_to_daily_agg():
     for senator in file_data:
         senator['bioguide'] = bioid(senator)
         if senator['bioguide'] == None:
-            print('FILED TO FIND ID FOR SENATOR')
+            print('FAILED TO FIND ID FOR SENATOR')
             print(senator['first_name'])
             print(senator['last_name'])
             print(file)
@@ -86,7 +89,7 @@ def add_details_to_senator_agg():
     for senator in file_data:
         senator['bioguide'] = bioid(senator)
         if senator['bioguide'] == None:
-            print('FILED TO FIND ID FOR SENATOR')
+            print('FAILED TO FIND ID FOR SENATOR')
             print(senator['first_name'])
             print(senator['last_name'])
             print(file)
