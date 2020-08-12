@@ -1,0 +1,17 @@
+- bioguide: S001181
+  date_recieved: 08/10/2020
+  first_name: Jeanne
+  last_name: Shaheen
+  office: Shaheen, Jeanne (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2e2d60b5-7f9d-43a8-8343-ddc2558d087c/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Vera Roasting Corporation <div class="text-muted"> <em>Company:</em>
+      Vera Roasting Corporation &nbsp;(Dover, NH) </div> <div class="text-muted"><em>Description:</em>&nbsp;Coffee
+      Company</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/07/2018
+    type: Purchase

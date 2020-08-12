@@ -1,0 +1,52 @@
+- bioguide: S001217
+  date_recieved: 07/13/2020
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/98fe5365-9847-440a-95d9-cc5a2be582de/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: King County Washington Sewer Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      0.875%<br> <em>Matures:</em> 01/01/2042</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 07/01/2020
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: King County Washington Sewer Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      0.875%<br> <em>Matures:</em> 01/01/2042</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 07/01/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: New York State Dorm Auth Personal Income Tax Revenue Bond <div
+      class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em> 03/15/2031</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 06/18/2020
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Ysleta Texas Independent School District Ref Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 08/15/2031</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/09/2020
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Ysleta Texas Independent School District Ref Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 08/15/2031</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 06/09/2020
+    type: Purchase

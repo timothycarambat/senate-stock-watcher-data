@@ -1,0 +1,55 @@
+- bioguide: R000307
+  date_recieved: 07/06/2020
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8be9d29a-c980-494e-b719-64794f213978/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 06/26/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Airlines Group Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAL" target="_blank">AAL</a>
+    transaction_date: 06/04/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Airlines Group Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAL" target="_blank">AAL</a>
+    transaction_date: 06/04/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 06/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Airlines Group Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAL" target="_blank">AAL</a>
+    transaction_date: 06/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 06/05/2020
+    type: Purchase

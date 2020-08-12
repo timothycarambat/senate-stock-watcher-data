@@ -1,0 +1,31 @@
+- bioguide: I000024
+  date_recieved: 07/24/2020
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9b11b917-572b-44ae-a8fa-b75d06276ecf/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 07/15/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 07/15/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Brookfield Asset Management Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BAM" target="_blank">BAM</a>
+    transaction_date: 06/29/2020
+    type: Sale (Partial)

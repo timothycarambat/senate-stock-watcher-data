@@ -1,0 +1,415 @@
+- bioguide: W000779
+  date_recieved: 07/02/2020
+  first_name: Ron L
+  last_name: Wyden
+  office: Wyden, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f4826329-8802-464c-b502-66165bc501c5/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 06/30/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 06/26/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 06/26/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 06/26/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 06/26/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 06/26/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 06/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 06/24/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Coupa Software Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COUP" target="_blank">COUP</a>
+    transaction_date: 06/24/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 06/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 06/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 06/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: iRobot Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IRBT" target="_blank">IRBT</a>
+    transaction_date: 06/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 06/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 06/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: PayPal Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PYPL" target="_blank">PYPL</a>
+    transaction_date: 06/24/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 06/23/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Applied Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMAT" target="_blank">AMAT</a>
+    transaction_date: 06/23/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Broadcom Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AVGO" target="_blank">AVGO</a>
+    transaction_date: 06/23/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Coupa Software Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COUP" target="_blank">COUP</a>
+    transaction_date: 06/23/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: 3M Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MMM" target="_blank">MMM</a>
+    transaction_date: 06/23/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 06/23/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Applied Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMAT" target="_blank">AMAT</a>
+    transaction_date: 06/17/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Coupa Software Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COUP" target="_blank">COUP</a>
+    transaction_date: 06/17/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 06/17/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: KLA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KLAC" target="_blank">KLAC</a>
+    transaction_date: 06/17/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 06/17/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 06/03/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Vulcan Materials Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VMC" target="_blank">VMC</a>
+    transaction_date: 06/04/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Constellation Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=STZ" target="_blank">STZ</a>
+    transaction_date: 06/04/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Royal Dutch Shell plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RDS-B" target="_blank">RDS-B</a>
+    transaction_date: 06/04/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: PayPal Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PYPL" target="_blank">PYPL</a>
+    transaction_date: 06/04/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Marriott International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MAR" target="_blank">MAR</a>
+    transaction_date: 06/04/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: KLA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KLAC" target="_blank">KLAC</a>
+    transaction_date: 06/04/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 06/04/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Broadcom Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AVGO" target="_blank">AVGO</a>
+    transaction_date: 06/04/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Vulcan Materials Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VMC" target="_blank">VMC</a>
+    transaction_date: 06/05/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: TripAdvisor, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TRIP" target="_blank">TRIP</a>
+    transaction_date: 06/05/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Marriott International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MAR" target="_blank">MAR</a>
+    transaction_date: 06/05/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 06/05/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 06/05/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Caterpillar Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CAT" target="_blank">CAT</a>
+    transaction_date: 06/05/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 06/05/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Applied Materials, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMAT" target="_blank">AMAT</a>
+    transaction_date: 06/05/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 06/12/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 06/12/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 06/12/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 06/12/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 06/12/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 06/02/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Berry Global Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BERY" target="_blank">BERY</a>
+    transaction_date: 06/02/2020
+    type: Purchase

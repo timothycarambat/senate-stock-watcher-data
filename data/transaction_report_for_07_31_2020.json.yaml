@@ -1,0 +1,245 @@
+- bioguide: W000779
+  date_recieved: 07/31/2020
+  first_name: Ron L
+  last_name: Wyden
+  office: Wyden, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e29a0a93-7153-42f3-97c5-e9f68fe47820/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Seagate Technology plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=STX" target="_blank">STX</a>
+    transaction_date: 07/02/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 07/02/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Seagate Technology plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=STX" target="_blank">STX</a>
+    transaction_date: 07/06/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 07/06/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 07/06/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: KLA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KLAC" target="_blank">KLAC</a>
+    transaction_date: 07/06/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 07/06/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 07/06/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: TripAdvisor, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TRIP" target="_blank">TRIP</a>
+    transaction_date: 07/07/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 07/13/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Caterpillar Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CAT" target="_blank">CAT</a>
+    transaction_date: 07/13/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 07/13/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ford Motor Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=F" target="_blank">F</a>
+    transaction_date: 07/13/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Oshkosh Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=OSK" target="_blank">OSK</a>
+    transaction_date: 07/13/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 07/15/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 07/20/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Oshkosh Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=OSK" target="_blank">OSK</a>
+    transaction_date: 07/20/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 07/23/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Alphabet Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOOG" target="_blank">GOOG</a>
+    transaction_date: 07/27/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Facebook, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FB" target="_blank">FB</a>
+    transaction_date: 07/27/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: iRobot Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IRBT" target="_blank">IRBT</a>
+    transaction_date: 07/27/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 07/27/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: D.R. Horton, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DHI" target="_blank">DHI</a>
+    transaction_date: 07/28/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Metropolitan Transn Auth NY Rev Bds Ser C <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 11/15/2020</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/13/2019
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Metropolitan Transn Auth NY Rev Bds Ser C <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 11/15/2020</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/11/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Metropolitan Transn Auth NY Rev Transn BDS C-1 <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 09/01/2020</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/18/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Metropolitan Transn Auth NY Rev Transn Rev Ser C <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 05/15/2020</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/24/2019
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Metropolitan Transn Auth NY Rev Bd Antic Nts B <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 05/15/2020</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/11/2019
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Suffolk Cnty NY Rev Antic Nts 2019 <div class="text-muted"><em>Rate/Coupon:</em>
+      2.0%<br> <em>Matures:</em> 03/20/2020</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/13/2019
+    type: Purchase

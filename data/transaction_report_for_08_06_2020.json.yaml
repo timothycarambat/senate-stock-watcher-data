@@ -1,0 +1,55 @@
+- bioguide: J000293
+  date_recieved: 08/06/2020
+  first_name: Ron
+  last_name: Johnson
+  office: Johnson, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f041eff0-ea51-489b-ab6d-f1c74261fd52/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Wisconsin St Hlth &amp; Edl <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 12/15/2023</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/20/2019
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 08/06/2020
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/92d8b9a3-8ec2-4bbd-aa60-eb68b70d149d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Nikola Corporation
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NKLA" target="_blank">NKLA</a>
+    transaction_date: 07/20/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Nikola Corporation
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NKLA" target="_blank">NKLA</a>
+    transaction_date: 07/09/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 07/07/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 07/07/2020
+    type: Purchase
