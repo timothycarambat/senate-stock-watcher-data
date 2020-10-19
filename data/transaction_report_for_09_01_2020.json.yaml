@@ -1,0 +1,96 @@
+- bioguide: C000174
+  date_recieved: 09/01/2020
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f0b85f0f-b240-40da-b15e-0caf27b58e1a/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Citigroup Fixed to Floater <div class="text-muted"><em>Rate/Coupon:</em>
+      3.6113%<br> <em>Matures:</em> 08/27/2020</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/27/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cohen &amp; Steers Limited Duration Preferred and Inco
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LDP" target="_blank">LDP</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Goldman Sachs Access Treasury 0-1 Year ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GBIL" target="_blank">GBIL</a>
+    transaction_date: 08/21/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Tencent Holdings Limited
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TCEHY" target="_blank">TCEHY</a>
+    transaction_date: 08/21/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Alexandria Real Estate Equities, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ARE" target="_blank">ARE</a>
+    transaction_date: 08/21/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: CyrusOne Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CONE" target="_blank">CONE</a>
+    transaction_date: 08/21/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR Gold Shares
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GLD" target="_blank">GLD</a>
+    transaction_date: 08/13/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: KraneShares CSI China Internet ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KWEB" target="_blank">KWEB</a>
+    transaction_date: 08/07/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cohen &amp; Steers Limited Duration Preferred and Inco
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LDP" target="_blank">LDP</a>
+    transaction_date: 08/06/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lord Abbett Ultra Short Bond Fund Class F
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LUBFX" target="_blank">LUBFX</a>
+    transaction_date: 08/06/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Goldman Sachs Access Treasury 0-1 Year ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GBIL" target="_blank">GBIL</a>
+    transaction_date: 08/06/2020
+    type: Sale (Partial)

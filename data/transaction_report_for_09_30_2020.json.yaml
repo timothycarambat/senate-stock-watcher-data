@@ -1,0 +1,183 @@
+- bioguide: R000307
+  date_recieved: 09/30/2020
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6f691f61-e375-42ab-af01-72da4328447c/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 09/04/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Walmart Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 09/04/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/17/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 09/14/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/11/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/09/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 09/04/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 09/04/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 09/04/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 09/04/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Beyond Meat, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BYND" target="_blank">BYND</a>
+    transaction_date: 09/04/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 09/04/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/03/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/02/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 09/01/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 09/04/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Wayfair Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=W" target="_blank">W</a>
+    transaction_date: 09/16/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: r
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/09/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Zoom Video Communications, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ZM" target="_blank">ZM</a>
+    transaction_date: 09/09/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 09/04/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 09/03/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/03/2020
+    type: Purchase

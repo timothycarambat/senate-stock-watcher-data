@@ -1,0 +1,23 @@
+- bioguide: C001075
+  date_recieved: 08/12/2020
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6344c706-fb65-45d7-8156-45689c043c22/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: T. Rowe Price Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TROW" target="_blank">TROW</a>
+    transaction_date: 07/15/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Prologis, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PLD" target="_blank">PLD</a>
+    transaction_date: 07/15/2020
+    type: Purchase

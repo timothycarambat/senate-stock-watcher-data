@@ -1,0 +1,71 @@
+- bioguide: C001075
+  date_recieved: 09/18/2020
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/bd6ad088-ad7f-48c7-a23f-58dd648c6200/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 08/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 08/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Lowe's Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LOW" target="_blank">LOW</a>
+    transaction_date: 08/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 08/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 08/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Comcast Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CMCSA" target="_blank">CMCSA</a>
+    transaction_date: 08/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 08/19/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 08/19/2020
+    type: Sale (Partial)

@@ -1,0 +1,111 @@
+- bioguide: S001217
+  date_recieved: 09/26/2020
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/39701819-7165-4d51-a3d0-47ba61e239d6/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: New York City Municipal Water Fin Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 06/15/2038</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 09/16/2020
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: New York City Municipal Water Fin Auth Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 06/15/2038</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/16/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: New York State Urban Development Corp Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 03/15/2037</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 09/16/2020
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: New York State Urban Development Corp Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 03/15/2037</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/16/2020
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: New York State Urban Development Corp Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 03/15/2037</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/16/2020
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: New York State Urban Development Corp Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 03/15/2037</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/16/2020
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: New York State Dorm Auth State Personal Income Tax Revenue
+      Bond <div class="text-muted"><em>Rate/Coupon:</em> 5.0%<br> <em>Matures:</em>
+      12/15/2027</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/03/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Ysleta Texas Independent School District Ref Bond (Exchanged)
+      <br> Ysleta Texas Independent School District Ref Bond (Received) <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 08/15/2031</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/27/2020
+    type: Exchange
+  - amount: $500,001 - $1,000,000
+    asset_description: Ysleta Texas Independent School District Ref Bond (Exchanged)
+      <br> Ysleta Texas Independent School District Ref Bond (Received) <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 08/15/2031</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/26/2020
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Ysleta Texas Independent School District Ref Bond (Exchanged)
+      <br> Ysleta Texas Independent School District Ref Bond (Received) <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 08/15/2031</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/27/2020
+    type: Exchange
+  - amount: $250,001 - $500,000
+    asset_description: Ysleta Texas Independent School District Ref Bond (Exchanged)
+      <br> Ysleta Texas Independent School District Ref Bond (Received) <div class="text-muted"><em>Rate/Coupon:</em>
+      4.0%<br> <em>Matures:</em> 08/15/2031</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/26/2020
+    type: Exchange

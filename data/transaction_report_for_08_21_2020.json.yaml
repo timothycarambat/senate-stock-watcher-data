@@ -1,0 +1,16 @@
+- bioguide: L000594
+  date_recieved: 08/21/2020
+  first_name: Kelly
+  last_name: Loeffler
+  office: Loeffler, Kelly (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f7037949-03a0-43de-b7e3-f458f0aeaa16/
+  transactions:
+  - amount: $5,000,001 - $25,000,000
+    asset_description: Intercontinental Exchange, Inc.
+    asset_type: Stock
+    comment: Equity pursuant to the company he founded with predetermined sale dates
+      pursuant to SEC Rule 10b5-1 plan filed with such company
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ICE" target="_blank">ICE</a>
+    transaction_date: 07/22/2020
+    type: Sale (Partial)

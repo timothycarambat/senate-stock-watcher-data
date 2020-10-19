@@ -1,0 +1,111 @@
+- bioguide: W000779
+  date_recieved: 09/24/2020
+  first_name: Ron L
+  last_name: Wyden
+  office: Wyden, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/272a44f0-e514-4d0a-993d-bc69316c77aa/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Wayfair Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=W" target="_blank">W</a>
+    transaction_date: 09/02/2020
+    type: Sale (Full)
+  - amount: $50,001 - $100,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 09/02/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Amazon.com, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMZN" target="_blank">AMZN</a>
+    transaction_date: 09/01/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 08/27/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Woodmark Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMWD" target="_blank">AMWD</a>
+    transaction_date: 08/27/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: iRobot Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IRBT" target="_blank">IRBT</a>
+    transaction_date: 08/26/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: United Parcel Service, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UPS" target="_blank">UPS</a>
+    transaction_date: 08/25/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: FedEx Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FDX" target="_blank">FDX</a>
+    transaction_date: 08/25/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Wayfair Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=W" target="_blank">W</a>
+    transaction_date: 08/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Square, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SQ" target="_blank">SQ</a>
+    transaction_date: 08/24/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: The Kroger Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KR" target="_blank">KR</a>
+    transaction_date: 08/24/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Clorox Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CLX" target="_blank">CLX</a>
+    transaction_date: 08/24/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: American Woodmark Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMWD" target="_blank">AMWD</a>
+    transaction_date: 08/24/2020
+    type: Purchase

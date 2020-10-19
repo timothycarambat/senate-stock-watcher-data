@@ -1,0 +1,31 @@
+- bioguide: W000779
+  date_recieved: 10/09/2020
+  first_name: Ron L
+  last_name: Wyden
+  office: Wyden, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7a16edce-2afd-47e6-bd0b-ba09dda254e9/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 09/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 09/14/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Netflix, Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NFLX" target="_blank">NFLX</a>
+    transaction_date: 09/23/2020
+    type: Sale (Full)

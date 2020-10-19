@@ -1,0 +1,16 @@
+- bioguide: K000383
+  date_recieved: 10/07/2020
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9054bb2c-2d54-4ea8-adef-f982a54ecd7a/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: MAINE STATE HSG AUTH REV <div class="text-muted"><em>Rate/Coupon:</em>
+      2.60%<br> <em>Matures:</em> 11/15/2022</div>
+    asset_type: Municipal Security
+    comment: REDEMPTION "CALLED"
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/28/2020
+    type: Sale (Full)

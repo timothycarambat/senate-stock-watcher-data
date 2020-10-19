@@ -1,0 +1,279 @@
+- bioguide: M000934
+  date_recieved: 09/08/2020
+  first_name: Jerry
+  last_name: 'Moran,  '
+  office: Moran, Jerry (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5809a671-cb5c-46c3-a6ec-35481814e274/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Visa Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Texas Instruments Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TXN" target="_blank">TXN</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Coca-Cola Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 08/21/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Allstate Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ALL" target="_blank">ALL</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AbbVie Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Kroger Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KR" target="_blank">KR</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Visa Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Texas Instruments Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TXN" target="_blank">TXN</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Royal Dutch Shell plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=RDS-B" target="_blank">RDS-B</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Occidental Petroleum Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=OXY" target="_blank">OXY</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Marathon Petroleum Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=MPC" target="_blank">MPC</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 08/21/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Coca-Cola Company
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KO" target="_blank">KO</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Berkshire Hathaway Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BRK-B" target="_blank">BRK-B</a>
+    transaction_date: 08/21/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 08/21/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: The Allstate Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ALL" target="_blank">ALL</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: AbbVie Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 08/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Kroger Co.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=KR" target="_blank">KR</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: U.S. Bancorp
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=USB" target="_blank">USB</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Johnson &amp; Johnson
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=JNJ" target="_blank">JNJ</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gilead Sciences, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=GILD" target="_blank">GILD</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Chevron Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CVX" target="_blank">CVX</a>
+    transaction_date: 08/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bank of America Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BAC" target="_blank">BAC</a>
+    transaction_date: 08/21/2020
+    type: Purchase
