@@ -3,21 +3,6 @@
   first_name: Daniel S
   last_name: Sullivan
   office: Sullivan, Dan (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6369d27e-cd94-49ef-8340-471a4d454344/
-  transactions:
-  - amount: $1,001 - $15,000
-    asset_description: RPM International Inc.
-    asset_type: Stock
-    comment: Filer notified of transaction &gt;45 days after it occurred.
-    owner: Joint
-    ticker: <a href="https://finance.yahoo.com/q?s=RPM" target="_blank">RPM</a>
-    transaction_date: 03/28/2018
-    type: Sale (Partial)
-- bioguide: S001198
-  date_recieved: 07/24/2018
-  first_name: Daniel S
-  last_name: Sullivan
-  office: Sullivan, Dan (Senator)
   ptr_link: https://efdsearch.senate.gov/search/view/ptr/033d040a-4fe0-4d8e-a37e-355a174d0b52/
   transactions:
   - amount: $1,001 - $15,000
@@ -27,4 +12,19 @@
     owner: Joint
     ticker: <a href="https://finance.yahoo.com/q?s=RPM" target="_blank">RPM</a>
     transaction_date: 05/22/2018
+    type: Sale (Partial)
+- bioguide: S001198
+  date_recieved: 07/24/2018
+  first_name: Daniel S
+  last_name: Sullivan
+  office: Sullivan, Dan (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6369d27e-cd94-49ef-8340-471a4d454344/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: RPM International Inc.
+    asset_type: Stock
+    comment: Filer notified of transaction &gt;45 days after it occurred.
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=RPM" target="_blank">RPM</a>
+    transaction_date: 03/28/2018
     type: Sale (Partial)

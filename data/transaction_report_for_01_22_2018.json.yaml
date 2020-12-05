@@ -1,1 +1,25 @@
-[]
+- bioguide: K000383
+  date_recieved: 01/22/2018
+  first_name: Angus S
+  last_name: King, Jr.
+  office: King, Angus (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6b243106-441e-4811-bdb5-067dfee76697/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: MAINE STATE HSG AUTH <div class="text-muted"><em>Rate/Coupon:</em>
+      2.45%<br> <em>Matures:</em> 11/15/2025</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/05/2017
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: MAINE STATE HSG AUTH <div class="text-muted"><em>Rate/Coupon:</em>
+      2.25%<br> <em>Matures:</em> 11/15/2024</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/05/2017
+    type: Purchase

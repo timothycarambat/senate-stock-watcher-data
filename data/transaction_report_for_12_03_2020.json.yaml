@@ -1,0 +1,119 @@
+- bioguide: R000307
+  date_recieved: 12/03/2020
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b7e581e7-f154-4dc7-890d-1c827c88ba7a/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 11/16/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Visa Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 11/16/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 11/24/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 11/04/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 11/09/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: msft
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/11/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 11/04/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Wayfair Inc.
+    asset_type: Stock
+    comment: R
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=W" target="_blank">W</a>
+    transaction_date: 11/17/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Delta Air Lines, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DAL" target="_blank">DAL</a>
+    transaction_date: 11/16/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Walmart Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/16/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/10/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: aapl
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/09/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: ba
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/09/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: zm
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/04/2020
+    type: Sale (Full)

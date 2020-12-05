@@ -3,21 +3,6 @@
   first_name: James M
   last_name: Inhofe
   office: Inhofe, James M. (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6ecc3980-ea32-49d4-9798-c4d4294c08a0/
-  transactions:
-  - amount: $50,001 - $100,000
-    asset_description: CSX Corp.
-    asset_type: Stock
-    comment: --
-    owner: Self
-    ticker: <a href="https://finance.yahoo.com/q?s=CSX" target="_blank">CSX</a>
-    transaction_date: 10/12/2016
-    type: Sale (Full)
-- bioguide: I000024
-  date_recieved: 10/20/2016
-  first_name: James M
-  last_name: Inhofe
-  office: Inhofe, James M. (Senator)
   ptr_link: https://efdsearch.senate.gov/search/view/ptr/a6060596-1887-4f3b-9650-d07aab2e54d4/
   transactions:
   - amount: $50,001 - $100,000
@@ -51,3 +36,18 @@
     ticker: <a href="https://finance.yahoo.com/q?s=AGN" target="_blank">AGN</a>
     transaction_date: 09/13/2016
     type: Purchase
+- bioguide: I000024
+  date_recieved: 10/20/2016
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/6ecc3980-ea32-49d4-9798-c4d4294c08a0/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: CSX Corp.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CSX" target="_blank">CSX</a>
+    transaction_date: 10/12/2016
+    type: Sale (Full)

@@ -18,21 +18,6 @@
   first_name: Pat
   last_name: Roberts
   office: Roberts, Pat (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/54fa98b1-ffd7-4669-ac68-be79afd4c709/
-  transactions:
-  - amount: $1,001 - $15,000
-    asset_description: aapl
-    asset_type: Stock
-    comment: sep
-    owner: Spouse
-    ticker: --
-    transaction_date: 08/25/2015
-    type: Purchase
-- bioguide: R000307
-  date_recieved: 12/09/2015
-  first_name: Pat
-  last_name: Roberts
-  office: Roberts, Pat (Senator)
   ptr_link: https://efdsearch.senate.gov/search/view/ptr/51969f7c-4aaf-4fa9-93a1-21545ee7d423/
   transactions:
   - amount: $1,001 - $15,000
@@ -51,6 +36,21 @@
     ticker: --
     transaction_date: 11/04/2015
     type: Sale (Full)
+- bioguide: R000307
+  date_recieved: 12/09/2015
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/54fa98b1-ffd7-4669-ac68-be79afd4c709/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: aapl
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: --
+    transaction_date: 08/25/2015
+    type: Purchase
 - bioguide: R000307
   date_recieved: 12/09/2015
   first_name: Pat

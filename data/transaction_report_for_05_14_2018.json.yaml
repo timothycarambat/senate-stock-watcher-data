@@ -3,6 +3,40 @@
   first_name: Shelley M
   last_name: Capito
   office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9e8c8d32-39da-4bb6-9b6e-8f5be4a29897/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Spectra Energy Corporation (Exchanged) <br> Enbridge Inc. (Received)
+    asset_type: Stock
+    comment: Spectra Energy Corp merged into Enbridge, Inc. on February 27, 2017
+    owner: Spouse
+    ticker: --                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=ENB" target="_blank">ENB</a>
+    transaction_date: 02/27/2017
+    type: Exchange
+- bioguide: C001047
+  date_recieved: 05/14/2018
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/27dda4bd-c665-48e0-be5c-e1c3cb0f78db/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Seventy Seven Energy, Inc (Exchanged) <br> Patterson-UTI Energy,
+      Inc. (Received)
+    asset_type: Stock
+    comment: Seventy Seven Energy, inc was merged into Patterson-UTI Energy on April
+      20, 2017
+    owner: Spouse
+    ticker: --                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=PTEN" target="_blank">PTEN</a>
+    transaction_date: 04/20/2017
+    type: Exchange
+- bioguide: C001047
+  date_recieved: 05/14/2018
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
   ptr_link: https://efdsearch.senate.gov/search/view/ptr/b17ecfe5-f246-4f4c-bf2f-4f1dd4c35539/
   transactions:
   - amount: $1,001 - $15,000
@@ -845,40 +879,6 @@
     ticker: <a href="https://finance.yahoo.com/q?s=MDLZ" target="_blank">MDLZ</a>
     transaction_date: 04/04/2018
     type: Purchase
-- bioguide: C001047
-  date_recieved: 05/14/2018
-  first_name: Shelley M
-  last_name: Capito
-  office: Capito, Shelley Moore (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/27dda4bd-c665-48e0-be5c-e1c3cb0f78db/
-  transactions:
-  - amount: $1,001 - $15,000
-    asset_description: Seventy Seven Energy, Inc (Exchanged) <br> Patterson-UTI Energy,
-      Inc. (Received)
-    asset_type: Stock
-    comment: Seventy Seven Energy, inc was merged into Patterson-UTI Energy on April
-      20, 2017
-    owner: Spouse
-    ticker: --                                                                                                                            <br>                                            <a
-      href="https://finance.yahoo.com/q?s=PTEN" target="_blank">PTEN</a>
-    transaction_date: 04/20/2017
-    type: Exchange
-- bioguide: C001047
-  date_recieved: 05/14/2018
-  first_name: Shelley M
-  last_name: Capito
-  office: Capito, Shelley Moore (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9e8c8d32-39da-4bb6-9b6e-8f5be4a29897/
-  transactions:
-  - amount: $1,001 - $15,000
-    asset_description: Spectra Energy Corporation (Exchanged) <br> Enbridge Inc. (Received)
-    asset_type: Stock
-    comment: Spectra Energy Corp merged into Enbridge, Inc. on February 27, 2017
-    owner: Spouse
-    ticker: --                                                                                                                            <br>                                            <a
-      href="https://finance.yahoo.com/q?s=ENB" target="_blank">ENB</a>
-    transaction_date: 02/27/2017
-    type: Exchange
 - bioguide: C001035
   date_recieved: 05/14/2018
   first_name: Susan M

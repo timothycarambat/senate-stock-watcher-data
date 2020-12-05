@@ -14,18 +14,3 @@
     ticker: --
     transaction_date: 10/30/2017
     type: Purchase
-- bioguide: T000461
-  date_recieved: 11/30/2017
-  first_name: Patrick J
-  last_name: Toomey
-  office: Toomey, Pat (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3073357f-338e-4f4f-b3eb-5c0feabcfa74/
-  transactions:
-  - amount: $15,001 - $50,000
-    asset_description: The Procter &amp; Gamble Company
-    asset_type: Stock
-    comment: --
-    owner: Joint
-    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
-    transaction_date: 06/09/2016
-    type: Sale (Partial)

@@ -36,29 +36,6 @@
     ticker: <a href="https://finance.yahoo.com/q?s=APTV" target="_blank">APTV</a>
     transaction_date: 11/16/2018
     type: Sale (Partial)
-- bioguide: I000024
-  date_recieved: 12/12/2018
-  first_name: James M
-  last_name: Inhofe
-  office: Inhofe, James M. (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ddf06dcd-abf8-4537-a9c6-96e1fc3f2408/
-  transactions:
-  - amount: $15,001 - $50,000
-    asset_description: Celgene Corporation
-    asset_type: Stock
-    comment: --
-    owner: Self
-    ticker: <a href="https://finance.yahoo.com/q?s=CELG" target="_blank">CELG</a>
-    transaction_date: 11/16/2018
-    type: Sale (Partial)
-  - amount: $15,001 - $50,000
-    asset_description: Aptiv PLC
-    asset_type: Stock
-    comment: --
-    owner: Self
-    ticker: <a href="https://finance.yahoo.com/q?s=APTV" target="_blank">APTV</a>
-    transaction_date: 11/16/2018
-    type: Sale (Partial)
 - bioguide: R000120
   date_recieved: 12/12/2018
   first_name: John F

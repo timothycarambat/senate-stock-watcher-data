@@ -1,15 +1,1 @@
-- bioguide: D000618
-  date_recieved: 06/15/2018
-  first_name: Steve
-  last_name: Daines
-  office: Daines, Steve (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f78374ac-8a55-4e51-bf19-3ccc27a88c4e/
-  transactions:
-  - amount: $15,001 - $50,000
-    asset_description: Bridger Technologies, Inc.
-    asset_type: Stock
-    comment: --
-    owner: Joint
-    ticker: --
-    transaction_date: 06/02/2017
-    type: Sale (Full)
+[]

@@ -1,0 +1,512 @@
+- bioguide: B001277
+  date_recieved: 12/02/2020
+  first_name: 'RICHARD '
+  last_name: BLUMENTHAL
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/2a123633-1454-49ff-8c3b-c4028372a119/
+  transactions: []
+- bioguide: C000174
+  date_recieved: 12/02/2020
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/35aec3a8-60a7-4f06-bae3-3b202949e5e5/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: ACAP STRAGIC INTERVAL
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/30/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: OWENS &amp; MINOR <div class="text-muted"><em>Rate/Coupon:</em>
+      3.875%<br> <em>Matures:</em> 09/15/2021</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/30/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: OWENS &amp; MINOR <div class="text-muted"><em>Rate/Coupon:</em>
+      3.875%<br> <em>Matures:</em> 09/15/2021</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/30/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Visa Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=V" target="_blank">V</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: QUALCOMM Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=QCOM" target="_blank">QCOM</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Synopsys, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SNPS" target="_blank">SNPS</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Barrick Gold Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GOLD" target="_blank">GOLD</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Omega Healthcare Investors, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=OHI" target="_blank">OHI</a>
+    transaction_date: 11/20/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Western Asset Inflation-Linked Opportunities &amp; Inc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WIW" target="_blank">WIW</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Telefonaktiebolaget LM Ericsson (publ)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ERIC" target="_blank">ERIC</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ALPS Medical Breakthroughs ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBIO" target="_blank">SBIO</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Alexandria Real Estate Equities, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ARE" target="_blank">ARE</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lazard Global Total Return and Income Fund, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LGI" target="_blank">LGI</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Abbey Capital Futures Strategy Fund Class I
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ABYIX" target="_blank">ABYIX</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Marvell Technology Group Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MRVL" target="_blank">MRVL</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bruker Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BRKR" target="_blank">BRKR</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ManTech International Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MANT" target="_blank">MANT</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ACI Worldwide, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ACIW" target="_blank">ACIW</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Skyworks Solutions, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SWKS" target="_blank">SWKS</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Nuance Communications, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NUAN" target="_blank">NUAN</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Aerojet Rocketdyne Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AJRD" target="_blank">AJRD</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pacer Benchmark Data &amp; Infrastructure Real Estate
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SRVR" target="_blank">SRVR</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CyrusOne Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CONE" target="_blank">CONE</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Sprott Physical Gold and Silver Trust
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CEF" target="_blank">CEF</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: WW International, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WW" target="_blank">WW</a>
+    transaction_date: 11/20/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: SPDR S&amp;P Aerospace &amp; Defense ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XAR" target="_blank">XAR</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: SPDR Gold Shares
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GLD" target="_blank">GLD</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Genmab A/S
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GMAB" target="_blank">GMAB</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Booz Allen Hamilton Holding Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BAH" target="_blank">BAH</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Cohen &amp; Steers Limited Duration Preferred and Inco
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LDP" target="_blank">LDP</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: AbbVie Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ABBV" target="_blank">ABBV</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: First Trust Dow Jones Internet Index Fund
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FDN" target="_blank">FDN</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Hanesbrands Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HBI" target="_blank">HBI</a>
+    transaction_date: 11/20/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Activision Blizzard, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ATVI" target="_blank">ATVI</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Fortinet, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FTNT" target="_blank">FTNT</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: VanEck Vectors Retail ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RTH" target="_blank">RTH</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Intellia Therapeutics, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NTLA" target="_blank">NTLA</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Hartford Multifactor Developed Markets (ex-US) ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RODM" target="_blank">RODM</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pacer Trendpilot US Large Cap ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PTLC" target="_blank">PTLC</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pacer Trendpilot 100 ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PTNQ" target="_blank">PTNQ</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pacer Trendpilot US Mid Cap ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PTMC" target="_blank">PTMC</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: WisdomTree U.S. SmallCap Quality Dividend Growth F
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DGRS" target="_blank">DGRS</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Maxar Technologies Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MAXR" target="_blank">MAXR</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Arena Pharmaceuticals, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ARNA" target="_blank">ARNA</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Goldman Sachs Access Treasury 0-1 Year ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GBIL" target="_blank">GBIL</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Keysight Technologies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=KEYS" target="_blank">KEYS</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: PagSeguro Digital Ltd.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PAGS" target="_blank">PAGS</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Corteva, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CTVA" target="_blank">CTVA</a>
+    transaction_date: 11/20/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Viavi Solutions Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VIAV" target="_blank">VIAV</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Silvergate Capital Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SI" target="_blank">SI</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: CrowdStrike Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CRWD" target="_blank">CRWD</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 11/20/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Dow Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DOW" target="_blank">DOW</a>
+    transaction_date: 11/20/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Datadog, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DDOG" target="_blank">DDOG</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: EVO Payments, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EVOP" target="_blank">EVOP</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 11/20/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Corning Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GLW" target="_blank">GLW</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Halliburton Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=HAL" target="_blank">HAL</a>
+    transaction_date: 11/20/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Pan American Silver Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PAAS" target="_blank">PAAS</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Thermo Fisher Scientific Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TMO" target="_blank">TMO</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Lord Abbett Ultra Short Bond Fund Class F
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LUBFX" target="_blank">LUBFX</a>
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Rio Tinto Group
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RIO" target="_blank">RIO</a>
+    transaction_date: 11/16/2020
+    type: Purchase

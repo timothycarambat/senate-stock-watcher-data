@@ -1,0 +1,15 @@
+- bioguide: W000779
+  date_recieved: 12/04/2020
+  first_name: Ron L
+  last_name: Wyden
+  office: Wyden, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a0010f4a-c31a-4824-8b6d-6399b3ccb6f0/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Beyond Meat, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BYND" target="_blank">BYND</a>
+    transaction_date: 11/10/2020
+    type: Sale (Full)

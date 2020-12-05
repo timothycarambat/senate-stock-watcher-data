@@ -3,45 +3,6 @@
   first_name: John
   last_name: Hoeven
   office: Hoeven, John (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/9b76f720-181f-496f-aed1-9f22805876e8/
-  transactions:
-  - amount: $1,001 - $15,000
-    asset_description: Weight Watchers International, Inc.
-    asset_type: Stock
-    comment: --
-    owner: Spouse
-    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
-    transaction_date: 12/21/2017
-    type: Purchase
-  - amount: $1,001 - $15,000
-    asset_description: Weight Watchers International, Inc.
-    asset_type: Stock
-    comment: --
-    owner: Spouse
-    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
-    transaction_date: 12/21/2017
-    type: Purchase
-  - amount: $15,001 - $50,000
-    asset_description: Weight Watchers International, Inc.
-    asset_type: Stock
-    comment: --
-    owner: Spouse
-    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
-    transaction_date: 01/19/2018
-    type: Sale (Full)
-  - amount: $15,001 - $50,000
-    asset_description: Weight Watchers International, Inc.
-    asset_type: Stock
-    comment: --
-    owner: Spouse
-    ticker: <a href="https://finance.yahoo.com/q?s=WTW" target="_blank">WTW</a>
-    transaction_date: 11/07/2018
-    type: Purchase
-- bioguide: H001061
-  date_recieved: 05/08/2019
-  first_name: John
-  last_name: Hoeven
-  office: Hoeven, John (Senator)
   ptr_link: https://efdsearch.senate.gov/search/view/ptr/654577b9-4028-4cfa-bb47-c961a41f2b1b/
   transactions:
   - amount: $1,001 - $15,000

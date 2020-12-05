@@ -1,0 +1,33 @@
+- bioguide: C001035
+  date_recieved: 11/11/2020
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a5290af9-921b-4ff6-89f8-a9e67afca49a/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Federal Farm Credit Bank 3133EMBH4 <div class="text-muted"><em>Rate/Coupon:</em>
+      0.530%<br> <em>Matures:</em> 09/29/2025</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/08/2020
+    type: Purchase
+- bioguide: W000805
+  date_recieved: 11/11/2020
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/83fef034-a45e-4231-a63c-2ac7724db8e2/
+  transactions:
+  - amount: $1,000,001 - $5,000,000
+    asset_description: EMSG LLC <div class="text-muted"> <em>Company:</em> EMSG LLC
+      &nbsp;(Rockville, MD) </div> <div class="text-muted"><em>Description:</em>&nbsp;Secured
+      Debt</div>
+    asset_type: Other Securities
+    comment: Underlying asset of TZG-Sachs Empire LLC
+    owner: Self
+    ticker: --
+    transaction_date: 10/27/2020
+    type: Sale (Full)

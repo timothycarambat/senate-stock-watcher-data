@@ -1,0 +1,31 @@
+- bioguide: W000802
+  date_recieved: 10/27/2020
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7246e5b3-88d3-49b0-8c41-946dbf1cbba2/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Chubb Limited
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=CB" target="_blank">CB</a>
+    transaction_date: 09/09/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Trane Technologies plc
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=TT" target="_blank">TT</a>
+    transaction_date: 09/30/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Trane Technologies plc
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=TT" target="_blank">TT</a>
+    transaction_date: 09/30/2020
+    type: Sale (Full)

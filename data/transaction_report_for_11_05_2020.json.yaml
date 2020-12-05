@@ -1,0 +1,23 @@
+- bioguide: R000307
+  date_recieved: 11/05/2020
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e0765bf5-fe1d-4340-b00d-925cf1782fea/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Best Buy Co., Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BBY" target="_blank">BBY</a>
+    transaction_date: 10/13/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Novavax, Inc.
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVAX" target="_blank">NVAX</a>
+    transaction_date: 10/13/2020
+    type: Sale (Full)

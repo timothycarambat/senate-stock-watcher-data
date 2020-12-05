@@ -1,0 +1,31 @@
+- bioguide: C000174
+  date_recieved: 11/02/2020
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b56343cd-5fdf-41ea-a5f7-dcbf810d3b23/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: iShares Core S&amp;P Small-Cap ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IJR" target="_blank">IJR</a>
+    transaction_date: 10/30/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: GMSYX - GOLDMAN SACHS SM MD CAP GROWTH I
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: GMSYX - GOLDMAN SACHS SM MD CAP GROWTH I
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 10/30/2020
+    type: Purchase

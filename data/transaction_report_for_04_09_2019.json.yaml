@@ -3,56 +3,6 @@
   first_name: Thomas R
   last_name: Carper
   office: Carper, Thomas R. (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2ae1f15e-73c5-40ea-bff7-28aecdbeb585/
-  transactions:
-  - amount: $15,001 - $50,000
-    asset_description: Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
-      3.0%<br> <em>Matures:</em> 06/21/2019</div>
-    asset_type: Corporate Bond
-    comment: --
-    owner: Spouse
-    ticker: --
-    transaction_date: 12/19/2018
-    type: Purchase
-  - amount: $15,001 - $50,000
-    asset_description: Bank of America <div class="text-muted"><em>Rate/Coupon:</em>
-      3.0%<br> <em>Matures:</em> 06/21/2019</div>
-    asset_type: Corporate Bond
-    comment: --
-    owner: Spouse
-    ticker: --
-    transaction_date: 12/19/2018
-    type: Purchase
-  - amount: $1,001 - $15,000
-    asset_description: Invesco Pacific Growth A
-    asset_type: Other Securities
-    comment: --
-    owner: Self
-    ticker: --
-    transaction_date: 12/17/2018
-    type: Purchase
-  - amount: $15,001 - $50,000
-    asset_description: Goldman Sachs <div class="text-muted"><em>Rate/Coupon:</em>
-      4.5%<br> <em>Matures:</em> 12/15/2018</div>
-    asset_type: Corporate Bond
-    comment: --
-    owner: Spouse
-    ticker: --
-    transaction_date: 12/17/2018
-    type: Sale (Full)
-  - amount: $1,001 - $15,000
-    asset_description: Compass Materials
-    asset_type: Stock
-    comment: --
-    owner: Spouse
-    ticker: --
-    transaction_date: 12/10/2018
-    type: Sale (Full)
-- bioguide: C000174
-  date_recieved: 04/09/2019
-  first_name: Thomas R
-  last_name: Carper
-  office: Carper, Thomas R. (Senator)
   ptr_link: https://efdsearch.senate.gov/search/view/ptr/61f45eac-be7d-4441-a2c0-1fe36d2cff9b/
   transactions:
   - amount: $1,001 - $15,000

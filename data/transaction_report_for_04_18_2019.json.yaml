@@ -3,21 +3,6 @@
   first_name: Thomas
   last_name: Udall
   office: Udall, Tom (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c4d18b4c-1474-49db-a057-e1fcb6d96251/
-  transactions:
-  - amount: $15,001 - $50,000
-    asset_description: General Electric Company
-    asset_type: Stock
-    comment: --
-    owner: Joint
-    ticker: <a href="https://finance.yahoo.com/q?s=GE" target="_blank">GE</a>
-    transaction_date: 12/18/2018
-    type: Sale (Full)
-- bioguide: U000039
-  date_recieved: 04/18/2019
-  first_name: Thomas
-  last_name: Udall
-  office: Udall, Tom (Senator)
   ptr_link: https://efdsearch.senate.gov/search/view/ptr/debe3c76-c386-42a7-85f9-8e15e85d490b/
   transactions:
   - amount: $1,001 - $15,000

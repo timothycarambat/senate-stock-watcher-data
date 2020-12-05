@@ -1,0 +1,55 @@
+- bioguide: W000779
+  date_recieved: 11/16/2020
+  first_name: Ron L
+  last_name: Wyden
+  office: Wyden, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/4e013e86-56bf-4a73-90ea-d7badba4ac9b/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 10/16/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Workday, Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=WDAY" target="_blank">WDAY</a>
+    transaction_date: 10/16/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 10/16/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Workday, Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=WDAY" target="_blank">WDAY</a>
+    transaction_date: 10/16/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 10/16/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Workday, Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=WDAY" target="_blank">WDAY</a>
+    transaction_date: 10/16/2020
+    type: Purchase

@@ -1,3 +1,10 @@
+- bioguide: B001236
+  date_recieved: 09/08/2020
+  first_name: 'JOHN '
+  last_name: BOOZMAN
+  office: Senator
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/19b4badb-691c-451d-90a1-5f8e68c3750d/
+  transactions: []
 - bioguide: M000934
   date_recieved: 09/08/2020
   first_name: Jerry

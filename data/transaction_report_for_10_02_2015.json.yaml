@@ -3,57 +3,6 @@
   first_name: Thomas R
   last_name: Carper
   office: Carper, Thomas R. (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/eaf30e17-3ed0-455b-b63e-6b6d7341bea5/
-  transactions:
-  - amount: $1,001 - $15,000
-    asset_description: DuPont EI de Nemours &amp; Co
-    asset_type: Stock
-    comment: --
-    owner: Spouse
-    ticker: --
-    transaction_date: 03/13/2015
-    type: Purchase
-  - amount: $1,001 - $15,000
-    asset_description: MS Contingent Autocall Apple Computer <div class="text-muted"><em>Rate/Coupon:</em>
-      12.7%<br> <em>Matures:</em> 12/29/2017</div>
-    asset_type: Corporate Bond
-    comment: --
-    owner: Spouse
-    ticker: --
-    transaction_date: 03/31/2015
-    type: Sale (Full)
-  - amount: $1,001 - $15,000
-    asset_description: MS Contingent Autocall Marathon Petroleum <div class="text-muted"><em>Rate/Coupon:</em>
-      9.5%<br> <em>Matures:</em> 03/23/2018</div>
-    asset_type: Corporate Bond
-    comment: --
-    owner: Spouse
-    ticker: --
-    transaction_date: 03/20/2015
-    type: Purchase
-  - amount: $1,001 - $15,000
-    asset_description: HSBC Contingent Autocall Valero Energy <div class="text-muted"><em>Rate/Coupon:</em>
-      9.3%<br> <em>Matures:</em> 06/18/2015</div>
-    asset_type: Corporate Bond
-    comment: --
-    owner: Spouse
-    ticker: --
-    transaction_date: 03/18/2015
-    type: Sale (Full)
-  - amount: $1,001 - $15,000
-    asset_description: UBS Contingent Autocall Terex <div class="text-muted"><em>Rate/Coupon:</em>
-      11.2%<br> <em>Matures:</em> 03/11/2015</div>
-    asset_type: Corporate Bond
-    comment: --
-    owner: Spouse
-    ticker: --
-    transaction_date: 03/11/2015
-    type: Sale (Full)
-- bioguide: C000174
-  date_recieved: 10/02/2015
-  first_name: Thomas R
-  last_name: Carper
-  office: Carper, Thomas R. (Senator)
   ptr_link: https://efdsearch.senate.gov/search/view/ptr/b7b47a67-051c-4a4f-99de-1b6e60b517bb/
   transactions:
   - amount: $15,001 - $50,000

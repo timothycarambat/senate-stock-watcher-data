@@ -1,0 +1,16 @@
+- bioguide: S001217
+  date_recieved: 10/23/2020
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/abb66306-3276-4a3e-acd6-698cf63e71d4/
+  transactions:
+  - amount: $500,001 - $1,000,000
+    asset_description: New York St Dorm Auth Sales Tax Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 03/15/2036</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 09/18/2020
+    type: Purchase

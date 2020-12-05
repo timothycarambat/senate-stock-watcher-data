@@ -3,31 +3,6 @@
   first_name: Shelley M
   last_name: Capito
   office: Capito, Shelley Moore (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8ecb444e-a54c-47a1-8db4-f4b05ac70b9d/
-  transactions:
-  - amount: $1,001 - $15,000
-    asset_description: Access National Corporation
-    asset_type: Stock
-    comment: Middleburg Financial Corp merged with Access National Bank in a stock
-      for stock exchange
-    owner: Self
-    ticker: <a href="https://finance.yahoo.com/q?s=ANCX" target="_blank">ANCX</a>
-    transaction_date: 04/04/2017
-    type: Exchange
-  - amount: $1,001 - $15,000
-    asset_description: MBRG - Middleberg Financial corp
-    asset_type: Stock
-    comment: Middleburg Financial Corp merged with Access National Bank in a stock
-      for stock exchange
-    owner: Self
-    ticker: --
-    transaction_date: 04/04/2017
-    type: Exchange
-- bioguide: C001047
-  date_recieved: 10/06/2017
-  first_name: Shelley M
-  last_name: Capito
-  office: Capito, Shelley Moore (Senator)
   ptr_link: https://efdsearch.senate.gov/search/view/ptr/2697b867-b20d-47be-98d3-a8d19339b36d/
   transactions:
   - amount: $1,001 - $15,000
@@ -414,3 +389,28 @@
     ticker: --
     transaction_date: 09/05/2017
     type: Purchase
+- bioguide: C001047
+  date_recieved: 10/06/2017
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8ecb444e-a54c-47a1-8db4-f4b05ac70b9d/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Access National Corporation
+    asset_type: Stock
+    comment: Middleburg Financial Corp merged with Access National Bank in a stock
+      for stock exchange
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=ANCX" target="_blank">ANCX</a>
+    transaction_date: 04/04/2017
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: MBRG - Middleberg Financial corp
+    asset_type: Stock
+    comment: Middleburg Financial Corp merged with Access National Bank in a stock
+      for stock exchange
+    owner: Self
+    ticker: --
+    transaction_date: 04/04/2017
+    type: Exchange

@@ -1,17 +1,3 @@
-- bioguide: C000567
-  date_recieved: 06/17/2013
-  first_name: THAD
-  last_name: COCHRAN
-  office: Senator
-  ptr_link: https://efdsearch.senate.gov/search/view/paper/68B1AA11-DB11-4C04-9572-92880AD0E968/
-  transactions: []
-- bioguide: C000567
-  date_recieved: 06/17/2013
-  first_name: THAD
-  last_name: COCHRAN
-  office: Senator
-  ptr_link: https://efdsearch.senate.gov/search/view/paper/00756B59-F9EE-48D0-B0C8-288C71EF6B6B/
-  transactions: []
 - bioguide: W000805
   date_recieved: 06/17/2013
   first_name: MARK R

@@ -3,43 +3,12 @@
   first_name: RICHARD M
   last_name: BURR
   office: Senator
-  ptr_link: https://efdsearch.senate.gov/search/view/paper/39c78342-f5e4-47eb-83fd-2e101e8c1724/
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/0a9a1209-6dc7-499b-be11-847b557c833d/
   transactions: []
 - bioguide: B001135
   date_recieved: 10/16/2018
   first_name: RICHARD M
   last_name: BURR
   office: Senator
-  ptr_link: https://efdsearch.senate.gov/search/view/paper/0a9a1209-6dc7-499b-be11-847b557c833d/
+  ptr_link: https://efdsearch.senate.gov/search/view/paper/39c78342-f5e4-47eb-83fd-2e101e8c1724/
   transactions: []
-- bioguide: T000461
-  date_recieved: 10/16/2018
-  first_name: Patrick J
-  last_name: Toomey
-  office: Toomey, Pat (Senator)
-  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f76f4a51-a0f6-458c-a0f0-20f0f664cd9c/
-  transactions:
-  - amount: $15,001 - $50,000
-    asset_description: IberiaBank Corp. (NASDAQ)
-    asset_type: Stock
-    comment: Name change - Old Florida Bank became IberiaBank Corp. due to acquisition
-    owner: Self
-    ticker: <a href="https://finance.yahoo.com/q?s=IBKC" target="_blank">IBKC</a>
-    transaction_date: 05/07/2015
-    type: Sale (Full)
-  - amount: $15,001 - $50,000
-    asset_description: IberiaBank Corp. (NASDAQ)
-    asset_type: Stock
-    comment: Name change - Old Florida Bank became IberiaBank Corp. due to acquisition
-    owner: Self
-    ticker: <a href="https://finance.yahoo.com/q?s=IBKC" target="_blank">IBKC</a>
-    transaction_date: 05/06/2015
-    type: Sale (Partial)
-  - amount: $15,001 - $50,000
-    asset_description: The Procter &amp; Gamble Company (NYSE)
-    asset_type: Stock
-    comment: --
-    owner: Joint
-    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
-    transaction_date: 04/27/2015
-    type: Purchase
