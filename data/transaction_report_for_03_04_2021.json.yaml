@@ -1,0 +1,17 @@
+- bioguide: C001088
+  date_recieved: 03/04/2021
+  first_name: Christopher A
+  last_name: Coons
+  office: Coons, Chris (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b65c1aeb-1831-4da3-ae45-eddb7a270abe/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: W.L. Gore &amp; Associates, Inc. <div class="text-muted"> <em>Company:</em>
+      W.L. Gore &amp; Associates, Inc. &nbsp;(Newark, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Advanced
+      materials manufacturing</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/01/2021
+    type: Sale (Partial)

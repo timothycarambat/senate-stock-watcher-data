@@ -1,0 +1,16 @@
+- bioguide: W000802
+  date_recieved: 01/25/2021
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b960f3a6-2f53-4273-bae6-b61e983e6d60/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: XEROX CORP <div class="text-muted"><em>Rate/Coupon:</em> 4.5%<br>
+      <em>Matures:</em> 05/15/2021</div>
+    asset_type: Corporate Bond
+    comment: Redemption of Called Bond
+    owner: Joint
+    ticker: --
+    transaction_date: 12/30/2020
+    type: Sale (Full)

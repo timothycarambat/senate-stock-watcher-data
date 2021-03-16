@@ -1,0 +1,215 @@
+- bioguide: C000174
+  date_recieved: 02/01/2021
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ae5e8414-35c1-44f7-9549-700e9453a96a/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: ACAP Strategic Fund
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XCAPX" target="_blank">XCAPX</a>
+    transaction_date: 01/29/2021
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 01/27/2021
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pembina Pipeline Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PBA" target="_blank">PBA</a>
+    transaction_date: 01/26/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Algonquin Power &amp; Utilities Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AQN" target="_blank">AQN</a>
+    transaction_date: 01/26/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Viavi Solutions Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VIAV" target="_blank">VIAV</a>
+    transaction_date: 01/25/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: EVO Payments, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EVOP" target="_blank">EVOP</a>
+    transaction_date: 01/25/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hartford Multifactor Developed Markets (ex-US) ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RODM" target="_blank">RODM</a>
+    transaction_date: 01/13/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Fidelity Advisor International Capital Appreciatio
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FCPIX" target="_blank">FCPIX</a>
+    transaction_date: 01/13/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Hartford Multifactor Developed Markets (ex-US) ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RODM" target="_blank">RODM</a>
+    transaction_date: 01/13/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Fidelity Advisor International Capital Appreciatio
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FCPIX" target="_blank">FCPIX</a>
+    transaction_date: 01/13/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Datadog, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DDOG" target="_blank">DDOG</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Conagra Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CAG" target="_blank">CAG</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Aerojet Rocketdyne Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AJRD" target="_blank">AJRD</a>
+    transaction_date: 01/08/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/04/2021
+    type: Purchase

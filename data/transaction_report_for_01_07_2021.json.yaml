@@ -1,0 +1,79 @@
+- bioguide: C000174
+  date_recieved: 01/07/2021
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0c7816ca-9df7-4ed1-af40-4590dd17209f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 12/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pembina Pipeline Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PBA" target="_blank">PBA</a>
+    transaction_date: 12/30/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 12/30/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Dow Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DOW" target="_blank">DOW</a>
+    transaction_date: 12/30/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Viatris Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VTRS" target="_blank">VTRS</a>
+    transaction_date: 12/30/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NetApp, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NTAP" target="_blank">NTAP</a>
+    transaction_date: 12/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ALPS Medical Breakthroughs ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBIO" target="_blank">SBIO</a>
+    transaction_date: 12/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 12/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Goldman Sachs Small/Mid Cap Growth Fund Institutio
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GSMYX" target="_blank">GSMYX</a>
+    transaction_date: 12/15/2020
+    type: Purchase

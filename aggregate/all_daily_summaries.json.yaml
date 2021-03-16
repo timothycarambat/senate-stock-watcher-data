@@ -1,3 +1,1392 @@
+- bioguide: C001035
+  date_recieved: 03/10/2021
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/32550a8f-923e-416f-84f3-e19ab4f148b1/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: LII - Lennox International Inc. 526107AF4 <div class="text-muted"><em>Rate/Coupon:</em>
+      1.700%<br> <em>Matures:</em> 08/01/27</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/11/2021
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: CTXS - Citrix Systems, Inc. 177376AG5 <div class="text-muted"><em>Rate/Coupon:</em>
+      1.250%<br> <em>Matures:</em> 03/01/26</div>
+    asset_type: Corporate Bond
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 02/09/2021
+    type: Purchase
+- bioguide: W000805
+  date_recieved: 03/10/2021
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/39693df5-619c-4640-ab14-d54f0786ba3a/
+  transactions:
+  - amount: $100,001 - $250,000
+    asset_description: Empire Petroleum Partners LLC <div class="text-muted"> <em>Company:</em>
+      Empire Petroleum Partners LLC &nbsp;(Gaithersburg, MD) </div> <div class="text-muted"><em>Description:</em>&nbsp;Energy
+      Company</div>
+    asset_type: Other Securities
+    comment: Underlying asset of Sachs Capital - Empire B, LLC
+    owner: Self
+    ticker: --
+    transaction_date: 02/05/2021
+    type: Sale (Partial)
+- bioguide: T000461
+  date_recieved: 03/09/2021
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b5a212bb-ad2c-48e4-9d21-db8d13f8ee78/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Penn National Gaming, Inc.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=PENN" target="_blank">PENN</a>
+    transaction_date: 02/09/2021
+    type: Purchase
+- bioguide: C001088
+  date_recieved: 03/04/2021
+  first_name: Christopher A
+  last_name: Coons
+  office: Coons, Chris (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b65c1aeb-1831-4da3-ae45-eddb7a270abe/
+  transactions:
+  - amount: $250,001 - $500,000
+    asset_description: W.L. Gore &amp; Associates, Inc. <div class="text-muted"> <em>Company:</em>
+      W.L. Gore &amp; Associates, Inc. &nbsp;(Newark, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Advanced
+      materials manufacturing</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 03/01/2021
+    type: Sale (Partial)
+- bioguide: C000174
+  date_recieved: 03/03/2021
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/32f5972d-f18a-4bd7-be67-4a856a5b9ff7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc. (Exchanged) <br> International Flavors
+      &amp; Fragrances Inc. (Received)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=IFF" target="_blank">IFF</a>
+    transaction_date: 02/05/2021
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 02/16/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Goldman Sachs Emerging Markets Equity Fund Institu
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GEMIX" target="_blank">GEMIX</a>
+    transaction_date: 02/12/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gold and GemStone Mining Inc.
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GGSM" target="_blank">GGSM</a>
+    transaction_date: 02/12/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: First Trust Emerging Markets Small Cap AlphaDEX Fu
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FEMS" target="_blank">FEMS</a>
+    transaction_date: 02/12/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Goldman Sachs Emerging Markets Equity Fund Institu
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GEMIX" target="_blank">GEMIX</a>
+    transaction_date: 02/12/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: iShares MSCI Emerging Markets ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EEM" target="_blank">EEM</a>
+    transaction_date: 02/12/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Fidelity Advisor Focused Emerging Markets Fund Cla
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FIMKX" target="_blank">FIMKX</a>
+    transaction_date: 02/12/2021
+    type: Purchase
+- bioguide: H000601
+  date_recieved: 02/24/2021
+  first_name: William F
+  last_name: Hagerty, IV
+  office: Hagerty, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/331fc417-1f96-4a2e-a164-b15fc2493281/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: HC 17th and Grand Partners, LP <div class="text-muted"> <em>Company:</em>
+      HC 17th and Grand Partners, LP &nbsp;(Wilmington, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Limited
+      Partnership for the purpose of acquiring, developing and selling commercial
+      real estate</div>
+    asset_type: Other Securities
+    comment: Asset held by Christine B. Hagerty Irrevocable Trust
+    owner: Child
+    ticker: --
+    transaction_date: 01/11/2021
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: HC 17th and Grand Partners, LP <div class="text-muted"> <em>Company:</em>
+      HC 17th and Grand Partners, LP &nbsp;(Wilmington, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Limited
+      Partnership for the purpose of acquiring, developing and selling commercial
+      real estate</div>
+    asset_type: Other Securities
+    comment: Asset held by Tara E. Hagerty Irrevocable Trust
+    owner: Child
+    ticker: --
+    transaction_date: 01/11/2021
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: HC 17th and Grand Partners, LP <div class="text-muted"> <em>Company:</em>
+      HC 17th and Grand Partners, LP &nbsp;(Wilmington, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Limited
+      Partnership for the purpose of acquiring, developing and selling commercial
+      real estate</div>
+    asset_type: Other Securities
+    comment: Asset held by Stephen L. Hagerty Irrevocable Trust
+    owner: Child
+    ticker: --
+    transaction_date: 01/11/2021
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: HC 17th and Grand Partners, LP <div class="text-muted"> <em>Company:</em>
+      HC 17th and Grand Partners, LP &nbsp;(Wilmington, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Limited
+      Partnership for purpose of acquiring, developing and selling commercial real
+      estate</div>
+    asset_type: Other Securities
+    comment: Asset held by William F. Hagerty V Irrevocable Trust
+    owner: Child
+    ticker: --
+    transaction_date: 01/11/2021
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: HC 17th and Grand Partners, LP <div class="text-muted"> <em>Company:</em>
+      HC 17th and Grand Partners, LP &nbsp;(Wilmington, DE) </div> <div class="text-muted"><em>Description:</em>&nbsp;Limited
+      Partnership for purpose of acquiring, developing and selling commercial real
+      estate</div>
+    asset_type: Other Securities
+    comment: Asset held by Roundstone Ventures, LLC
+    owner: Self
+    ticker: --
+    transaction_date: 01/11/2021
+    type: Purchase
+- bioguide: H000601
+  date_recieved: 02/19/2021
+  first_name: William F
+  last_name: Hagerty, IV
+  office: Hagerty, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/823ec2b1-9e0c-4b13-bf35-81722c1a083c/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Qwest Corp. NT 7% 2056
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CTAA" target="_blank">CTAA</a>
+    transaction_date: 02/16/2021
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Editas Medicine, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/19/2021
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Lemonade, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LMND" target="_blank">LMND</a>
+    transaction_date: 01/08/2021
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Vroom, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/26/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Vroom, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VRM" target="_blank">VRM</a>
+    transaction_date: 01/08/2021
+    type: Purchase
+- bioguide: H000273
+  date_recieved: 02/19/2021
+  first_name: John W
+  last_name: Hickenlooper
+  office: Hickenlooper, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f8e43fad-614c-4bc7-b13c-8e075c40869d/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Liberty Media Acquisition Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LMACU" target="_blank">LMACU</a>
+    transaction_date: 01/22/2021
+    type: Purchase
+- bioguide: W000779
+  date_recieved: 02/18/2021
+  first_name: Ron L
+  last_name: Wyden
+  office: Wyden, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a0a26d20-b140-444b-b562-9d73de4c6bd9/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/20/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/20/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/20/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: KLA Corporation
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=KLAC" target="_blank">KLAC</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: KLA Corporation
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=KLAC" target="_blank">KLAC</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: KLA Corporation
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=KLAC" target="_blank">KLAC</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+- bioguide: M000934
+  date_recieved: 02/08/2021
+  first_name: Jerry
+  last_name: 'Moran,  '
+  office: Moran, Jerry (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7b095739-bb31-4b09-965f-5ac00e2c1321/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 01/27/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 01/27/2021
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 02/08/2021
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7d15a774-58c7-45bf-889a-ff2b0aff5cc6/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: GameStop Corp.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GME" target="_blank">GME</a>
+    transaction_date: 01/28/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Shopify Inc.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=SHOP" target="_blank">SHOP</a>
+    transaction_date: 01/27/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: GameStop Corp.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GME" target="_blank">GME</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 01/27/2021
+    type: Sale (Full)
+- bioguide: P000595
+  date_recieved: 02/02/2021
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cf66f482-baa0-409c-abdd-b9cfcbb5fd4e/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: STAG Industrial, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=STAG" target="_blank">STAG</a>
+    transaction_date: 01/15/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Electric Power Company, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AEP" target="_blank">AEP</a>
+    transaction_date: 01/15/2021
+    type: Purchase
+- bioguide: C000174
+  date_recieved: 02/01/2021
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/ae5e8414-35c1-44f7-9549-700e9453a96a/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: ACAP Strategic Fund
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XCAPX" target="_blank">XCAPX</a>
+    transaction_date: 01/29/2021
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 01/27/2021
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Pembina Pipeline Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PBA" target="_blank">PBA</a>
+    transaction_date: 01/26/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Algonquin Power &amp; Utilities Corp.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AQN" target="_blank">AQN</a>
+    transaction_date: 01/26/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Viavi Solutions Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VIAV" target="_blank">VIAV</a>
+    transaction_date: 01/25/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: EVO Payments, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EVOP" target="_blank">EVOP</a>
+    transaction_date: 01/25/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Hartford Multifactor Developed Markets (ex-US) ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RODM" target="_blank">RODM</a>
+    transaction_date: 01/13/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Fidelity Advisor International Capital Appreciatio
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FCPIX" target="_blank">FCPIX</a>
+    transaction_date: 01/13/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Hartford Multifactor Developed Markets (ex-US) ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=RODM" target="_blank">RODM</a>
+    transaction_date: 01/13/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Fidelity Advisor International Capital Appreciatio
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FCPIX" target="_blank">FCPIX</a>
+    transaction_date: 01/13/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: FireEye, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FEYE" target="_blank">FEYE</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Datadog, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DDOG" target="_blank">DDOG</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Conagra Brands, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CAG" target="_blank">CAG</a>
+    transaction_date: 01/11/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Aerojet Rocketdyne Holdings, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AJRD" target="_blank">AJRD</a>
+    transaction_date: 01/08/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short QQQ
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSQ" target="_blank">PSQ</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ProShares Short S&amp;P500
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SH" target="_blank">SH</a>
+    transaction_date: 01/04/2021
+    type: Purchase
+- bioguide: W000802
+  date_recieved: 01/25/2021
+  first_name: Sheldon
+  last_name: Whitehouse
+  office: Whitehouse, Sheldon (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b960f3a6-2f53-4273-bae6-b61e983e6d60/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: XEROX CORP <div class="text-muted"><em>Rate/Coupon:</em> 4.5%<br>
+      <em>Matures:</em> 05/15/2021</div>
+    asset_type: Corporate Bond
+    comment: Redemption of Called Bond
+    owner: Joint
+    ticker: --
+    transaction_date: 12/30/2020
+    type: Sale (Full)
+- bioguide: I000024
+  date_recieved: 01/15/2021
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/81de3681-e5ac-4205-896a-07512dbac921/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: CRISPR Therapeutics AG
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CRSP" target="_blank">CRSP</a>
+    transaction_date: 01/05/2021
+    type: Sale (Partial)
+- bioguide: W000805
+  date_recieved: 01/13/2021
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7269bd5f-a8b1-43ea-9f8b-5d0bb4cfde73/
+  transactions:
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Trilogy Multifamily Fund IV, L.P. <div class="text-muted">
+      <em>Company:</em> Trilogy Multifamily Fund IV, L.P. &nbsp;(Chicago, IL) </div>
+      <div class="text-muted"><em>Description:</em>&nbsp;Private Equity</div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/07/2020
+    type: Purchase
+- bioguide: C001047
+  date_recieved: 01/12/2021
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5a42cbe1-4c6a-48f6-a2e1-f3652f50340a/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: UnitedHealth Group Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UNH" target="_blank">UNH</a>
+    transaction_date: 12/31/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Phillips 66
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSX" target="_blank">PSX</a>
+    transaction_date: 12/31/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Tower Corporation (REIT)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMT" target="_blank">AMT</a>
+    transaction_date: 12/31/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Sysco Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SYY" target="_blank">SYY</a>
+    transaction_date: 12/31/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Polaris Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PII" target="_blank">PII</a>
+    transaction_date: 12/31/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Otis Worldwide Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=OTIS" target="_blank">OTIS</a>
+    transaction_date: 12/31/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 12/31/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Clorox Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CLX" target="_blank">CLX</a>
+    transaction_date: 12/31/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Carrier Global Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CARR" target="_blank">CARR</a>
+    transaction_date: 12/31/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 12/15/2020
+    type: Sale (Full)
+- bioguide: C001035
+  date_recieved: 01/12/2021
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2f96648f-acf8-4f28-9e05-ad1d6ebac36d/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Dunkin' Brands Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DNKN" target="_blank">DNKN</a>
+    transaction_date: 12/16/2020
+    type: Sale (Full)
+- bioguide: S001217
+  date_recieved: 01/12/2021
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/fe83be59-4d6a-4ade-8163-a12b214d71ab/
+  transactions:
+  - amount: $500,001 - $1,000,000
+    asset_description: Wisconsin State General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 05/01/2023</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/17/2020
+    type: Purchase
+- bioguide: C000174
+  date_recieved: 01/07/2021
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/0c7816ca-9df7-4ed1-af40-4590dd17209f/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 12/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Pembina Pipeline Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PBA" target="_blank">PBA</a>
+    transaction_date: 12/30/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>
+    transaction_date: 12/30/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Dow Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DOW" target="_blank">DOW</a>
+    transaction_date: 12/30/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Viatris Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=VTRS" target="_blank">VTRS</a>
+    transaction_date: 12/30/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: NetApp, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NTAP" target="_blank">NTAP</a>
+    transaction_date: 12/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: ALPS Medical Breakthroughs ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBIO" target="_blank">SBIO</a>
+    transaction_date: 12/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Bristol-Myers Squibb Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BMY" target="_blank">BMY</a>
+    transaction_date: 12/30/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Goldman Sachs Small/Mid Cap Growth Fund Institutio
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GSMYX" target="_blank">GSMYX</a>
+    transaction_date: 12/15/2020
+    type: Purchase
+- bioguide: P000595
+  date_recieved: 01/05/2021
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e405f3e2-7f99-4124-a457-14dcb85a9532/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: American Electric Power Company, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AEP" target="_blank">AEP</a>
+    transaction_date: 12/14/2020
+    type: Purchase
+- bioguide: R000307
+  date_recieved: 12/31/2020
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/70614aca-cf77-4a70-b0c8-245a097a7350/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 12/22/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Plug Power Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PLUG" target="_blank">PLUG</a>
+    transaction_date: 12/22/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Square, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SQ" target="_blank">SQ</a>
+    transaction_date: 12/22/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 12/21/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 12/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: eXp World Holdings, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EXPI" target="_blank">EXPI</a>
+    transaction_date: 12/21/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Eaton Vance Tax-Managed Diversified Equity Income
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ETY" target="_blank">ETY</a>
+    transaction_date: 12/21/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Wayfair Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=W" target="_blank">W</a>
+    transaction_date: 12/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 12/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 12/11/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 12/07/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 12/07/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 12/04/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 12/22/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 12/22/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 12/16/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Zoom Video Communications, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ZM" target="_blank">ZM</a>
+    transaction_date: 12/02/2020
+    type: Purchase
+- bioguide: T000461
+  date_recieved: 12/29/2020
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e7497c89-fd35-45a2-9293-9a2ba89acff6/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Apartment Investment and Management Company (Exchanged) <br>
+      Apartment Income REIT Corp. (Received)
+    asset_type: Stock
+    comment: Exchange of stock due to partial corporate spin-off and renaming.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AIV" target="_blank">AIV</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=AIRC" target="_blank">AIRC</a>
+    transaction_date: 12/15/2020
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Neurotrope, Inc. (Exchanged) <br> Synaptogenix (Received)
+    asset_type: Stock
+    comment: Exchange of stock due to corporate spin-off of the legacy assets and
+      liabilities of NTRP not merged into PTPI.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NTRP" target="_blank">NTRP</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=SNPX" target="_blank">SNPX</a>
+    transaction_date: 12/08/2020
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Neurotrope, Inc. (Exchanged) <br> Petros Pharmaceuticals, Inc.
+      (Received)
+    asset_type: Stock
+    comment: Exchange of stock due to corporate merger.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NTRP" target="_blank">NTRP</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=PTPI" target="_blank">PTPI</a>
+    transaction_date: 12/02/2020
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Apartment Investment and Management Company
+    asset_type: Stock
+    comment: Shares acquired through special dividend issued by AIV in the form of
+      stock.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AIV" target="_blank">AIV</a>
+    transaction_date: 11/30/2020
+    type: Purchase
+- bioguide: I000024
+  date_recieved: 12/23/2020
+  first_name: James M
+  last_name: Inhofe
+  office: Inhofe, James M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/718cad12-9007-40fc-adc8-ee044397186b/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: CRISPR Therapeutics AG
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CRSP" target="_blank">CRSP</a>
+    transaction_date: 12/22/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: BlackRock, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=BLK" target="_blank">BLK</a>
+    transaction_date: 12/15/2020
+    type: Sale (Partial)
+- bioguide: S001217
+  date_recieved: 12/21/2020
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c3050c14-89e4-4775-8e61-8031d2139cfa/
+  transactions:
+  - amount: $500,001 - $1,000,000
+    asset_description: Tampa Florida Solid Waste System Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2021</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/24/2020
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Tampa Florida Solid Waste System Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2021</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/24/2020
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: Tampa Florida Solid Waste System Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2021</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/24/2020
+    type: Purchase
+- bioguide: R000608
+  date_recieved: 12/10/2020
+  first_name: Jacklyn S
+  last_name: Rosen
+  office: Rosen, Jacky (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3152e433-26a5-4926-80af-3bb78ea21833/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc. (Exchanged) <br> Viatris Inc. (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=VTRS" target="_blank">VTRS</a>
+    transaction_date: 11/17/2020
+    type: Exchange
+- bioguide: W000805
+  date_recieved: 12/09/2020
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8a358a66-5b4a-45b3-80af-97cfb2256d97/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Acumen Pharmaceuticals, Inc. <div class="text-muted"> <em>Company:</em>
+      Acumen Pharmaceuticals, Inc. &nbsp;(South San Francisco, CA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Drug
+      Discovery</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,000,001 - $5,000,000
+    asset_description: EB 480 Sprague, LLC <div class="text-muted"> <em>Company:</em>
+      EB 480 Sprague, LLC &nbsp;(Dedham, MA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Real
+      Estate</div>
+    asset_type: Other Securities
+    comment: Underlying asset of Echo Bridge Realty Fund, I L.P.
+    owner: Self
+    ticker: --
+    transaction_date: 11/16/2020
+    type: Sale (Full)
+- bioguide: C001075
+  date_recieved: 12/08/2020
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/809e5655-0208-4723-a0d6-1a47d81dd3e2/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Walmart Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: United Parcel Service, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UPS" target="_blank">UPS</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Prologis, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PLD" target="_blank">PLD</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Medtronic plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MDT" target="_blank">MDT</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Lowe's Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LOW" target="_blank">LOW</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Dow Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DOW" target="_blank">DOW</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Comcast Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CMCSA" target="_blank">CMCSA</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BlackRock, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BLK" target="_blank">BLK</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+- bioguide: M000357
+  date_recieved: 12/07/2020
+  first_name: A. Mitchell
+  last_name: McConnell, Jr.
+  office: McConnell, A. Mitchell Jr. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/dba1fc54-346e-48f1-b96c-62bc43cdd8a1/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: Dividend Reinvestment
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 12/03/2020
+    type: Purchase
 - bioguide: W000779
   date_recieved: 12/04/2020
   first_name: Ron L
@@ -19956,7 +21345,7 @@
   office: Senator
   ptr_link: https://efdsearch.senate.gov/search/view/paper/df5cc344-2da5-471d-9470-be7ecc4d742f/
   transactions: []
-- bioguide: U000039
+- bioguide: U000002
   date_recieved: 04/18/2019
   first_name: Thomas
   last_name: Udall
@@ -23196,7 +24585,7 @@
     ticker: <a href="https://finance.yahoo.com/q?s=BX" target="_blank">BX</a>
     transaction_date: 12/27/2018
     type: Purchase
-- bioguide: U000039
+- bioguide: U000002
   date_recieved: 01/10/2019
   first_name: Thomas
   last_name: Udall

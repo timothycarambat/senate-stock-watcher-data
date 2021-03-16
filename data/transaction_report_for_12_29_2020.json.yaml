@@ -1,0 +1,46 @@
+- bioguide: T000461
+  date_recieved: 12/29/2020
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e7497c89-fd35-45a2-9293-9a2ba89acff6/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Apartment Investment and Management Company (Exchanged) <br>
+      Apartment Income REIT Corp. (Received)
+    asset_type: Stock
+    comment: Exchange of stock due to partial corporate spin-off and renaming.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AIV" target="_blank">AIV</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=AIRC" target="_blank">AIRC</a>
+    transaction_date: 12/15/2020
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Neurotrope, Inc. (Exchanged) <br> Synaptogenix (Received)
+    asset_type: Stock
+    comment: Exchange of stock due to corporate spin-off of the legacy assets and
+      liabilities of NTRP not merged into PTPI.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NTRP" target="_blank">NTRP</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=SNPX" target="_blank">SNPX</a>
+    transaction_date: 12/08/2020
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Neurotrope, Inc. (Exchanged) <br> Petros Pharmaceuticals, Inc.
+      (Received)
+    asset_type: Stock
+    comment: Exchange of stock due to corporate merger.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=NTRP" target="_blank">NTRP</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=PTPI" target="_blank">PTPI</a>
+    transaction_date: 12/02/2020
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Apartment Investment and Management Company
+    asset_type: Stock
+    comment: Shares acquired through special dividend issued by AIV in the form of
+      stock.
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AIV" target="_blank">AIV</a>
+    transaction_date: 11/30/2020
+    type: Purchase

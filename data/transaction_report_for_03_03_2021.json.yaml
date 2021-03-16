@@ -1,0 +1,73 @@
+- bioguide: C000174
+  date_recieved: 03/03/2021
+  first_name: Thomas R
+  last_name: Carper
+  office: Carper, Thomas R. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/32f5972d-f18a-4bd7-be67-4a856a5b9ff7/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: DuPont de Nemours, Inc. (Exchanged) <br> International Flavors
+      &amp; Fragrances Inc. (Received)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DD" target="_blank">DD</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=IFF" target="_blank">IFF</a>
+    transaction_date: 02/05/2021
+    type: Exchange
+  - amount: $1,001 - $15,000
+    asset_description: Intel Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=INTC" target="_blank">INTC</a>
+    transaction_date: 02/16/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Goldman Sachs Emerging Markets Equity Fund Institu
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GEMIX" target="_blank">GEMIX</a>
+    transaction_date: 02/12/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Gold and GemStone Mining Inc.
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GGSM" target="_blank">GGSM</a>
+    transaction_date: 02/12/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: First Trust Emerging Markets Small Cap AlphaDEX Fu
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FEMS" target="_blank">FEMS</a>
+    transaction_date: 02/12/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Goldman Sachs Emerging Markets Equity Fund Institu
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=GEMIX" target="_blank">GEMIX</a>
+    transaction_date: 02/12/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: iShares MSCI Emerging Markets ETF
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EEM" target="_blank">EEM</a>
+    transaction_date: 02/12/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Fidelity Advisor Focused Emerging Markets Fund Cla
+    asset_type: Other Securities
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=FIMKX" target="_blank">FIMKX</a>
+    transaction_date: 02/12/2021
+    type: Purchase

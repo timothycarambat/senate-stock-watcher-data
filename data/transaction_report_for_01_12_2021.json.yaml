@@ -1,0 +1,118 @@
+- bioguide: C001047
+  date_recieved: 01/12/2021
+  first_name: Shelley M
+  last_name: Capito
+  office: Capito, Shelley Moore (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/5a42cbe1-4c6a-48f6-a2e1-f3652f50340a/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: UnitedHealth Group Incorporated
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UNH" target="_blank">UNH</a>
+    transaction_date: 12/31/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Phillips 66
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PSX" target="_blank">PSX</a>
+    transaction_date: 12/31/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Tower Corporation (REIT)
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMT" target="_blank">AMT</a>
+    transaction_date: 12/31/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Sysco Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SYY" target="_blank">SYY</a>
+    transaction_date: 12/31/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Polaris Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PII" target="_blank">PII</a>
+    transaction_date: 12/31/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Otis Worldwide Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=OTIS" target="_blank">OTIS</a>
+    transaction_date: 12/31/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Exxon Mobil Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=XOM" target="_blank">XOM</a>
+    transaction_date: 12/31/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Clorox Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CLX" target="_blank">CLX</a>
+    transaction_date: 12/31/2020
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Carrier Global Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CARR" target="_blank">CARR</a>
+    transaction_date: 12/31/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Wells Fargo &amp; Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WFC" target="_blank">WFC</a>
+    transaction_date: 12/15/2020
+    type: Sale (Full)
+- bioguide: C001035
+  date_recieved: 01/12/2021
+  first_name: Susan M
+  last_name: Collins
+  office: Collins, Susan M. (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/2f96648f-acf8-4f28-9e05-ad1d6ebac36d/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Dunkin' Brands Group, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DNKN" target="_blank">DNKN</a>
+    transaction_date: 12/16/2020
+    type: Sale (Full)
+- bioguide: S001217
+  date_recieved: 01/12/2021
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/fe83be59-4d6a-4ade-8163-a12b214d71ab/
+  transactions:
+  - amount: $500,001 - $1,000,000
+    asset_description: Wisconsin State General Obligation Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 05/01/2023</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 12/17/2020
+    type: Purchase

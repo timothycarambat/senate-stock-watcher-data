@@ -1,0 +1,15 @@
+- bioguide: P000595
+  date_recieved: 01/05/2021
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/e405f3e2-7f99-4124-a457-14dcb85a9532/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: American Electric Power Company, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AEP" target="_blank">AEP</a>
+    transaction_date: 12/14/2020
+    type: Purchase

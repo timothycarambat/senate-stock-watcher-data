@@ -1,0 +1,15 @@
+- bioguide: T000461
+  date_recieved: 03/09/2021
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/b5a212bb-ad2c-48e4-9d21-db8d13f8ee78/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Penn National Gaming, Inc.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=PENN" target="_blank">PENN</a>
+    transaction_date: 02/09/2021
+    type: Purchase

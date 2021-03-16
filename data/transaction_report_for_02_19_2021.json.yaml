@@ -1,0 +1,62 @@
+- bioguide: H000601
+  date_recieved: 02/19/2021
+  first_name: William F
+  last_name: Hagerty, IV
+  office: Hagerty, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/823ec2b1-9e0c-4b13-bf35-81722c1a083c/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: Qwest Corp. NT 7% 2056
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=CTAA" target="_blank">CTAA</a>
+    transaction_date: 02/16/2021
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Editas Medicine, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/19/2021
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Lemonade, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=LMND" target="_blank">LMND</a>
+    transaction_date: 01/08/2021
+    type: Sale (Partial)
+  - amount: $1,001 - $15,000
+    asset_description: Vroom, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 01/26/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Vroom, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=VRM" target="_blank">VRM</a>
+    transaction_date: 01/08/2021
+    type: Purchase
+- bioguide: H000273
+  date_recieved: 02/19/2021
+  first_name: John W
+  last_name: Hickenlooper
+  office: Hickenlooper, John (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/f8e43fad-614c-4bc7-b13c-8e075c40869d/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Liberty Media Acquisition Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LMACU" target="_blank">LMACU</a>
+    transaction_date: 01/22/2021
+    type: Purchase

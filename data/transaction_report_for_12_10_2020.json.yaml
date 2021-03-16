@@ -1,0 +1,16 @@
+- bioguide: R000608
+  date_recieved: 12/10/2020
+  first_name: Jacklyn S
+  last_name: Rosen
+  office: Rosen, Jacky (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/3152e433-26a5-4926-80af-3bb78ea21833/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Pfizer Inc. (Exchanged) <br> Viatris Inc. (Received)
+    asset_type: Stock
+    comment: --
+    owner: Joint
+    ticker: <a href="https://finance.yahoo.com/q?s=PFE" target="_blank">PFE</a>                                                                                                                            <br>                                            <a
+      href="https://finance.yahoo.com/q?s=VTRS" target="_blank">VTRS</a>
+    transaction_date: 11/17/2020
+    type: Exchange

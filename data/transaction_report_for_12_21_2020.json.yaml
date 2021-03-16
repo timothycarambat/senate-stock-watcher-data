@@ -1,0 +1,34 @@
+- bioguide: S001217
+  date_recieved: 12/21/2020
+  first_name: Rick
+  last_name: Scott
+  office: Scott, Rick (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/c3050c14-89e4-4775-8e61-8031d2139cfa/
+  transactions:
+  - amount: $500,001 - $1,000,000
+    asset_description: Tampa Florida Solid Waste System Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2021</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/24/2020
+    type: Purchase
+  - amount: $500,001 - $1,000,000
+    asset_description: Tampa Florida Solid Waste System Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2021</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/24/2020
+    type: Purchase
+  - amount: $250,001 - $500,000
+    asset_description: Tampa Florida Solid Waste System Revenue Bond <div class="text-muted"><em>Rate/Coupon:</em>
+      5.0%<br> <em>Matures:</em> 10/01/2021</div>
+    asset_type: Municipal Security
+    comment: --
+    owner: Spouse
+    ticker: --
+    transaction_date: 11/24/2020
+    type: Purchase

@@ -1,0 +1,23 @@
+- bioguide: P000595
+  date_recieved: 02/02/2021
+  first_name: Gary C
+  last_name: Peters
+  office: Peters, Gary (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/cf66f482-baa0-409c-abdd-b9cfcbb5fd4e/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: STAG Industrial, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=STAG" target="_blank">STAG</a>
+    transaction_date: 01/15/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: American Electric Power Company, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=AEP" target="_blank">AEP</a>
+    transaction_date: 01/15/2021
+    type: Purchase

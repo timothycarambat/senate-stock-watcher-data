@@ -1,0 +1,143 @@
+- bioguide: R000307
+  date_recieved: 12/31/2020
+  first_name: Pat
+  last_name: Roberts
+  office: Roberts, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/70614aca-cf77-4a70-b0c8-245a097a7350/
+  transactions:
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 12/22/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Plug Power Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PLUG" target="_blank">PLUG</a>
+    transaction_date: 12/22/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Square, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SQ" target="_blank">SQ</a>
+    transaction_date: 12/22/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 12/21/2020
+    type: Purchase
+  - amount: $50,001 - $100,000
+    asset_description: NVIDIA Corporation
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=NVDA" target="_blank">NVDA</a>
+    transaction_date: 12/21/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: eXp World Holdings, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=EXPI" target="_blank">EXPI</a>
+    transaction_date: 12/21/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Eaton Vance Tax-Managed Diversified Equity Income
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ETY" target="_blank">ETY</a>
+    transaction_date: 12/21/2020
+    type: Sale (Partial)
+  - amount: $50,001 - $100,000
+    asset_description: Wayfair Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=W" target="_blank">W</a>
+    transaction_date: 12/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 12/21/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 12/11/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 12/07/2020
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 12/07/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: The Boeing Company
+    asset_type: Stock
+    comment: R
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BA" target="_blank">BA</a>
+    transaction_date: 12/04/2020
+    type: Sale (Full)
+  - amount: $15,001 - $50,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: '555'
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 12/22/2020
+    type: Purchase
+  - amount: $15,001 - $50,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 12/22/2020
+    type: Purchase
+  - amount: $100,001 - $250,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 12/16/2020
+    type: Sale (Partial)
+  - amount: $15,001 - $50,000
+    asset_description: Zoom Video Communications, Inc.
+    asset_type: Stock
+    comment: sep
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=ZM" target="_blank">ZM</a>
+    transaction_date: 12/02/2020
+    type: Purchase

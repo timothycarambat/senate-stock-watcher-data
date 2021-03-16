@@ -1,0 +1,151 @@
+- bioguide: C001075
+  date_recieved: 12/08/2020
+  first_name: William
+  last_name: Cassidy
+  office: Cassidy, Bill (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/809e5655-0208-4723-a0d6-1a47d81dd3e2/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Walmart Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=WMT" target="_blank">WMT</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: United Parcel Service, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=UPS" target="_blank">UPS</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Starbucks Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=SBUX" target="_blank">SBUX</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Prologis, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PLD" target="_blank">PLD</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Procter &amp; Gamble Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=PG" target="_blank">PG</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: JPMorgan Chase &amp; Co.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=JPM" target="_blank">JPM</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Microsoft Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MSFT" target="_blank">MSFT</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Medtronic plc
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=MDT" target="_blank">MDT</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Lowe's Companies, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=LOW" target="_blank">LOW</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: International Business Machines Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=IBM" target="_blank">IBM</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Dow Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DOW" target="_blank">DOW</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Comcast Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CMCSA" target="_blank">CMCSA</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Cisco Systems, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CSCO" target="_blank">CSCO</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: CVS Health Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=CVS" target="_blank">CVS</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: BlackRock, Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=BLK" target="_blank">BLK</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Amgen Inc.
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=AMGN" target="_blank">AMGN</a>
+    transaction_date: 11/05/2020
+    type: Sale (Full)

@@ -1,0 +1,27 @@
+- bioguide: W000805
+  date_recieved: 12/09/2020
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/8a358a66-5b4a-45b3-80af-97cfb2256d97/
+  transactions:
+  - amount: $50,001 - $100,000
+    asset_description: Acumen Pharmaceuticals, Inc. <div class="text-muted"> <em>Company:</em>
+      Acumen Pharmaceuticals, Inc. &nbsp;(South San Francisco, CA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Drug
+      Discovery</div>
+    asset_type: Non-Public Stock
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 11/20/2020
+    type: Purchase
+  - amount: $1,000,001 - $5,000,000
+    asset_description: EB 480 Sprague, LLC <div class="text-muted"> <em>Company:</em>
+      EB 480 Sprague, LLC &nbsp;(Dedham, MA) </div> <div class="text-muted"><em>Description:</em>&nbsp;Real
+      Estate</div>
+    asset_type: Other Securities
+    comment: Underlying asset of Echo Bridge Realty Fund, I L.P.
+    owner: Self
+    ticker: --
+    transaction_date: 11/16/2020
+    type: Sale (Full)

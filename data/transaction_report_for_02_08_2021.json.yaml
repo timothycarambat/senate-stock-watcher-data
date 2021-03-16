@@ -1,0 +1,62 @@
+- bioguide: M000934
+  date_recieved: 02/08/2021
+  first_name: Jerry
+  last_name: 'Moran,  '
+  office: Moran, Jerry (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7b095739-bb31-4b09-965f-5ac00e2c1321/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Spouse
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 01/27/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Costco Wholesale Corporation
+    asset_type: Stock
+    comment: --
+    owner: Self
+    ticker: <a href="https://finance.yahoo.com/q?s=COST" target="_blank">COST</a>
+    transaction_date: 01/27/2021
+    type: Sale (Full)
+- bioguide: T000461
+  date_recieved: 02/08/2021
+  first_name: Patrick J
+  last_name: Toomey
+  office: Toomey, Pat (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7d15a774-58c7-45bf-889a-ff2b0aff5cc6/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: GameStop Corp.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GME" target="_blank">GME</a>
+    transaction_date: 01/28/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: Shopify Inc.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=SHOP" target="_blank">SHOP</a>
+    transaction_date: 01/27/2021
+    type: Sale (Full)
+  - amount: $1,001 - $15,000
+    asset_description: GameStop Corp.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=GME" target="_blank">GME</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Tesla, Inc.
+    asset_type: Stock
+    comment: 'Child #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=TSLA" target="_blank">TSLA</a>
+    transaction_date: 01/27/2021
+    type: Sale (Full)

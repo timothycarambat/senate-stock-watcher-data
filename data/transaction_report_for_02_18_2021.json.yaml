@@ -1,0 +1,103 @@
+- bioguide: W000779
+  date_recieved: 02/18/2021
+  first_name: Ron L
+  last_name: Wyden
+  office: Wyden, Ron (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/a0a26d20-b140-444b-b562-9d73de4c6bd9/
+  transactions:
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/20/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/20/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/20/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: KLA Corporation
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #3'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=KLAC" target="_blank">KLAC</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: KLA Corporation
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #2'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=KLAC" target="_blank">KLAC</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: Apple Inc.
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=AAPL" target="_blank">AAPL</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: The Walt Disney Company
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=DIS" target="_blank">DIS</a>
+    transaction_date: 01/27/2021
+    type: Purchase
+  - amount: $1,001 - $15,000
+    asset_description: KLA Corporation
+    asset_type: Stock
+    comment: 'Underlying asset of Fidelity Brokerage - Dependent #1'
+    owner: Child
+    ticker: <a href="https://finance.yahoo.com/q?s=KLAC" target="_blank">KLAC</a>
+    transaction_date: 01/27/2021
+    type: Purchase

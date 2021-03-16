@@ -1,0 +1,17 @@
+- bioguide: W000805
+  date_recieved: 01/13/2021
+  first_name: Mark R
+  last_name: Warner
+  office: Warner, Mark (Senator)
+  ptr_link: https://efdsearch.senate.gov/search/view/ptr/7269bd5f-a8b1-43ea-9f8b-5d0bb4cfde73/
+  transactions:
+  - amount: $1,000,001 - $5,000,000
+    asset_description: Trilogy Multifamily Fund IV, L.P. <div class="text-muted">
+      <em>Company:</em> Trilogy Multifamily Fund IV, L.P. &nbsp;(Chicago, IL) </div>
+      <div class="text-muted"><em>Description:</em>&nbsp;Private Equity</div>
+    asset_type: Other Securities
+    comment: --
+    owner: Self
+    ticker: --
+    transaction_date: 12/07/2020
+    type: Purchase
