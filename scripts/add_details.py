@@ -3,11 +3,11 @@
 import os, requests, json, yaml, re
 
 # Get JSON of existing members
-existing_member_req = requests.get('https://theunitedstates.io/congress-legislators/legislators-current.json')
+existing_member_req = requests.get('https://theunitedstates.io/congress-legislators/legislators-current.json', timeout=30)
 existing_members = existing_member_req.json()
 
 # Get JSON of Previous members
-prev_member_req = requests.get('https://theunitedstates.io/congress-legislators/legislators-historical.json')
+prev_member_req = requests.get('https://theunitedstates.io/congress-legislators/legislators-historical.json', timeout=30)
 prev_members = prev_member_req.json()
 
 
